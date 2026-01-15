@@ -1,0 +1,14 @@
+{
+  "name": "reddit-parser",
+  "version": "1.0.0",
+  "description": "Fast Reddit thread and comment parser",
+  "main": "reddit-parser.js",
+  "bin": {
+    "reddit-parser": "./reddit-parser.js"
+  },
+  "scripts": {
+    "start": "node reddit-parser.js"
+  },
+  "keywords": ["reddit", "parser", "scraper", "comments"],
+  "license": "MIT"
+}
