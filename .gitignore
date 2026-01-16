@@ -1,9 +1,5 @@
 node_modules/
 .env
-test.md
-test-analysis.md
-market-research.md
-quick-test.md
-research.txt
+output/
 *.log
 .DS_Store
