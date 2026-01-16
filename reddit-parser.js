@@ -15,6 +15,12 @@ const {
 } = require("./src/formatter");
 const { loadConfig, getProviderConfig, loadPrompts } = require("./src/config");
 const { runAnalysis } = require("./src/analyzer");
+const {
+  validateRedditUrl,
+  validateSubreddit,
+  log,
+  createTimer,
+} = require("./src/utils");
 
 const MAX_ITEMS = 50;
 const program = new Command();
@@ -63,6 +69,30 @@ async function main(urls, options) {
     );
     process.exit(1);
   }
+
+  // Validate URLs (Security)
+  if (hasUrls) {
+    const invalidUrls = urls.filter((url) => !validateRedditUrl(url));
+    if (invalidUrls.length > 0) {
+      console.error("Error: Invalid Reddit URL(s):");
+      invalidUrls.forEach((url) => console.error(`  - ${url}`));
+      console.error(
+        "\nExpected format: https://reddit.com/r/subreddit/comments/...",
+      );
+      process.exit(1);
+    }
+  }
+
+  // Validate subreddit name (Security)
+  if (hasSubreddit && !validateSubreddit(options.subreddit)) {
+    console.error(`Error: Invalid subreddit name: ${options.subreddit}`);
+    console.error(
+      "Subreddit names can only contain letters, numbers, and underscores.",
+    );
+    process.exit(1);
+  }
+
+  const timer = createTimer();
 
   // Fetch from URLs
   if (hasUrls) {
@@ -192,6 +222,9 @@ async function main(urls, options) {
   } else {
     console.log(output);
   }
+
+  // Performance logging (Monitor)
+  timer.log("Total execution");
 }
 
 program.parse();

@@ -7,7 +7,10 @@
     "reddit-parser": "./reddit-parser.js"
   },
   "scripts": {
-    "start": "node reddit-parser.js"
+    "start": "node reddit-parser.js",
+    "test": "node test/test.js",
+    "test:fetch": "node reddit-parser.js -s javascript --top 2 --md",
+    "test:validate": "node reddit-parser.js invalid-url || echo 'Validation working'"
   },
   "keywords": [
     "reddit",

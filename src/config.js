@@ -113,10 +113,31 @@ function getProviderConfig(config, providerName) {
 function loadPrompts(promptsPath) {
   try {
     const content = fs.readFileSync(promptsPath, "utf-8");
-    return content
-      .split("\n")
-      .map((line) => line.trim())
-      .filter((line) => line && !line.startsWith("#"));
+
+    // Split by --- delimiter for multi-line prompts
+    // If no delimiter found, treat entire file as single prompt
+    if (content.includes("\n---\n")) {
+      return content
+        .split("\n---\n")
+        .map((prompt) => prompt.trim())
+        .filter((prompt) => prompt && !prompt.startsWith("#"));
+    }
+
+    // Single prompt (entire file content, minus comment lines at start)
+    const lines = content.split("\n");
+    const nonCommentLines = [];
+    let foundContent = false;
+
+    for (const line of lines) {
+      if (!foundContent && line.trim().startsWith("#")) {
+        continue; // Skip leading comments
+      }
+      foundContent = true;
+      nonCommentLines.push(line);
+    }
+
+    const prompt = nonCommentLines.join("\n").trim();
+    return prompt ? [prompt] : [];
   } catch (err) {
     if (err.code === "ENOENT") {
       throw new Error(`Prompts file not found: ${promptsPath}`);
