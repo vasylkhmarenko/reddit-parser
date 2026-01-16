@@ -373,28 +373,32 @@ async function runWorkflowCommand(options, promptFile, extraContext = "") {
 }
 
 // Gaps command handler
-async function runGapsCommand(options) {
+async function runGapsCommand(options, cmd) {
   console.error("\n=== Market Gap Generator ===\n");
-  await runWorkflowCommand(options, "market-gaps.txt");
+  // Merge parent options (for -o which is defined on parent)
+  const mergedOptions = { ...cmd.parent.opts(), ...options };
+  await runWorkflowCommand(mergedOptions, "market-gaps.txt");
 }
 
 // Landing command handler
-async function runLandingCommand(options) {
+async function runLandingCommand(options, cmd) {
   console.error("\n=== Landing Page Prompt Generator ===\n");
-  await runWorkflowCommand(options, "landing-page.txt");
+  const mergedOptions = { ...cmd.parent.opts(), ...options };
+  await runWorkflowCommand(mergedOptions, "landing-page.txt");
 }
 
 // Marketing command handler
-async function runMarketingCommand(options) {
+async function runMarketingCommand(options, cmd) {
   console.error("\n=== Reddit Marketing Strategy Generator ===\n");
+  const mergedOptions = { ...cmd.parent.opts(), ...options };
   const extraContext = `
-Product Name: ${options.product}
-Target Subreddits: ${options.subreddits
+Product Name: ${mergedOptions.product}
+Target Subreddits: ${mergedOptions.subreddits
     .split(",")
     .map((s) => "r/" + s.trim())
     .join(", ")}
 `;
-  await runWorkflowCommand(options, "reddit-marketing.txt", extraContext);
+  await runWorkflowCommand(mergedOptions, "reddit-marketing.txt", extraContext);
 }
 
 program.parse();
