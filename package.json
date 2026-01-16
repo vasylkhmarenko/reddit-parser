@@ -1,7 +1,7 @@
 {
   "name": "reddit-parser",
-  "version": "1.0.0",
-  "description": "Fast Reddit thread and comment parser",
+  "version": "2.0.0",
+  "description": "Fast Reddit thread/subreddit parser with AI analysis",
   "main": "reddit-parser.js",
   "bin": {
     "reddit-parser": "./reddit-parser.js"
@@ -9,6 +9,22 @@
   "scripts": {
     "start": "node reddit-parser.js"
   },
-  "keywords": ["reddit", "parser", "scraper", "comments"],
-  "license": "MIT"
+  "keywords": [
+    "reddit",
+    "parser",
+    "scraper",
+    "comments",
+    "ai",
+    "analysis",
+    "claude",
+    "openai",
+    "ollama"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^12.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
 }

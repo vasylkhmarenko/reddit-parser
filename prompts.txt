@@ -1,0 +1,10 @@
+# Example prompts for Reddit analysis
+# Each non-empty, non-comment line is a separate prompt
+
+Summarize the main topics and themes discussed in these Reddit posts. What are users most interested in?
+
+What are the most common complaints, pain points, or frustrations mentioned by users?
+
+Identify any product recommendations, tool suggestions, or resources mentioned by commenters.
+
+What questions do users frequently ask that remain unanswered or poorly addressed?

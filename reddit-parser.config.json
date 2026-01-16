@@ -1,0 +1,29 @@
+{
+  "llm": {
+    "default_provider": "claude",
+    "providers": {
+      "claude": {
+        "model": "claude-sonnet-4-20250514",
+        "max_tokens": 4096
+      },
+      "openai": {
+        "model": "gpt-4o",
+        "max_tokens": 4096
+      },
+      "ollama": {
+        "model": "llama3",
+        "base_url": "http://localhost:11434"
+      }
+    }
+  },
+  "reddit": {
+    "user_agent": "RedditParser/2.0",
+    "request_delay_ms": 1000,
+    "max_retries": 3
+  },
+  "defaults": {
+    "top": 25,
+    "since": "day",
+    "sort": "hot"
+  }
+}
