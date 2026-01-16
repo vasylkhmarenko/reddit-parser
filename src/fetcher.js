@@ -3,38 +3,76 @@
  */
 
 const { parseComments, flattenComments, parsePost } = require("./parser");
+const { metrics, log, createTimer } = require("./utils");
 
 const DEFAULT_USER_AGENT = "RedditParser/2.0";
 const DEFAULT_DELAY_MS = 1000;
+const DEFAULT_TIMEOUT_MS = 30000;
 
 async function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
+// Fetch with timeout (Optimize)
+async function fetchWithTimeout(
+  url,
+  options = {},
+  timeoutMs = DEFAULT_TIMEOUT_MS,
+) {
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), timeoutMs);
+
+  try {
+    const res = await fetch(url, {
+      ...options,
+      signal: controller.signal,
+    });
+    return res;
+  } finally {
+    clearTimeout(timeout);
+  }
+}
+
 async function fetchWithRetry(url, options = {}, retries = 3) {
-  const { userAgent = DEFAULT_USER_AGENT } = options;
+  const { userAgent = DEFAULT_USER_AGENT, timeoutMs = DEFAULT_TIMEOUT_MS } =
+    options;
+  const timer = createTimer();
 
   for (let i = 0; i < retries; i++) {
     try {
-      const res = await fetch(url, {
-        headers: { "User-Agent": userAgent },
-      });
+      const res = await fetchWithTimeout(
+        url,
+        { headers: { "User-Agent": userAgent } },
+        timeoutMs,
+      );
 
       if (res.status === 429) {
         // Rate limited - wait and retry
         const waitTime = Math.pow(2, i) * 1000;
-        console.error(`Rate limited, waiting ${waitTime}ms...`);
+        log("WARN", `Rate limited, waiting ${waitTime}ms...`);
         await sleep(waitTime);
         continue;
       }
 
       if (!res.ok) {
+        metrics.recordRequest(false);
         throw new Error(`HTTP ${res.status}: ${res.statusText}`);
       }
 
+      metrics.recordRequest(true);
+      metrics.recordTiming("api", timer.elapsed());
       return res.json();
     } catch (err) {
-      if (i === retries - 1) throw err;
+      if (err.name === "AbortError") {
+        metrics.recordError(err, { url, reason: "timeout" });
+        throw new Error(`Request timed out after ${timeoutMs}ms`);
+      }
+      if (i === retries - 1) {
+        metrics.recordRequest(false);
+        metrics.recordError(err, { url, attempt: i + 1 });
+        throw err;
+      }
+      log("DEBUG", `Retry ${i + 1}/${retries} for ${url}`);
       await sleep(1000);
     }
   }

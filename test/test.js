@@ -6,8 +6,11 @@
 const {
   validateRedditUrl,
   validateSubreddit,
+  validateApiKey,
   sanitizeForLog,
+  redactSensitive,
   createTimer,
+  MetricsCollector,
 } = require("../src/utils");
 const {
   parseComments,
@@ -119,6 +122,69 @@ test("timer tracks elapsed time", () => {
   const timer = createTimer();
   const elapsed = timer.elapsed();
   assert(elapsed >= 0 && elapsed < 100);
+});
+
+// Additional Security Tests (4-secure)
+console.log("\nAdditional Security:");
+test("validates API key format for Claude", () => {
+  assert(validateApiKey("sk-ant-abc123", "claude"));
+  assert(!validateApiKey("invalid-key", "claude"));
+  assert(!validateApiKey("", "claude"));
+  assert(!validateApiKey(null, "claude"));
+});
+
+test("validates API key format for OpenAI", () => {
+  assert(validateApiKey("sk-abc123", "openai"));
+  assert(!validateApiKey("invalid", "openai"));
+});
+
+test("redacts sensitive data from text", () => {
+  const text = "Key: sk-ant-api03-abc123 and sk-openai-xyz";
+  const redacted = redactSensitive(text);
+  assert(!redacted.includes("sk-ant-"));
+  assert(!redacted.includes("sk-openai"));
+  assert(redacted.includes("[REDACTED"));
+});
+
+test("validates subreddit length limits", () => {
+  assert(!validateSubreddit("a")); // too short
+  assert(validateSubreddit("ab")); // minimum length
+  assert(validateSubreddit("a".repeat(50))); // max length
+  assert(!validateSubreddit("a".repeat(51))); // too long
+});
+
+test("handles null/undefined in validators", () => {
+  assert(!validateRedditUrl(null));
+  assert(!validateRedditUrl(undefined));
+  assert(!validateSubreddit(null));
+  assert(!validateSubreddit(undefined));
+});
+
+// Monitor Tests (8-monitor)
+console.log("\nMonitor (8-monitor):");
+test("MetricsCollector tracks requests", () => {
+  const collector = new MetricsCollector();
+  collector.recordRequest(true);
+  collector.recordRequest(true);
+  collector.recordRequest(false);
+  const summary = collector.getSummary();
+  assert(summary.requests.total === 3);
+  assert(summary.requests.success === 2);
+  assert(summary.requests.failed === 1);
+});
+
+test("MetricsCollector tracks timing", () => {
+  const collector = new MetricsCollector();
+  collector.recordTiming("api", 100);
+  collector.recordTiming("api", 200);
+  const summary = collector.getSummary();
+  assert(summary.avgApiTime === 150);
+});
+
+test("MetricsCollector records errors", () => {
+  const collector = new MetricsCollector();
+  collector.recordError(new Error("Test error"), { context: "test" });
+  assert(collector.getSummary().errorCount === 1);
 });
 
 // Summary

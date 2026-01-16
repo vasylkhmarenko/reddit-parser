@@ -19,7 +19,9 @@ const {
   validateRedditUrl,
   validateSubreddit,
   log,
+  setLogLevel,
   createTimer,
+  metrics,
 } = require("./src/utils");
 
 const MAX_ITEMS = 50;
@@ -45,9 +47,17 @@ program
   .option("--provider <name>", "LLM provider: claude, openai, ollama")
   .option("--model <name>", "Model name override")
   .option("--config <file>", "Path to config file")
+  .option("--debug", "Enable debug logging")
+  .option("--stats", "Show execution statistics at end")
   .action(main);
 
 async function main(urls, options) {
+  // Debug mode (7-debug)
+  if (options.debug) {
+    setLogLevel("DEBUG");
+    log("DEBUG", "Debug mode enabled");
+  }
+
   const config = loadConfig(options.config);
   const results = [];
   const errors = [];
@@ -225,6 +235,25 @@ async function main(urls, options) {
 
   // Performance logging (Monitor)
   timer.log("Total execution");
+
+  // Stats output (8-monitor)
+  if (options.stats) {
+    console.error("\n--- Execution Statistics ---");
+    const summary = metrics.getSummary();
+    console.error(`Total API requests: ${summary.requests.total}`);
+    console.error(`  Successful: ${summary.requests.success}`);
+    console.error(`  Failed: ${summary.requests.failed}`);
+    if (summary.avgApiTime > 0) {
+      console.error(`Avg Reddit API time: ${summary.avgApiTime}ms`);
+    }
+    if (summary.avgLlmTime > 0) {
+      console.error(`Avg LLM response time: ${summary.avgLlmTime}ms`);
+    }
+    if (summary.errorCount > 0) {
+      console.error(`Errors recorded: ${summary.errorCount}`);
+    }
+    console.error(`Total execution time: ${timer.elapsed()}ms`);
+  }
 }
 
 program.parse();

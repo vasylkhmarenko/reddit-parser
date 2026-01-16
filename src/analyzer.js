@@ -2,6 +2,16 @@
  * LLM Analysis integration - supports Claude, OpenAI, and Ollama
  */
 
+const {
+  metrics,
+  createTimer,
+  validateApiKey,
+  log,
+  redactSensitive,
+} = require("./utils");
+
+const LLM_TIMEOUT_MS = 120000; // 2 minutes for LLM calls
+
 class LLMAnalyzer {
   constructor(config) {
     this.provider = config.provider;
@@ -12,15 +22,28 @@ class LLMAnalyzer {
   }
 
   async analyze(content, prompt) {
-    switch (this.provider) {
-      case "claude":
-        return this.analyzeWithClaude(content, prompt);
-      case "openai":
-        return this.analyzeWithOpenAI(content, prompt);
-      case "ollama":
-        return this.analyzeWithOllama(content, prompt);
-      default:
-        throw new Error(`Unknown provider: ${this.provider}`);
+    const timer = createTimer();
+
+    try {
+      let result;
+      switch (this.provider) {
+        case "claude":
+          result = await this.analyzeWithClaude(content, prompt);
+          break;
+        case "openai":
+          result = await this.analyzeWithOpenAI(content, prompt);
+          break;
+        case "ollama":
+          result = await this.analyzeWithOllama(content, prompt);
+          break;
+        default:
+          throw new Error(`Unknown provider: ${this.provider}`);
+      }
+      metrics.recordTiming("llm", timer.elapsed());
+      return result;
+    } catch (err) {
+      metrics.recordError(err, { provider: this.provider, model: this.model });
+      throw err;
     }
   }
 
