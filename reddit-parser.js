@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-require("dotenv").config();
+require("dotenv").config({ quiet: true });
 const fs = require("fs");
 const { Command } = require("commander");
 const {
