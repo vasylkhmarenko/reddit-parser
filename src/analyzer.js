@@ -2,15 +2,7 @@
  * LLM Analysis integration - supports Claude, OpenAI, and Ollama
  */
 
-const {
-  metrics,
-  createTimer,
-  validateApiKey,
-  log,
-  redactSensitive,
-} = require("./utils");
-
-const LLM_TIMEOUT_MS = 120000; // 2 minutes for LLM calls
+const { metrics, createTimer } = require("./utils");
 
 class LLMAnalyzer {
   constructor(config) {

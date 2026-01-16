@@ -9,6 +9,7 @@
 ## AI Analysis
 
 ### Context
+
 I'm analyzing Reddit conversations to identify common pain points and problems within a specific market. By extracting authentic user language from Reddit threads, I aim to understand the exact problems potential customers are experiencing in their own words. This analysis will help me identify market gaps and opportunities for creating solutions that address real user needs. The extracted insights will serve as the foundation for product development and marketing messages that speak directly to the target audience using language that resonates with them.
 Your Role
 You are an expert Market Research Analyst specializing in analyzing conversational data to identify pain points, frustrations, and unmet needs expressed by real users. Your expertise is in distilling lengthy Reddit threads into clear, actionable insights while preserving the authentic language users employ to describe their problems.
@@ -66,7 +67,6 @@ Rank the pain points based on apparent importance to users
 If a potential solution is frequently mentioned or requested, note this in your analysis
 Paste your Reddit data below:
 
-
 # Add your custom prompts below (one per line)
 
 # Pain Point Analysis Summary
@@ -78,6 +78,7 @@ The manifestation community on Reddit shows several recurring patterns of strugg
 ## Problems with Technique Execution and Understanding
 
 ### Confusion About Proper Technique Implementation
+
 Users struggle to understand if they're applying manifestation techniques correctly, leading to uncertainty and technique-hopping.
 
 - "I've been trying everything but it always backfires, it always turns out opposite of what i imagined... Pls guide me sensei 🙏"
@@ -88,6 +89,7 @@ Users struggle to understand if they're applying manifestation techniques correc
 **Frequency/Intensity:** Very high frequency across all posts, with users expressing confusion through desperate language like "please help," "I don't get it," and multiple question marks.
 
 ### Inability to Distinguish Between Techniques and Embodiment
+
 Users get caught up in doing techniques rather than achieving the underlying state of being that allows manifestation.
 
 - "For almost two years, I believed I was living in the end, but in reality, I was fantasizing about having the job as a way to escape my undesired circumstances"
@@ -98,6 +100,7 @@ Users get caught up in doing techniques rather than achieving the underlying sta
 **Frequency/Intensity:** High frequency with intense emotional language about feeling like they're "losing their mind" or experiencing "psychosis."
 
 ### Obsession with Finding the "Perfect" Technique
+
 Users constantly seek new methods instead of mastering consistency, leading to technique addiction.
 
 - "I tried all the dating apps on and off for yours. What am I doing wrong? I am only saying this to give context... I have listened to subliminals, journaled, made vision boards. Why isnt it happening for me?"
@@ -109,6 +112,7 @@ Users constantly seek new methods instead of mastering consistency, leading to t
 ## Emotional and Mental State Challenges
 
 ### Desperation and Attachment That Block Manifestations
+
 Users struggle with maintaining detachment while deeply wanting their desires, creating energetic resistance.
 
 - "Trying not to be what the community calls ""desperate"" for something that's literally life changing has been very hard for me"
@@ -119,6 +123,7 @@ Users struggle with maintaining detachment while deeply wanting their desires, c
 **Frequency/Intensity:** Extremely high frequency and intensity, with users using profanity and expressing emotional breakdown.
 
 ### Inability to Maintain Faith After Repeated Failures
+
 Users lose confidence in manifestation after experiencing multiple disappointments and failed attempts.
 
 - "Ive definitely lost confidence now cs it has indeed been a year and I'm only human"
@@ -129,6 +134,7 @@ Users lose confidence in manifestation after experiencing multiple disappointmen
 **Frequency/Intensity:** Very high frequency with intense emotional language expressing despair and abandonment.
 
 ### Managing Fear and Resistance Around Important Desires
+
 Users find it difficult to manifest things that feel high-stakes or emotionally charged.
 
 - "I have a lot of resistance and fear around. I find it very hard to get into a feeling state of things turning out in a preferred way when there is so much doubt"
@@ -141,6 +147,7 @@ Users find it difficult to manifest things that feel high-stakes or emotionally 
 ## Practical Implementation Difficulties
 
 ### Struggles with Living in the End While in Undesired Circumstances
+
 Users can't reconcile imagining their desire fulfilled while experiencing opposite conditions in their daily reality.
 
 - "'This is mine' while living a daily reality paying the price that it isn't"
@@ -151,6 +158,7 @@ Users can't reconcile imagining their desire fulfilled while experiencing opposi
 **Frequency/Intensity:** Very high frequency, representing one of the most common struggles across all manifestation discussions.
 
 ### Time Pressure and Deadlines Creating Additional Stress
+
 Users feel pressure when manifestations need to happen by specific dates, creating more resistance.
 
 - "if possible id like to manifest one of them by the next month or i will lose a year of my studies which I rly rly dont want to"
@@ -160,6 +168,7 @@ Users feel pressure when manifestations need to happen by specific dates, creati
 **Frequency/Intensity:** Moderate frequency but high emotional intensity when it occurs, with users expressing panic about missing deadlines.
 
 ### Difficulty with SATS (State Akin to Sleep) and Visualization
+
 Users struggle with the technical aspects of getting into the proper meditative state for manifestation.
 
 - "I also want to be scared by too much money coming to me 🙂" [struggle with believing in large manifestations]
@@ -171,6 +180,7 @@ Users struggle with the technical aspects of getting into the proper meditative 
 ## Authenticity and Self-Concept Issues
 
 ### Feeling Inauthentic When Using Techniques
+
 Users struggle with techniques that don't feel natural to them, creating internal resistance.
 
 - "I was trying to change my beliefs and assumptions with these techniques but ended up creating more resistance and anxiety"
@@ -180,6 +190,7 @@ Users struggle with techniques that don't feel natural to them, creating interna
 **Frequency/Intensity:** High frequency in more advanced discussions, with users recognizing the need for authenticity but struggling to achieve it.
 
 ### Self-Worth and Deservingness Issues
+
 Users question whether they deserve their desires or are worthy of having them manifest.
 
 - "Despite graduating from a top graduate program in my field, my self-concept was so low that I genuinely believed I was not qualified enough"
@@ -191,6 +202,7 @@ Users question whether they deserve their desires or are worthy of having them m
 ## Questions About Process Legitimacy
 
 ### Skepticism About Whether Manifestation Actually Works
+
 Users question the validity of manifestation, especially when they see more small successes than large ones.
 
 - "Why is it that we keep hearing these money manifestations of $100? If everything isn't governed by physical laws but instead our assumptions and imagination, how come we are not flooded with testimonials of people manifesting large sums of money?"
@@ -200,6 +212,7 @@ Users question the validity of manifestation, especially when they see more smal
 **Frequency/Intensity:** Moderate frequency but very high intensity when expressed, with users questioning fundamental beliefs.
 
 ### Confusion About Timing and When Things Will Manifest
+
 Users struggle with understanding manifestation timing and become impatient.
 
 - "Does that even work?" regarding specific timeframes
@@ -249,7 +262,7 @@ Users struggle with understanding manifestation timing and become impatient.
 2. [I think I finally figured out what manifestation actually is (and why it works)](#thread-2-of-16)
 3. [Have you ever manifested something WHILE it felt incredibly high stakes to you](#thread-3-of-16)
 4. [Guys I cannot believe this but manifestation REALLY WORKS OMG😭](#thread-4-of-16)
-5. [[ Removed by moderator ]](#thread-5-of-16)
+5. [[Removed by moderator]](#thread-5-of-16)
 6. [I believe so much in manifestation that nobody can convince me otherwise.](#thread-6-of-16)
 7. [My manifestation experience](#thread-7-of-16)
 8. [After years of struggle I manifested my SP into my life. Here's exactly how I did it.](#thread-8-of-16)
@@ -270,8 +283,6 @@ THREAD 1 OF 16
 
 **r/NevilleGoddard** • Posted by u/thorking34 • 547 points
 **URL:** https://reddit.com/r/NevilleGoddard/comments/1pipy71/
-
-
 
 Hey everyone, I wanted to share something that happened today that honestly blew my mind and gave me even more faith in the Law of Assumption.
 
@@ -301,10 +312,10 @@ And here’s the part that really showed me how powerful manifestation is:
 Everything aligned perfectly — the visual, the feeling, the moment, all of it.
 
 Manifestation is REAL when you:
-	•	Imagine the end result
-	•	Feel it as if it already happened
-	•	Let it go and live your life
-	•	Stay disciplined and grounded
+• Imagine the end result
+• Feel it as if it already happened
+• Let it go and live your life
+• Stay disciplined and grounded
 
 Today gave me so much confidence in the law.
 If you’re manifesting something — big or small — don’t doubt yourself.
@@ -313,8 +324,7 @@ Your imagination is powerful. Your energy is real.
 Just assume the feeling and trust the process.
 Life will line things up in the smoothest way when you stop forcing and start embodying. 🙏🔥
 
-Hope this motivates someone today 
-
+Hope this motivates someone today
 
 ---
 
@@ -326,16 +336,15 @@ We ask that you familiarize yourself with our **[subreddit rules](https://www.re
 
 Please report any posts or comments that break the rules.
 
-
-*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NevilleGoddard) if you have any questions or concerns.*
+_I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NevilleGoddard) if you have any questions or concerns._
 
 **u/Same_Ad_9703** (38 pts)
 
 This is really motivating, thank you for sharing. One question please: did you get into that floaty feeling of SATS or just visualise simply and then just go to sleep afterwards?
 
-  ↳ **u/thorking34** (40 pts)
+↳ **u/thorking34** (40 pts)
 
-  Hi there what I did just Visualise in a meditation 🧘‍♂️ position for 2 minutes straight one quick scene not for too long and after when to sleep like normal because when I started Visualising I was doing for 5 minutes and my Mind was started to wonder little bit so I cut it short to 1 or 2 minutes max because the subconscious mind like short things and it’ easier for the subconscious mind to digest things quicker so all have to do put a timer on phone settings to 10 minutes max say like 4 affirmation in the mirror after that do a quick 2 minutes Visualisation of one scene feels the moment sit in a meditation position or laying down which ever work for it after that just go sleep like normal
+Hi there what I did just Visualise in a meditation 🧘‍♂️ position for 2 minutes straight one quick scene not for too long and after when to sleep like normal because when I started Visualising I was doing for 5 minutes and my Mind was started to wonder little bit so I cut it short to 1 or 2 minutes max because the subconscious mind like short things and it’ easier for the subconscious mind to digest things quicker so all have to do put a timer on phone settings to 10 minutes max say like 4 affirmation in the mirror after that do a quick 2 minutes Visualisation of one scene feels the moment sit in a meditation position or laying down which ever work for it after that just go sleep like normal
 
     ↳ **u/Same_Ad_9703** (4 pts)
 
@@ -345,23 +354,23 @@ This is really motivating, thank you for sharing. One question please: did you g
 
       No problem
 
-  ↳ **u/DigOk9541** (3 pts)
+↳ **u/DigOk9541** (3 pts)
 
-  +1
++1
 
 **u/Responsible_Map9593** (20 pts)
 
 That’s so awesome man congrats.
 I manifested a 100k wfh gig. I didn’t feel anything I just said it every night and in like 7 months I had it. I’m a freelancer and I never did something like this before so it was mind blowing. Now my next goal is double what I’m currently making. I’m posting this here so when it happens I can look back at it haha.
 
-  ↳ **u/thorking34** (3 pts)
+↳ **u/thorking34** (3 pts)
 
-  Did u Imagine every night before bed having 100k ?
+Did u Imagine every night before bed having 100k ?
 
     ↳ **u/Responsible_Map9593** (5 pts)
 
     Yes. All I did was when laying down I would say “why do I make 10k a month every month” I dont make 10k every month because I’m lazy but I did make over little over 100k this year and that’s double what I made at my 9-5 before I got into freelance work. 
-    
+
     I didn’t visualize or anything. I just knew I had it I thought bout how my life would be different 
 
       ↳ **u/Responsible_Map9593** (2 pts)
@@ -384,13 +393,13 @@ I manifested a 100k wfh gig. I didn’t feel anything I just said it every night
 
 I love what a silly, simple manifestation this is. I was going to link you a clip of that scene with John Travolta & Jamie Lee Curtis in dance exercise class and say “manifest this next!” but it looked way too vulgar. 😆 I’m sure you can have fun bringing about other exercise experiences though! I like how you leaned into the natural carefree aspects of the interaction and that’s why it occurred.
 
-  ↳ **u/TouchyVelociraptor** (1 pts)
+↳ **u/TouchyVelociraptor** (1 pts)
 
-  After that, he can manifest the music video for Call On Me by Eric Prydz!
+After that, he can manifest the music video for Call On Me by Eric Prydz!
 
-  ↳ **u/thorking34** (-2 pts)
+↳ **u/thorking34** (-2 pts)
 
-  Silly ??
+Silly ??
 
     ↳ **u/madmarauder717** (4 pts)
 
@@ -407,18 +416,18 @@ I love what a silly, simple manifestation this is. I was going to link you a cli
       ↳ **u/AutoModerator** (1 pts)
 
       Your post or comment was removed due to too much negative comment [karma](https://support.reddithelp.com/hc/en-us/articles/204511829-What-is-karma) on your account.
-      
+
       *I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NevilleGoddard) if you have any questions or concerns.*
 
 **u/Relevant_Screen3540** (3 pts)
 
-Same happened to me as well but not during workout it's just done naturally yes I approached her but it was an aligned action not desperate one and also act in aligned like you asked that girl about workout 
+Same happened to me as well but not during workout it's just done naturally yes I approached her but it was an aligned action not desperate one and also act in aligned like you asked that girl about workout
 
 In short the feeling of having and consistency and detachment like you already have it then aligned action rest is up to the universe
 
-  ↳ **u/thorking34** (2 pts)
+↳ **u/thorking34** (2 pts)
 
-  Same here everything flow naturally and just imagine the end it’s the easiest way is possible
+Same here everything flow naturally and just imagine the end it’s the easiest way is possible
 
 **u/Impossible-Part-3728** (3 pts)
 
@@ -432,13 +441,13 @@ Thanks hun 😘 
 
 I guess I’m doing something wrong, I’ve been at this for 2 months now with no results 😭
 
-  ↳ **u/Curious-Avocado-3290** (4 pts)
+↳ **u/Curious-Avocado-3290** (4 pts)
 
-  Whatever you entertain is the manifestation itself. You have always done this.
+Whatever you entertain is the manifestation itself. You have always done this.
 
-  ↳ **u/thorking34** (1 pts)
+↳ **u/thorking34** (1 pts)
 
-  What exactly are u trying to manifest?
+What exactly are u trying to manifest?
 
     ↳ **u/noneyahbusiness20** (3 pts)
 
@@ -467,28 +476,28 @@ I guess I’m doing something wrong, I’ve been at this for 2 months now with n
                 ↳ **u/AutoModerator** (1 pts)
 
                 Your post or comment was removed due to too much negative comment [karma](https://support.reddithelp.com/hc/en-us/articles/204511829-What-is-karma) on your account.
-                
+
                 *I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NevilleGoddard) if you have any questions or concerns.*
 
 **u/bluepetals_ta** (2 pts)
 
 I did something similar, my first manifestation. Back then I had a crush on a guy, and I wanted him to ask me to join him for a walk. I wasn't too specific coz his friend was also there lol. But it happened exactly at around the same time, the same place, with the same expressions on his face like I had imagined.
 
-Time for me to manifest things that are worth manifesting. 
+Time for me to manifest things that are worth manifesting.
 
 Can you please share on how you were able to discipline your mind - as in how to not let thoughts like 'oh, the reality is different, this is not going to happen' kind of thoughts.
 
-  ↳ **u/thorking34** (3 pts)
+↳ **u/thorking34** (3 pts)
 
-  Every night before bed I do 10 minutes affirmations in the mirror after that I sit in pitch black darkness in a meditation position and I Visualise for 2 minutes straight so what I do get a video or photo of my Sp look at her for bit get tone of Details and then after that I imagine training with her for like 2 minutes max in pitch black darkness at night because blocked everything out of the outer world u just in blackness because u can focused on your inner world state
+Every night before bed I do 10 minutes affirmations in the mirror after that I sit in pitch black darkness in a meditation position and I Visualise for 2 minutes straight so what I do get a video or photo of my Sp look at her for bit get tone of Details and then after that I imagine training with her for like 2 minutes max in pitch black darkness at night because blocked everything out of the outer world u just in blackness because u can focused on your inner world state
 
 **u/saksham802** (3 pts)
 
 Thanks man i was about to give up but you gave me hope
 
-  ↳ **u/thorking34** (1 pts)
+↳ **u/thorking34** (1 pts)
 
-  No problem man I like to help people and spread wisdom
+No problem man I like to help people and spread wisdom
 
     ↳ **u/saksham802** (1 pts)
 
@@ -498,9 +507,9 @@ Thanks man i was about to give up but you gave me hope
 
 Thanks for sharing, this is very inspiring. I am trying something bigger.
 
-  ↳ **u/thorking34** (2 pts)
+↳ **u/thorking34** (2 pts)
 
-  I will say on YouTube search up Joseph alai and book of wisdom harry b joseph those guys help me to manifest things
+I will say on YouTube search up Joseph alai and book of wisdom harry b joseph those guys help me to manifest things
 
     ↳ **u/QRajeshRaj** (1 pts)
 
@@ -514,9 +523,9 @@ yesssss it's all about energy flow! when it flows to you all the things that bel
 
 But why you use chat gpt for this post?
 
-  ↳ **u/thorking34** (-3 pts)
+↳ **u/thorking34** (-3 pts)
 
-  I could be bothered to write out lol so I just ask ChatGPT’s to help me with it
+I could be bothered to write out lol so I just ask ChatGPT’s to help me with it
 
     ↳ **u/Interesting_Step_139** (8 pts)
 
@@ -542,9 +551,9 @@ But why you use chat gpt for this post?
 
 This is clearly AI
 
-  ↳ **u/Veena_toor** (12 pts)
+↳ **u/Veena_toor** (12 pts)
 
-  Nothing wrong to ask Ai to write down your thoughts for a post
+Nothing wrong to ask Ai to write down your thoughts for a post
 
     ↳ **u/thorking34** (9 pts)
 
@@ -554,9 +563,9 @@ This is clearly AI
 
       Usually ai puts - these lines honestly a normal person wouldn’t use them while writing
 
-  ↳ **u/thorking34** (0 pts)
+↳ **u/thorking34** (0 pts)
 
-  No it no
+No it no
 
     ↳ **u/Veena_toor** (1 pts)
 
@@ -566,10 +575,9 @@ This is clearly AI
 
 Wait so did u manifest a friend out of thin air?
 
-  ↳ **u/thorking34** (1 pts)
+↳ **u/thorking34** (1 pts)
 
-  No I manifest training with her at the gym
-
+No I manifest training with her at the gym
 
 ================================================================================
 THREAD 2 OF 16
@@ -580,7 +588,7 @@ THREAD 2 OF 16
 **r/NevilleGoddard** • Posted by u/mirroridentity • 456 points
 **URL:** https://reddit.com/r/NevilleGoddard/comments/1pfj50g/
 
-My previous post got deleted because I didn’t clarify that I used ChatGPT to clean up my writing. I’m sorry mods about that. And here’s what I actually wrote. This is what I have concluded with Neville’s teaching and all those times that I spent listening to different coaches. 
+My previous post got deleted because I didn’t clarify that I used ChatGPT to clean up my writing. I’m sorry mods about that. And here’s what I actually wrote. This is what I have concluded with Neville’s teaching and all those times that I spent listening to different coaches.
 
 I’ve been learning about manifestation for a while, and honestly, I used to think it was just people forcing themselves to “think positive.” But recently something clicked for me, and it suddenly made everything make sense; spiritually, psychologically, and biblically.
 
@@ -641,11 +649,9 @@ When your subconscious finally accepts something as true, your actions, your dec
 I’m not trying to convince anyone of anything. This is just what finally made the whole topic click for me.
 And honestly, it helped bridge the gap between manifestation stuff and my faith, instead of feeling like they’re fighting each other.
 
-
 I wrote this hoping people would not fall for manifestation contents loop. I once fell for that and would spend hours because I didn’t understand the core of it.
 
 Tl;dr - I realized manifestation isn’t about random positive thinking; it’s about what you believe deep down in your heart (basically the subconscious). Our beliefs come from emotional experiences, so manifestation techniques work because they create new emotional experiences that change those beliefs. Once your inner belief shifts, your actions and reality start to line up with it. It’s the same idea the Bible talks about with faith and the heart.
-
 
 ---
 
@@ -655,21 +661,21 @@ Tl;dr - I realized manifestation isn’t about random positive thinking; it’s 
 
 YES! 🙌🏽 loving this post. The power of repetition is underestimated.
 
-  ↳ **u/mirroridentity** (9 pts)
+↳ **u/mirroridentity** (9 pts)
 
-  Yes! I didn’t understand why we needed repetition and why we need to do it consistently until I got the core of it :)
+Yes! I didn’t understand why we needed repetition and why we need to do it consistently until I got the core of it :)
 
 **u/Teal730501** (25 pts)
 
-Agreed.. Good job putting it together succinctly. 
+Agreed.. Good job putting it together succinctly.
 
 Should reduce fear of negative manifestation in people with too many random intrusive thoughts.
 
 Thank you.
 
-  ↳ **u/mirroridentity** (6 pts)
+↳ **u/mirroridentity** (6 pts)
 
-  Thank you for agreeing with me! I’m glad that it resonates with you ☺️
+Thank you for agreeing with me! I’m glad that it resonates with you ☺️
 
     ↳ **u/Teal730501** (3 pts)
 
@@ -677,29 +683,29 @@ Thank you.
 
 **u/Mightyman_001** (13 pts)
 
-If you use this to align it with John 1:1, you can relate with it like this: In the beginning of you wanting to manifest an ideal outcome was nothing but your simple thought of it, and your thought was with you. And you mentally interacted with this beloved thought of yours so dearly and intensely until it became your flesh, then evolved into its physical equivalent (Manifestation). 
+If you use this to align it with John 1:1, you can relate with it like this: In the beginning of you wanting to manifest an ideal outcome was nothing but your simple thought of it, and your thought was with you. And you mentally interacted with this beloved thought of yours so dearly and intensely until it became your flesh, then evolved into its physical equivalent (Manifestation).
 
 This is why it equally is true that all things are possible to whoever learns the secret of transforming thoughts into their physical equivalent.
 
-  ↳ **u/mirroridentity** (2 pts)
+↳ **u/mirroridentity** (2 pts)
 
-  🔥🔥🔥
+🔥🔥🔥
 
 **u/Holiday_Chemistry873** (12 pts)
 
 Well the problem Is how to impress your subconsciuos mind with the beliefs you want and not with negative thinking. I think this Is the core challenge
 
-  ↳ **u/_JellyFox_** (19 pts)
+↳ **u/_JellyFox_** (19 pts)
 
-  You do it by giving attrntion to the new beliefs, not negative thinking. The whole point is that people overcomplicate it. There is no great secret process, you just choose in each moment.
+You do it by giving attrntion to the new beliefs, not negative thinking. The whole point is that people overcomplicate it. There is no great secret process, you just choose in each moment.
 
-  ↳ **u/mirroridentity** (8 pts)
+↳ **u/mirroridentity** (8 pts)
 
-  That is very true! So the homework becomes finding out which technique is effective to impress the subconscious. It may take some time to find out but once you know what manifestation really is, I believe it reduces the time to find it significantly. This is why Neville’s “Not Climbing Ladder” method works. Even though people said that they will not climb the ladder, they had to imagine vividly of themselves climbing the ladder. The vivid imagination became the experience for them and it impressed their subconscious, hence they ended up climbing the ladder :)
+That is very true! So the homework becomes finding out which technique is effective to impress the subconscious. It may take some time to find out but once you know what manifestation really is, I believe it reduces the time to find it significantly. This is why Neville’s “Not Climbing Ladder” method works. Even though people said that they will not climb the ladder, they had to imagine vividly of themselves climbing the ladder. The vivid imagination became the experience for them and it impressed their subconscious, hence they ended up climbing the ladder :)
 
-  ↳ **u/Satou4** (2 pts)
+↳ **u/Satou4** (2 pts)
 
-  You should try to become like Abdullah. Have your own list of lines to say whenever your old negative beliefs try to come back. Speak the lines with conviction until you believe them. Be delusional about it at first until you change.
+You should try to become like Abdullah. Have your own list of lines to say whenever your old negative beliefs try to come back. Speak the lines with conviction until you believe them. Be delusional about it at first until you change.
 
 **u/ellejazmeyne** (4 pts)
 
@@ -713,60 +719,60 @@ That was well written! And truth! Knowing is not believing something to be true,
 
 [deleted]
 
-  ↳ **u/mirroridentity** (3 pts)
+↳ **u/mirroridentity** (3 pts)
 
-  Hi! As I said in the post, I’m not here to convince anyone :) It’s your belief that manifests 😊
+Hi! As I said in the post, I’m not here to convince anyone :) It’s your belief that manifests 😊
 
 **u/Key-Humor4344** (5 pts)
 
 Thank you! I’ve read some people’s posts about acting emotionless when doing affirmations.
 
-Sometimes just “knowing l” what you want is already here isn’t what truly impresses the subconscious, you need an emotion attached to it in order to impress it and make it your new normal . 
+Sometimes just “knowing l” what you want is already here isn’t what truly impresses the subconscious, you need an emotion attached to it in order to impress it and make it your new normal .
 And no, this isn’t some “law of attraction” vibey thing to say.
 
-  ↳ **u/mirroridentity** (6 pts)
+↳ **u/mirroridentity** (6 pts)
 
-  Yes exactly! You need to do technique that helps you to “experience” what you want in your life. And if you keep experiencing it, it becomes so normal to you and your brain accepts it as a new normal subconsciously. And our subconscious accepts things much better when things are paired with emotions. Hence one tragic trauma can affect our subconscious and affect our life tremendously :)
+Yes exactly! You need to do technique that helps you to “experience” what you want in your life. And if you keep experiencing it, it becomes so normal to you and your brain accepts it as a new normal subconsciously. And our subconscious accepts things much better when things are paired with emotions. Hence one tragic trauma can affect our subconscious and affect our life tremendously :)
 
 **u/blingedaura** (2 pts)
 
 what technique do you followed?
 
-  ↳ **u/mirroridentity** (4 pts)
+↳ **u/mirroridentity** (4 pts)
 
-  I followed different techniques at different times. But mostly visualization though. Going into my imagination to experience my desire has been my main go to :)
+I followed different techniques at different times. But mostly visualization though. Going into my imagination to experience my desire has been my main go to :)
 
 **u/[deleted]** (2 pts)
 
 [deleted]
 
-  ↳ **u/Own-Reporter2960** (3 pts)
+↳ **u/Own-Reporter2960** (3 pts)
 
-  You could select a reality where YOU represent beauty standard 🙂💛
+You could select a reality where YOU represent beauty standard 🙂💛
 
 **u/Top-Excuse-379** (2 pts)
 
 Finally a good post on here. Fantastic summary
 
-  ↳ **u/mirroridentity** (0 pts)
+↳ **u/mirroridentity** (0 pts)
 
-  Thank you! 😊
+Thank you! 😊
 
 **u/fkeiddifieiwisix** (2 pts)
 
 Wait, I have a question do you have to believe in God to manifest? Because I'm a hellinic polytheist
 
-  ↳ **u/mirroridentity** (2 pts)
+↳ **u/mirroridentity** (2 pts)
 
-  I don’t think you need to believe in God for manifestation to work since it’s more like a law. Just like how gravity works regardless you believe in God or not :)
+I don’t think you need to believe in God for manifestation to work since it’s more like a law. Just like how gravity works regardless you believe in God or not :)
 
 **u/EarlyCap2067** (2 pts)
 
 The more I read posts the more I am confused. Didn't Neville said manifestation has nothing to do with emotions?
 
-  ↳ **u/mirroridentity** (0 pts)
+↳ **u/mirroridentity** (0 pts)
 
-  I think Neville said that emotion does not matter in a sense that emotions are secondary/byproduct of belief you hold about something. Let’s just say the someone said the world will end in an hour. It’s likely you won’t believe what he says, thus it won’t stir any emotions about that (maybe some annoyance lol). But if that person provides hard evidence about world is about to end in an hour and it convinces you to believe it as a fact, then you’d probably stirred up with many emotions such as shock, sadness, confusion, and so on… so I would say emotions are not important in that sense but it does help to know if you are taking it as a fact or not (aka believing it). So there’s clearly a difference of becoming indifferent because you fully believe it to be true and it’s so normal that is true vs you don’t really resonate with it thus hard to believe it to be true.
+I think Neville said that emotion does not matter in a sense that emotions are secondary/byproduct of belief you hold about something. Let’s just say the someone said the world will end in an hour. It’s likely you won’t believe what he says, thus it won’t stir any emotions about that (maybe some annoyance lol). But if that person provides hard evidence about world is about to end in an hour and it convinces you to believe it as a fact, then you’d probably stirred up with many emotions such as shock, sadness, confusion, and so on… so I would say emotions are not important in that sense but it does help to know if you are taking it as a fact or not (aka believing it). So there’s clearly a difference of becoming indifferent because you fully believe it to be true and it’s so normal that is true vs you don’t really resonate with it thus hard to believe it to be true.
 
 **u/AutoModerator** (1 pts)
 
@@ -774,18 +780,17 @@ We ask that you familiarize yourself with our **[subreddit rules](https://www.re
 
 Please report any posts or comments that break the rules.
 
-
-*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NevilleGoddard) if you have any questions or concerns.*
+_I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NevilleGoddard) if you have any questions or concerns._
 
 **u/[deleted]** (1 pts)
 
 [removed]
 
-  ↳ **u/AutoModerator** (1 pts)
+↳ **u/AutoModerator** (1 pts)
 
-  Your post or comment was removed due to too much negative comment [karma](https://support.reddithelp.com/hc/en-us/articles/204511829-What-is-karma) on your account.
-  
-  *I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NevilleGoddard) if you have any questions or concerns.*
+Your post or comment was removed due to too much negative comment [karma](https://support.reddithelp.com/hc/en-us/articles/204511829-What-is-karma) on your account.
+
+_I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NevilleGoddard) if you have any questions or concerns._
 
 **u/Muffin_Most** (1 pts)
 
@@ -795,37 +800,37 @@ Reshape your beliefs by changing your feelings
 
 [removed]
 
-  ↳ **u/AutoModerator** (1 pts)
+↳ **u/AutoModerator** (1 pts)
 
-  Your post or comment was removed due to too much negative comment [karma](https://support.reddithelp.com/hc/en-us/articles/204511829-What-is-karma) on your account.
-  
-  *I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NevilleGoddard) if you have any questions or concerns.*
+Your post or comment was removed due to too much negative comment [karma](https://support.reddithelp.com/hc/en-us/articles/204511829-What-is-karma) on your account.
+
+_I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NevilleGoddard) if you have any questions or concerns._
 
 **u/[deleted]** (1 pts)
 
 [removed]
 
-  ↳ **u/AutoModerator** (1 pts)
+↳ **u/AutoModerator** (1 pts)
 
-  Your post or comment was removed due to too much negative comment [karma](https://support.reddithelp.com/hc/en-us/articles/204511829-What-is-karma) on your account.
-  
-  *I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NevilleGoddard) if you have any questions or concerns.*
+Your post or comment was removed due to too much negative comment [karma](https://support.reddithelp.com/hc/en-us/articles/204511829-What-is-karma) on your account.
+
+_I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NevilleGoddard) if you have any questions or concerns._
 
 **u/Striking-Anxiety1434** (1 pts)
 
 I had a hypnotherapy session in January where I experienced significant psychological healing. The therapist ended the session by guiding me through a beautiful scenario which she told me "is my new reality if I accept it". I accepted. That scenario played out EXACTLY as in the hypnotic trance six months later. I strongly believe that programming the subconscious mind is key, hence why hypnosis and other altered states (lucid dreaming!) (sats) are so effective for manifestation.
 
-  ↳ **u/mirroridentity** (2 pts)
+↳ **u/mirroridentity** (2 pts)
 
-  Thank you for sharing this! This is amazing!
+Thank you for sharing this! This is amazing!
 
 **u/Electrical_Delay2077** (1 pts)
 
 How would that work on subliminals? Do you feel about that normal to or is it more complex
 
-  ↳ **u/mirroridentity** (2 pts)
+↳ **u/mirroridentity** (2 pts)
 
-  Reprogramming subconscious is the main thing. I believe the subliminals work because it somehow by passes to our subconscious hence you see the result. :)
+Reprogramming subconscious is the main thing. I believe the subliminals work because it somehow by passes to our subconscious hence you see the result. :)
 
     ↳ **u/Electrical_Delay2077** (1 pts)
 
@@ -839,12 +844,11 @@ Heart is the first organ you're developed when in the womb, like when you know t
 
 [removed]
 
-  ↳ **u/AutoModerator** (1 pts)
+↳ **u/AutoModerator** (1 pts)
 
-  Your post or comment was removed due to too much negative comment [karma](https://support.reddithelp.com/hc/en-us/articles/204511829-What-is-karma) on your account.
-  
-  *I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NevilleGoddard) if you have any questions or concerns.*
+Your post or comment was removed due to too much negative comment [karma](https://support.reddithelp.com/hc/en-us/articles/204511829-What-is-karma) on your account.
 
+_I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NevilleGoddard) if you have any questions or concerns._
 
 ================================================================================
 THREAD 3 OF 16
@@ -873,8 +877,7 @@ You can post there as well as here.
 
 Thanks
 
-
-*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Manifestation) if you have any questions or concerns.*
+_I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Manifestation) if you have any questions or concerns._
 
 **u/OkSky5506** (8 pts)
 
@@ -884,20 +887,20 @@ Think about if you had all this stuff you desire, you would feel a certain way. 
 
 my advice is stop trying to manifest these "big things" with high stakes for the moment. Test it on things you could care less about. If you can manifest stuff you could care less about and they show up, then you understand how to do it on the things you deem as high stakes.
 
-Assume you always see yellow balloons. just assume it with no effort. Just accept it and assume that's true like you assume the sun is going to come up tomorrow morning and set at night. and then drop it. Don't need to think of it anymore just allow that to be true for you even though there is no evidence of that being true.  Its not like you want yellow balloons anyway. see what happens. Just don't go looking around for them. Test it for real. Like just assume that is true so much that you don't even have to look around and question that assumption.
+Assume you always see yellow balloons. just assume it with no effort. Just accept it and assume that's true like you assume the sun is going to come up tomorrow morning and set at night. and then drop it. Don't need to think of it anymore just allow that to be true for you even though there is no evidence of that being true. Its not like you want yellow balloons anyway. see what happens. Just don't go looking around for them. Test it for real. Like just assume that is true so much that you don't even have to look around and question that assumption.
 
-  ↳ **u/zonezza** (2 pts)
+↳ **u/zonezza** (2 pts)
 
-  Love this!
+Love this!
 
-  ↳ **u/Valentina_abn** (1 pts)
+↳ **u/Valentina_abn** (1 pts)
 
-  Thank you for your reply! I did manifest many smaller, not all very small, insane results while on my journey. Just not the two “main” things. And I fear I can’t really stop because if possible id like to manifest one of them by the next month or i will lose a year of my studies which I rly rly dont want to :/ you are right to say that if i want these things so bad it’s because I dont feel like they are mine, but i have not yet been able to feel something is mine knowing it factually isn’t without getting into a kinda state where i was nearing psychosis as mentioned. “This is mine” while living a daily reality paying the price that it isn’t. Ive assumed things were already figured out and didn’t worry about them and now well they didnt get figured out and im close to losing my year of education. Idk what it is im missing when it comes to those 2 things specifically. I do have other success stories, one of which is kinda mind boggling and was fairly high stakes, but there’s resistance with the really important things
+Thank you for your reply! I did manifest many smaller, not all very small, insane results while on my journey. Just not the two “main” things. And I fear I can’t really stop because if possible id like to manifest one of them by the next month or i will lose a year of my studies which I rly rly dont want to :/ you are right to say that if i want these things so bad it’s because I dont feel like they are mine, but i have not yet been able to feel something is mine knowing it factually isn’t without getting into a kinda state where i was nearing psychosis as mentioned. “This is mine” while living a daily reality paying the price that it isn’t. Ive assumed things were already figured out and didn’t worry about them and now well they didnt get figured out and im close to losing my year of education. Idk what it is im missing when it comes to those 2 things specifically. I do have other success stories, one of which is kinda mind boggling and was fairly high stakes, but there’s resistance with the really important things
 
     ↳ **u/OkSky5506** (2 pts)
 
     If there is resistance than what beliefs are you holding onto that are causing that?
-    
+
     Is it I have tried doing this stuff before and I got let down?
 
       ↳ **u/Valentina_abn** (1 pts)
@@ -906,10 +909,10 @@ Assume you always see yellow balloons. just assume it with no effort. Just accep
 
         ↳ **u/OkSky5506** (1 pts)
 
-        Do you want to hold onto that belief or let it go?  
-          
+        Do you want to hold onto that belief or let it go?
+
         If you want to let it go why not replace it with something like "Things work out for me. I don't know how but I believe that." You want to go through the beliefs you are holding onto and ask yourself when one comes up, if you want to keep believing that.
-        
+
         I always am uncovering beliefs I have. If you can name it, you can change it. You will feel that resistance lift when you do.
 
           ↳ **u/Valentina_abn** (1 pts)
@@ -919,7 +922,7 @@ Assume you always see yellow balloons. just assume it with no effort. Just accep
             ↳ **u/OkSky5506** (2 pts)
 
             Well if you truly believe in law of attraction, you believe that like attracts like. That means only a feeling of having can create a result of having. You are the creator if you assume something is true, then it is.  You will experience things that match that assumption. If you doubt it then you create more experiences of doubt.
-            
+
             You are in control but because you believe you don't necessarily have control of your fate, you will manifest stuff to prove that to yourself. That is how powerful you are.
 
               ↳ **u/Valentina_abn** (1 pts)
@@ -940,21 +943,21 @@ Assume you always see yellow balloons. just assume it with no effort. Just accep
 
 **u/Egyptian_Queeni** (3 pts)
 
-Yes, caring deeply doesn’t disqualify you from manifesting, and it’s not hopeless. The tricky part is that when something feels life changing, the intensity can create inner tension and resistance, even if you’re doing everything right.  You can care with curiosity, trust, and detachment from the outcome instead of anxiety or pressure.
+Yes, caring deeply doesn’t disqualify you from manifesting, and it’s not hopeless. The tricky part is that when something feels life changing, the intensity can create inner tension and resistance, even if you’re doing everything right. You can care with curiosity, trust, and detachment from the outcome instead of anxiety or pressure.
 
-Sometimes the best path is subtle,  focus on becoming the version of yourself who naturally lives with that desire fulfilled. Keep affirming, imagining, and embodying, but balance it with daily life and joy. Manifestation isn’t always linear, and timing often depends on your inner alignment more than your efforts. Your desire is still valid, and caring deeply is actually fuel, you just need to channel it without letting it create resistance.
+Sometimes the best path is subtle, focus on becoming the version of yourself who naturally lives with that desire fulfilled. Keep affirming, imagining, and embodying, but balance it with daily life and joy. Manifestation isn’t always linear, and timing often depends on your inner alignment more than your efforts. Your desire is still valid, and caring deeply is actually fuel, you just need to channel it without letting it create resistance.
 
-  ↳ **u/Valentina_abn** (1 pts)
+↳ **u/Valentina_abn** (1 pts)
 
-  Thank you so much 🫶🏼 this is actually quite motivating to me. I think I still struggle even after doing so much research to define what alignment is, but I will try my best because that’s all I can do
+Thank you so much 🫶🏼 this is actually quite motivating to me. I think I still struggle even after doing so much research to define what alignment is, but I will try my best because that’s all I can do
 
 **u/pretty_insanegurl** (2 pts)
 
 Me myself thought i really have to detach to receive it. I was still very attached to my outcome i was trying to detach hard tho just 2 days before I was in my breakdown after hearing bad news but 2 days after i got what i wanted
 
-  ↳ **u/Valentina_abn** (1 pts)
+↳ **u/Valentina_abn** (1 pts)
 
-  Do you mean that you let go after hearing bad news ?
+Do you mean that you let go after hearing bad news ?
 
 **u/JaxxyWolf** (2 pts)
 
@@ -966,22 +969,21 @@ That being said, some things take aligned action to get there. If you’re manif
 
 Another important factor: The idea is to not hold your desires on a pedestal. If you subconsciously believe it’s “high stakes” to you, then you’re constantly putting it out of reach. It should theoretically be as easy as grabbing a glass of water from the kitchen. You don’t think twice about it, you just do it.
 
-  ↳ **u/Valentina_abn** (1 pts)
+↳ **u/Valentina_abn** (1 pts)
 
-  One of them’s a good old boring SP manifestation. The other is about my education. I had administrative problems but they still allowed me to go to lectures while i figure it out, so i was actively going, studying, spending so much time on my notes and my readings etc and my registration remains blocked by the administration. I took every action possible and it remains blocked for completely illogical (and illegal) reasons. I actually thought about how actually going to class and studying was going to help me manifest, but now I’m standing in front of my failure. I’m still trying to find a way i could maybe be saved, i’ve lost all confidence in manifestation and honestly just in the universe itself. It’s like a lot of effort is going into just… going against me
+One of them’s a good old boring SP manifestation. The other is about my education. I had administrative problems but they still allowed me to go to lectures while i figure it out, so i was actively going, studying, spending so much time on my notes and my readings etc and my registration remains blocked by the administration. I took every action possible and it remains blocked for completely illogical (and illegal) reasons. I actually thought about how actually going to class and studying was going to help me manifest, but now I’m standing in front of my failure. I’m still trying to find a way i could maybe be saved, i’ve lost all confidence in manifestation and honestly just in the universe itself. It’s like a lot of effort is going into just… going against me
 
 **u/Juhezmane** (2 pts)
 
 I understand this is really exhausting and it’s okay to feel that way. It’s perfectly normal to care about what you want. Maybe it’s not about doing more, but just letting go of how and when it happens.
 
-  ↳ **u/Valentina_abn** (2 pts)
+↳ **u/Valentina_abn** (2 pts)
 
-  Thank you for your understanding. I’m burned out beyond belief. I think not caring about when my manifestations happen is the hardest thing to me. I tried very hard, to not care when it happens, but when I’m not lying to myself it’s very evident that I do. Maybe that’s why it didn’t happen, but it’s rly hard
+Thank you for your understanding. I’m burned out beyond belief. I think not caring about when my manifestations happen is the hardest thing to me. I tried very hard, to not care when it happens, but when I’m not lying to myself it’s very evident that I do. Maybe that’s why it didn’t happen, but it’s rly hard
 
     ↳ **u/Juhezmane** (1 pts)
 
     Yeah bcz you were trying hard to divert your attention from that but when we try to divert our brain it obviously thinks about that particular thing
-
 
 ================================================================================
 THREAD 4 OF 16
@@ -1006,9 +1008,9 @@ Guess what I got the EXACT SAME chocolate with THE EXACT flavor I wanted in less
 
 that's what its about make it normal treat it normal as a chocolate.
 
-  ↳ **u/willowtreeponder** (12 pts)
+↳ **u/willowtreeponder** (12 pts)
 
-  does anyone have any advice on how to do this? i feel like the things i try to use manifestation for are things that i want, so it’s so hard to feel that they aren’t important!!! pls help :(
+does anyone have any advice on how to do this? i feel like the things i try to use manifestation for are things that i want, so it’s so hard to feel that they aren’t important!!! pls help :(
 
     ↳ **u/dog_stop** (6 pts)
 
@@ -1022,15 +1024,15 @@ that's what its about make it normal treat it normal as a chocolate.
 
 Love it! I've been using ideas and phrases like, "If I don't get it, I am okay!" or "If it doesn't work out, I will be okay!" The most important part is making sure I truly empathize and believe the last half. I stress that I will be okay if it doesn't come true. Really focusing on the emotional intensity, even if it feels fake at first.
 
- For me, it always unconsciously grounds me into gratitude for my current situation and blessings - regardless of any of the wishes and desires I am planning to manifest. Then I try to move past it as best I can and trust it will manifest into reality when and how it is supposed to.
+For me, it always unconsciously grounds me into gratitude for my current situation and blessings - regardless of any of the wishes and desires I am planning to manifest. Then I try to move past it as best I can and trust it will manifest into reality when and how it is supposed to.
 
 **u/GladNefariousness850** (9 pts)
 
 I’ve always felt that using your senses makes manifestation 3x more powerful.
 
-  ↳ **u/Laroux-grt** (1 pts)
+↳ **u/Laroux-grt** (1 pts)
 
-  Can you explain a bit further ??
+Can you explain a bit further ??
 
     ↳ **u/GladNefariousness850** (10 pts)
 
@@ -1038,8 +1040,8 @@ I’ve always felt that using your senses makes manifestation 3x more powerful.
 
       ↳ **u/Laroux-grt** (4 pts)
 
-      Extremely interesting ! 
-      Thank you for sharing ! 
+      Extremely interesting !
+      Thank you for sharing !
       I’m sure there has to be an alternative way with money as well ( maybe visualizing how good it feels in your heart to see big numbers in the banking app )
 
         ↳ **u/GladNefariousness850** (1 pts)
@@ -1052,8 +1054,8 @@ Yay OP! By choosing something trivial, you bypassed your doubt and removed all e
 
 **u/No-Hunt-7796** (5 pts)
 
-💯 
-Delicious 😋  experience 
+💯
+Delicious 😋 experience
 Good for you
 
 **u/Disastrous-Cream-690** (3 pts)
@@ -1064,13 +1066,13 @@ How long did u visualize for?
 
 I’m at the stage where I worry that things of this level of non importance are the only things you can influence
 
-  ↳ **u/CarrotPlus631** (10 pts)
+↳ **u/CarrotPlus631** (10 pts)
 
-  We all start small right. Be more optimistic :DD. For me, it's a new opportunity to realize that it was not the inexistence of manifestation that was hindering my outcome, but rather my doubts itself
+We all start small right. Be more optimistic :DD. For me, it's a new opportunity to realize that it was not the inexistence of manifestation that was hindering my outcome, but rather my doubts itself
 
-  ↳ **u/OddSpectraLemonRed28** (5 pts)
+↳ **u/OddSpectraLemonRed28** (5 pts)
 
-  If you worry about that, that is what your manifestation will be: only small things manifest. Always assume you get what you want regardless of how big it is. All is the same to the infinite so you need to view everything as a bag of chips. None more important than the other. It takes practice but manifesting isn’t a magic want that only works for some things and not others. Our entire life is a manifestation. But, because we all have our own experiences and past thoughts that lead us to the moment we are currently in, it may take longer or shorter amounts of time for different people to manifest the same thing. That doesn’t mean it’s not working, it’s just that things have to rearrange themselves to fit naturally into that persons reality before it can come in
+If you worry about that, that is what your manifestation will be: only small things manifest. Always assume you get what you want regardless of how big it is. All is the same to the infinite so you need to view everything as a bag of chips. None more important than the other. It takes practice but manifesting isn’t a magic want that only works for some things and not others. Our entire life is a manifestation. But, because we all have our own experiences and past thoughts that lead us to the moment we are currently in, it may take longer or shorter amounts of time for different people to manifest the same thing. That doesn’t mean it’s not working, it’s just that things have to rearrange themselves to fit naturally into that persons reality before it can come in
 
 **u/BigTruker456** (2 pts)
 
@@ -1078,7 +1080,7 @@ Congrats! 👏😃
 
 **u/WhenTheHeartKnows** (2 pts)
 
-This made me smile. It’s amazing how powerful the “light and playful” approach can be, no pressure, no obsession, just a quiet seed planted and then released. The fact that you were so specific and still received *exactly* what you visualized is such a beautiful reminder of how this all works. I started my journey 9 months ago and in the beginning I was the same. Had doubts it would ever work. Then I decided to start with something small that I didn't really care much about and then when I was able to manifest it, things start changing for me rapidly. 
+This made me smile. It’s amazing how powerful the “light and playful” approach can be, no pressure, no obsession, just a quiet seed planted and then released. The fact that you were so specific and still received *exactly* what you visualized is such a beautiful reminder of how this all works. I started my journey 9 months ago and in the beginning I was the same. Had doubts it would ever work. Then I decided to start with something small that I didn't really care much about and then when I was able to manifest it, things start changing for me rapidly.
 
 It’s not always about the size of the desire. It’s about the energy behind it. You didn’t force it, you didn’t doubt it, and it flowed right to you.
 
@@ -1086,17 +1088,17 @@ Thanks for sharing this. Sometimes it’s these little “impossible” wins tha
 
 **u/Embarrassed-Cup7651** (2 pts)
 
-I’ve been wanting to go to that particular city for the past week. It’s a bit far from my home, and I can’t go there without a proper reason. This whole week I was even thinking how to go there on this Saturday, tomorrow. 
+I’ve been wanting to go to that particular city for the past week. It’s a bit far from my home, and I can’t go there without a proper reason. This whole week I was even thinking how to go there on this Saturday, tomorrow.
 Guess what… I just got the news that tomorrow I have to attend a funeral in that same city.
 I don't know if that is a coincidence, but I was really shocked.
 
-  ↳ **u/tmn1990** (1 pts)
+↳ **u/tmn1990** (1 pts)
 
-  Ooooop I didn’t see the insensitivity coming
+Ooooop I didn’t see the insensitivity coming
 
-  ↳ **u/Movie-goer** (1 pts)
+↳ **u/Movie-goer** (1 pts)
 
-  Wow, you killed someone. Was it worth it? Don't you feel guilty?
+Wow, you killed someone. Was it worth it? Don't you feel guilty?
 
     ↳ **u/Embarrassed-Cup7651** (2 pts)
 
@@ -1106,17 +1108,17 @@ I don't know if that is a coincidence, but I was really shocked.
 
       It's bridge of incidents.
 
-**u/Glass__Goddess** (2 pts)
+**u/Glass\_\_Goddess** (2 pts)
 
 Did you buy it at the store?
 
-  ↳ **u/Kind-Protection2023** (2 pts)
+↳ **u/Kind-Protection2023** (2 pts)
 
-  That’s what I wondered lol
+That’s what I wondered lol
 
-  ↳ **u/CarrotPlus631** (2 pts)
+↳ **u/CarrotPlus631** (2 pts)
 
-  I didn't buy it. Someone gifted it to me
+I didn't buy it. Someone gifted it to me
 
 **u/Impressive_2005** (1 pts)
 
@@ -1124,24 +1126,24 @@ Does that even work?
 
 **u/Meglatron3000** (1 pts)
 
-Yes!  Manifest and let it go.  It’s amazing how it happens.   ❤️👊🔮
+Yes! Manifest and let it go. It’s amazing how it happens. ❤️👊🔮
 
 **u/Drivemap69** (1 pts)
 
-How did you receive the chocolate, did you buy it, or did someone give it to you? 
+How did you receive the chocolate, did you buy it, or did someone give it to you?
 By the way, what type of chocolate was it?
 
-  ↳ **u/CarrotPlus631** (1 pts)
+↳ **u/CarrotPlus631** (1 pts)
 
-  It was given as a gift to me by a relative. Kitkat, a specific flavor
+It was given as a gift to me by a relative. Kitkat, a specific flavor
 
 **u/ChickPeaEnthusiast** (1 pts)
 
 And how did it come to you
 
-  ↳ **u/CarrotPlus631** (2 pts)
+↳ **u/CarrotPlus631** (2 pts)
 
-  Please kindly read the comments
+Please kindly read the comments
 
     ↳ **u/ChickPeaEnthusiast** (1 pts)
 
@@ -1150,7 +1152,6 @@ And how did it come to you
 **u/Impressive-Date-7664** (1 pts)
 
 I wanna manifest iphone 16 in pink as my birthday gift from my dad my bdy is on 5 feb tell me spam me with tips everything I just want it
-
 
 ================================================================================
 THREAD 5 OF 16
@@ -1177,9 +1178,9 @@ Please review the [weekly FAQ](https://www.reddit.com/r/NevilleGoddard/search?q=
 
 Stretching is the secret
 
-  ↳ **u/Still-Dreaming-11** (151 pts)
+↳ **u/Still-Dreaming-11** (151 pts)
 
-  My favorite Neville Book
+My favorite Neville Book
 
     ↳ **u/Sunny_Medium_2727** (2 pts)
 
@@ -1197,21 +1198,21 @@ Stretching is the secret
 
     LMFAO at this thread. Y'all understood the assignment
 
-  ↳ **u/Buiate** (40 pts)
+↳ **u/Buiate** (40 pts)
 
-  this is funny! although OP is making a good point that we need to regulate our nervous system.
+this is funny! although OP is making a good point that we need to regulate our nervous system.
 
-  ↳ **u/AsIfLoveS** (29 pts)
+↳ **u/AsIfLoveS** (29 pts)
 
-  😂😇 you made my day.
+😂😇 you made my day.
 
-  ↳ **u/RelationshipWinter95** (6 pts)
+↳ **u/RelationshipWinter95** (6 pts)
 
-  witty
+witty
 
-  ↳ **u/utrowitaway** (3 pts)
+↳ **u/utrowitaway** (3 pts)
 
-  How so?
+How so?
 
     ↳ **u/Live-Doughnut4622** (14 pts)
 
@@ -1229,13 +1230,13 @@ Stretching is the secret
 
 I also want to be scared by too much money coming to me 🙂
 
-  ↳ **u/Highlyspirited** (18 pts)
+↳ **u/Highlyspirited** (18 pts)
 
-  May we both experience this! We can do it!
+May we both experience this! We can do it!
 
-  ↳ **u/CoastCheap8709** (22 pts)
+↳ **u/CoastCheap8709** (22 pts)
 
-  Make affirmation that your mind accept,and then you will experience this too
+Make affirmation that your mind accept,and then you will experience this too
 
 **u/hungzai** (120 pts)
 
@@ -1245,7 +1246,7 @@ Why is it that we keep hearing these money manifestations of $100? If everything
 
 Sure, not everybody wants to be super wealthy. Some people treat money as "ebbs and flow" and energy only as they need it. But surely, SOME people in the numerous that post here would want to be rich? Especially I see people here posting about wanting lottery wins or to become wealthy through their career, so some here on this sub are trying for it, but vast majority of the success stories are people with no money and basically "manifesting" bits and pieces of little bit of money, got a free coupon for 50 bucks etc.
 
-Also, maybe not everyone who manifests those big sums if money want to post about it, but certainly SOME would? If nothing else but to inspire others? 
+Also, maybe not everyone who manifests those big sums if money want to post about it, but certainly SOME would? If nothing else but to inspire others?
 
 Also, not everybody has gotten there yet, sure. But anyone can post here. Wouldn't a large chunk of people have these big success?
 
@@ -1253,9 +1254,9 @@ The same with everything else. "My SP looked in my general direction", "I avoide
 
 If you have it, please tell me. I am struggling to still believe after almost a decade of this.
 
-  ↳ **u/ohmygawdjenny** (103 pts)
+↳ **u/ohmygawdjenny** (103 pts)
 
-  It's cuz people manifest what they can easily believe. I promise you I'll post when I receive my millions of lottery winnings. 🤗
+It's cuz people manifest what they can easily believe. I promise you I'll post when I receive my millions of lottery winnings. 🤗
 
     ↳ **u/hungzai** (11 pts)
 
@@ -1272,23 +1273,23 @@ If you have it, please tell me. I am struggling to still believe after almost a 
         ↳ **u/ohmygawdjenny** (25 pts)
 
         >Manifestation isn’t wishing, it’s assuming capability and acting in alignment with that assumption
-        
-        This. Since I started reading about manifesting a few months ago, I've been going over my whole life, finding so many examples of subconscious, easy, natural manifestation. 
-        
+
+        This. Since I started reading about manifesting a few months ago, I've been going over my whole life, finding so many examples of subconscious, easy, natural manifestation.
+
         For example, I started working officially at 18 (third year of uni, so I also had to study). After just 4 years of that, I knew I couldn't spend the rest of my life doing something I didn't care for 9 to 5. I just had this genuine, deep desire to be free and self-employed. After another year, I quit in May, thinking I'd focus on my writing for the summer and probably look for a different job in September. But for some reason I lied to my boss that I was quitting because I got an offer to be a freelance editor (probably because of my messed up self-concept and the need to make excuses for my decisions).
-        
-        I had enough savings and didn't look for a day job for another year. Then suddenly I thought, I should post on this forum and offer my services as an editor. It seemed kinda crazy and like it wouldn't last. 
-        
+
+        I had enough savings and didn't look for a day job for another year. Then suddenly I thought, I should post on this forum and offer my services as an editor. It seemed kinda crazy and like it wouldn't last.
+
         That was 9 years ago. I still edit part-time, which leaves me enough time to write my own books. In the first month, I made 3x compared to my old day job. Later on I was making 5x. It allowed me to buy my own apartment, something I never even thought about, having grown up in poverty, and move abroad to a luxury complex on the Mediterranean coast for a few years.
-        
+
         Also, I met an experienced writer and editor who basically became my mentor and made me level up so much. That, in particular, still seems like a gift from God, an answer to my big desire to be a good writer. She just came to me and started asking questions about me and became my friend, out of fucking nowhere, a woman twice my age from another continent.
-        
+
         I didn't sit there, visualizing or scripting about all of this. I simply FELT like I wanted to be free, to work from home, to avoid routine, to be able to create. And I got all of it and MORE.
 
         ↳ **u/ohmygawdjenny** (16 pts)
 
         And another thing: I've always believed that people get what they want in life. If they want a mediocre life and a small, steady income, that's what they'll have. If their idea of a relationship is a guy/gal who's "okay," they'll have that (and hate their spouse in 5-10 years). If they believe they are ordinary, not smart enough, talentless, they will be treated as such. I've seen it all around me.
-        
+
         It truly all starts with a belief.
 
           ↳ **u/Snowowl22** (0 pts)
@@ -1310,7 +1311,7 @@ If you have it, please tell me. I am struggling to still believe after almost a 
       ↳ **u/ohmygawdjenny** (36 pts)
 
       There are some posts here about people having manifested millions/big passive income/early retirement. Just look it up.
-      
+
       The explanation for your question is simple. People learn about manifesting and focus on the things they want mostly vs changing their self-concept. So, they manifest within their old self-concept. Getting surprised by finding $100 and a message from SP. Few go deeper, and they're too busy having fun and living their lives to post anything. No reason to be having discussions with strangers on Reddit when you could be traveling around Fiji, is there?
 
         ↳ **u/Frdoco11** (2 pts)
@@ -1341,33 +1342,33 @@ If you have it, please tell me. I am struggling to still believe after almost a 
 
       🙄
 
-  ↳ **u/Valuable_Web2712** (29 pts)
+↳ **u/Valuable_Web2712** (29 pts)
 
-  OP says they have been a master at manifesting but also sounds young-ish and that might feel like a lot of money to them. What we want expands over our lifetime and with our power growing. 
-  
-  Many people won’t want a focus on wealth for many reasons (they do want it but only from work / a business they build gradually, they judge wealth, they only want enough for the ebbs and flows and feel that’s always provided, etc) and others will want it but see it differently over time. What I make and have now would’ve seemed like SO MUCH to me 10 years ago or even 5. I have felt the expansion over time. 
-  
-  A lot of money is relative, as you say. Most people don’t dream of becoming billionaires frankly. I’m not saying not to, and I’m opening up to the idea myself! I’ve switched recently to manifesting a lot more money and it’s working beautifully. 
-  
-  But I’ve just noticed that isn’t really what people ultimately seem to want. It’s telling that most people have a lot of negative beliefs about wealth and are frankly happy to keep them—they want enough, they want to have fun, they want to be secure, but they don’t really want the responsibility of multimillions or billions in many cases. They just want to feel validated, safe, abundant, free of fear, and they want to resonate with middle class normalcy. 
-  
-  If you find someone using the Law who is happy in themselves and secure in their power and they want to have millions, they will. I have no doubt. Through hard work if they only believe or prefer it come that way or through luck if they’re open. 
-  
-  But just look at lottery speculation posts and how many people think lottery winners are all taken advantage of, unhappy, unlikely to keep their money (while it can happen, it’s not the majority of non winners that go broke and studies show winners are happier after, just not as much happier as a scientist thought they would be). Many people view money as a necessary evil in so many cases that $100 feels fun to them but 1 billion dollars feels dangerous or foreign even if they joke they want it. 
-  
-  You’ll find more people wanting love (SP or general) than riches. Many people who want money at all just want security and comfort usually and maybe a bit of fun, like $100 from the ground. Or they want their business to be a success, but not just the money. If you want money, you’ll get it though, if you assume you will. You’ll get so much that yes $100 feels like a penny on the ground. 
+OP says they have been a master at manifesting but also sounds young-ish and that might feel like a lot of money to them. What we want expands over our lifetime and with our power growing. 
 
-  ↳ **u/jadedmaverick1820** (23 pts)
+Many people won’t want a focus on wealth for many reasons (they do want it but only from work / a business they build gradually, they judge wealth, they only want enough for the ebbs and flows and feel that’s always provided, etc) and others will want it but see it differently over time. What I make and have now would’ve seemed like SO MUCH to me 10 years ago or even 5. I have felt the expansion over time. 
 
-  I bartended at a nice hotel’s restaurant back in the day and needed $250 for a bill so I spent the day imagining walking out from work with that money and how happy and relieved I would be. I wrote “I am so happy and grateful I made $250 tonight” on a slip of paper and taped it to the register. 
-  
-  I had a group of four couples come in and that was basically it for the night. It was a week day night and it was just slow. But those four couples and I had a great time! They were *literally* just throwing money over the bar to me. It was crazy. I made my $250 goal that night. I spent that day only manifesting it.
+A lot of money is relative, as you say. Most people don’t dream of becoming billionaires frankly. I’m not saying not to, and I’m opening up to the idea myself! I’ve switched recently to manifesting a lot more money and it’s working beautifully. 
 
-  ↳ **u/MediumLoan6722** (32 pts)
+But I’ve just noticed that isn’t really what people ultimately seem to want. It’s telling that most people have a lot of negative beliefs about wealth and are frankly happy to keep them—they want enough, they want to have fun, they want to be secure, but they don’t really want the responsibility of multimillions or billions in many cases. They just want to feel validated, safe, abundant, free of fear, and they want to resonate with middle class normalcy. 
 
-  I believe this has a lot to do with identity. There’s no point in denying it nothing is impossible , but for someone who has lived their whole life in scarcity, earning very little, believing that they can make one million overnight is very difficult. The most logical path is really to go little by little, so you can build more confidence in the law. But I also think you shouldn’t base yourself on or compare yourself to other people. Even if you don’t see any success stories here, be your own success story. I used to be like that too . I wanted to see other people’s stories to confirm that what I wanted was possible. But you need to keep in mind that you don’t know how that person lives, you don’t know their beliefs, so there’s no way to say for sure why they didn’t achieve something or why they did. Only they truly know.
-  
-  I’m from Brazil, and here there is a well-known woman named Paulinha Leite. She has already won lottery prizes more than 50 times, and she openly admits that she uses the law. Her latest prize was at the end of 2025, when she won one million.
+If you find someone using the Law who is happy in themselves and secure in their power and they want to have millions, they will. I have no doubt. Through hard work if they only believe or prefer it come that way or through luck if they’re open. 
+
+But just look at lottery speculation posts and how many people think lottery winners are all taken advantage of, unhappy, unlikely to keep their money (while it can happen, it’s not the majority of non winners that go broke and studies show winners are happier after, just not as much happier as a scientist thought they would be). Many people view money as a necessary evil in so many cases that $100 feels fun to them but 1 billion dollars feels dangerous or foreign even if they joke they want it. 
+
+You’ll find more people wanting love (SP or general) than riches. Many people who want money at all just want security and comfort usually and maybe a bit of fun, like $100 from the ground. Or they want their business to be a success, but not just the money. If you want money, you’ll get it though, if you assume you will. You’ll get so much that yes $100 feels like a penny on the ground. 
+
+↳ **u/jadedmaverick1820** (23 pts)
+
+I bartended at a nice hotel’s restaurant back in the day and needed $250 for a bill so I spent the day imagining walking out from work with that money and how happy and relieved I would be. I wrote “I am so happy and grateful I made $250 tonight” on a slip of paper and taped it to the register.
+
+I had a group of four couples come in and that was basically it for the night. It was a week day night and it was just slow. But those four couples and I had a great time! They were _literally_ just throwing money over the bar to me. It was crazy. I made my $250 goal that night. I spent that day only manifesting it.
+
+↳ **u/MediumLoan6722** (32 pts)
+
+I believe this has a lot to do with identity. There’s no point in denying it nothing is impossible , but for someone who has lived their whole life in scarcity, earning very little, believing that they can make one million overnight is very difficult. The most logical path is really to go little by little, so you can build more confidence in the law. But I also think you shouldn’t base yourself on or compare yourself to other people. Even if you don’t see any success stories here, be your own success story. I used to be like that too . I wanted to see other people’s stories to confirm that what I wanted was possible. But you need to keep in mind that you don’t know how that person lives, you don’t know their beliefs, so there’s no way to say for sure why they didn’t achieve something or why they did. Only they truly know.
+
+I’m from Brazil, and here there is a well-known woman named Paulinha Leite. She has already won lottery prizes more than 50 times, and she openly admits that she uses the law. Her latest prize was at the end of 2025, when she won one million.
 
     ↳ **u/Wise-Reserve-5355** (6 pts)
 
@@ -1383,10 +1384,10 @@ If you have it, please tell me. I am struggling to still believe after almost a 
 
       ↳ **u/MediumLoan6722** (4 pts)
 
-      There’s not much, but there are these  
-      
+      There’s not much, but there are these
+
       [https://au.news.yahoo.com/influencer-claims-shes-won-the-lottery-over-50-times-022444332.html?guccounter=1&guce\_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce\_referrer\_sig=AQAAAMFtnzIjRprjtAcRzY-q9f5w8NpQJmVMsc-\_ajppqxRpdGpF8iC8hP-6TsAegEQjBBWjcUREpLQxEWq7OpW033TwPz1C\_BqswjgQaeRIfsBJM-4iVkbQfBpnxLn-rAZ6-0x56oK-jL0rqRWjIiJtisgFJthb-3hWDn5Fp6K3od5w](https://au.news.yahoo.com/influencer-claims-shes-won-the-lottery-over-50-times-022444332.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAMFtnzIjRprjtAcRzY-q9f5w8NpQJmVMsc-_ajppqxRpdGpF8iC8hP-6TsAegEQjBBWjcUREpLQxEWq7OpW033TwPz1C_BqswjgQaeRIfsBJM-4iVkbQfBpnxLn-rAZ6-0x56oK-jL0rqRWjIiJtisgFJthb-3hWDn5Fp6K3od5w)
-      
+
       [https://igamingbrazil.com/en/lottery-en/2024/09/11/ex-bbb-earns-more-than-r2-5-million-in-the-lottery/](https://igamingbrazil.com/en/lottery-en/2024/09/11/ex-bbb-earns-more-than-r2-5-million-in-the-lottery/)
 
         ↳ **u/Solid_Counter_4428** (2 pts)
@@ -1397,60 +1398,60 @@ If you have it, please tell me. I am struggling to still believe after almost a 
 
           Well, I don’t follow her on social media,But there are several articles about this here in Brazil. In English, I really didn’t find much information. the last lottery draw, which took place in December 2025, appeared on several pages confirming that she had won, reinforcing her reputation for always winning the lottery. In the photo, she even showed the ticket she had played. It’s worth noting that she herself admits in her account that she doesn’t always win significant amounts, but she is always betting, and she has been doing this for years. After all, I’ve been hearing about her for a long time.
 
-  ↳ **u/Playful-Sample89** (14 pts)
+↳ **u/Playful-Sample89** (14 pts)
 
-  Check out Shane Missler's story and how he won over 400 million in the lottery, he followed Neville and it was well documented. The dude even commented on this sub
+Check out Shane Missler's story and how he won over 400 million in the lottery, he followed Neville and it was well documented. The dude even commented on this sub
 
     ↳ **u/Valuable_Web2712** (1 pts)
 
     I wish I could find his posts somewhere but I don’t think they’re archived at all. 
 
-  ↳ **u/Kindly-Ear-1892** (17 pts)
+↳ **u/Kindly-Ear-1892** (17 pts)
 
-  i'm not trying to rude or anything, but you've known the law for a decade? and yet it seems like you're being too logical and giving too much meaning to everything you see in the physical realm. you're just being too overly critical, you're making it complicated. 
-  
-  we all live in our own realities and consciousness. 
-  
-  come to think of it, do YOU think you can manifest a huge amount of money? let's say $1,000,000 in one go. if your answer is yes, then it is possible you can receive it. doesn't matter HOW since you'll only think from the end. 
-  
-  some people's success where they receive $100 only is probably because in their OWN REALITY, a large sum of money cannot possibly be given to them. 
-  
-  even i have my money manifestation wherein i visualized $20 (₱1,000 in my country's currency) raining on me. that exact money bill is already huge for me. i did visualize for 3 days straight and i received $20 in two separate occasions in a matter of 5 days. ofc i didn't have a chunk or a room full $20 because duh, i cannot simply convince myself it's plausible for that to happen. 
-  
-  it all boils down to self persuasion. 
-  
-  also, you haven't read most of the posts here because i saw a lot about manifesting a huge amount of money, miracle healings, moving in to their OWN dream house, physical changes, and a lot more that honestly seems impossible for normal people who doesn't know the law.
-  
-  i'm not sure if you know u/OrionDirectorate, but he's one (or perhaps he is) the most popular master manifestor in this sub. he manifested many great and impossible things in just a matter of days and under a month.
+i'm not trying to rude or anything, but you've known the law for a decade? and yet it seems like you're being too logical and giving too much meaning to everything you see in the physical realm. you're just being too overly critical, you're making it complicated.
+
+we all live in our own realities and consciousness.
+
+come to think of it, do YOU think you can manifest a huge amount of money? let's say $1,000,000 in one go. if your answer is yes, then it is possible you can receive it. doesn't matter HOW since you'll only think from the end.
+
+some people's success where they receive $100 only is probably because in their OWN REALITY, a large sum of money cannot possibly be given to them.
+
+even i have my money manifestation wherein i visualized $20 (₱1,000 in my country's currency) raining on me. that exact money bill is already huge for me. i did visualize for 3 days straight and i received $20 in two separate occasions in a matter of 5 days. ofc i didn't have a chunk or a room full $20 because duh, i cannot simply convince myself it's plausible for that to happen.
+
+it all boils down to self persuasion.
+
+also, you haven't read most of the posts here because i saw a lot about manifesting a huge amount of money, miracle healings, moving in to their OWN dream house, physical changes, and a lot more that honestly seems impossible for normal people who doesn't know the law.
+
+i'm not sure if you know u/OrionDirectorate, but he's one (or perhaps he is) the most popular master manifestor in this sub. he manifested many great and impossible things in just a matter of days and under a month.
 
     ↳ **u/hungzai** (-1 pts)
 
     You're not being rude at all. And thank you for your response.
-    
-    I understand that not everybody can persuade themselves they can recieve a million at once. And you said it isn't to you. That's fine. I am saying, surely there are many many who do, and some would post it here. If you would be so kind, can you point out a couple for me to look at? And shouldn't it be many many many? 
-    
+
+    I understand that not everybody can persuade themselves they can recieve a million at once. And you said it isn't to you. That's fine. I am saying, surely there are many many who do, and some would post it here. If you would be so kind, can you point out a couple for me to look at? And shouldn't it be many many many?
+
     For those people with money,  thinking about picking up 100 bucks is a poverty mindset. If you had a billion you wouldn't be thinking small like that, at least most rich people. If you are not able to persuade yourself of receiving a room full of 20s, why? Because your life experience? But shouldn't circumstances not matter? In fact, the very fact that you think the 20 bucks is a big deal to you is what I am talking about. If you go to a "financial success seminar", you would want to hear from people who have it. Not the guy who picked up 20 bucks. To a fitness seminar you want to hear from the fitness champion, not some guy who lost 3 pounds.
-    
+
     For what its worth, money isn't my problem. My issue is healthy related. Not myself but those whom I love and take care of. Something that I had struggled for years. Always getting little bits and pieces "doctor said this or good news that". Still never solved the problem. At times it seemed opposite even.
-    
+
     By the way, a lot of successful people in their respective fields have never heard of Neville or his teachings. I can only think of 3 well known ones off the top of my mind. A lot of them actually preach the opposite, that imagining isn't doing anything that you have to earn it (unlike Neville who says the father willingly gives it at no cost). From experience, I do not believe them either.
-    
+
     I posted my comment fully hoping that I was wrong. I would be so happy if you or anyone else put me in my place so I know this can work fully
 
       ↳ **u/Vasilleva** (17 pts)
 
       A quick note: People with money, billionaires, will never hesitate to pick up even a single dollar😉
-      
+
       And they will be very careful with it. This is an abundance mindset. And that's why they are billionaires.
-      
+
       It's not about the amount. It's about the attitude.
-      
-      
-      
+
+
+
       Money is money. Rejoicing at $100, rejoicing at even a cent, will only bring more money.
-      
+
       Once again: the amount doesn't matter when you affirm, "I easily fulfill all my desires! Money is everywhere!"
-      
+
       So, the author of this post is definitely moving toward a billion👌🏼
 
         ↳ **u/Cool-Economist-1627** (1 pts)
@@ -1460,147 +1461,147 @@ If you have it, please tell me. I am struggling to still believe after almost a 
       ↳ **u/Kindly-Ear-1892** (3 pts)
 
       since your main concern and problem, there's a ton of health success stories here in this sub! just use the search engine and sort the posts with the most upvotes. you can also add some keywords like impossible so you can get the best results. once i have the time, i can link those seemingly impossible success stories here.
-      
+
       i too have a my own success story in regards of health to you. i only learned about the law for about a week that time since i wanted my ex back. my mom caught a dengue back in early november 15, 2024. her blood platelets were extremely low so she was in a considerably very dangerous situation so she had to get admitted to the hospital. i started robotically affirming "mom is healed. she's going home now". there were some negative thoughts about the circumstances ofc, but i never entertained or paid attention to it and just kept affirming. i also affirmed that we would be paying less of the hospital bills than intended to. all of it came to fruition by november 18 because my mom came home by november 19. it only took 3 days!
-      
-      honestly, my biggest circumstance to my mom's situation was hitting me right in the face. my dad died almost 5 years ago. i was scared i'd lose my mom too so i guess that's what "motivated" me to push through and think of only the end, her being healed and going home. had i only knew about the law back then, my father would still be alive. 
-      
-      and you're right circumstances don't really matter. but financial, along with love (or relationships in general), has always been the hardest thing for me to manifest. i put too much importance to them as if i'm gonna die tomorrow if i don't receive have it in my reality. very sad, but like what you said, it's my life experience. throughout my existence, i've never been freed of financial burdens and i was scared of falling in love. hence, i get to experience those feelings over and over again because i never use my imagination to purge my subconscious beliefs that i can experience more. it is i who is hindering myself from experiencing the great things my imagination can provide me, it's hard to accept them.  
-      
-      perhaps if i continued persisting a large sum of money, like a room full of $20 or even more, I CAN manifest it. it's just gonna take time since at the moment, it seems too far fetched for me. 
-      
+
+      honestly, my biggest circumstance to my mom's situation was hitting me right in the face. my dad died almost 5 years ago. i was scared i'd lose my mom too so i guess that's what "motivated" me to push through and think of only the end, her being healed and going home. had i only knew about the law back then, my father would still be alive.
+
+      and you're right circumstances don't really matter. but financial, along with love (or relationships in general), has always been the hardest thing for me to manifest. i put too much importance to them as if i'm gonna die tomorrow if i don't receive have it in my reality. very sad, but like what you said, it's my life experience. throughout my existence, i've never been freed of financial burdens and i was scared of falling in love. hence, i get to experience those feelings over and over again because i never use my imagination to purge my subconscious beliefs that i can experience more. it is i who is hindering myself from experiencing the great things my imagination can provide me, it's hard to accept them.
+
+      perhaps if i continued persisting a large sum of money, like a room full of $20 or even more, I CAN manifest it. it's just gonna take time since at the moment, it seems too far fetched for me.
+
       lastly, the reason i deleted my post about my mom's health success story here in this sub because, some people refuses to study neville and just want to get spoon-fed. i received numerous private messages asking me to help them with their situation when i already outlined how i manifested it. i'm guessing, that's why most people with big wins doesn't post theirs.. for the reason there are those who wants other people to manifest for them. it just gets extremely tiring and draining teaching people on how to manifest when there are tons of resources where you can learn and understand the power of our subconscious minds.
 
       ↳ **u/Cool-Economist-1627** (6 pts)
 
       What makes you think that everyone who does this and is successful will post about it? Even if there were "many many many" posts, would you believe them? You can sort this sub from top rated of all time and find success stories. You can use the search bar for success stories. But even so, why do you need people on reddit to prove you wrong or right?
-      
+
       I've seen a trend in comments similar to yours where they laugh at people sharing "small" manifestations, and baulk at the "big" ones as though they are fake.
-      
+
       Also, you assume that rich people wouldn't pick up $100 off the street. What makes you think that? That being happy with finding $100 is poverty mentality is something YOU believe. Have you been around rich people? Do you know how they operate? Many people, no matter how rich, if they found $100 on the street and no one was looking or knew who they were, would absolutely pick it up and be delighted in it- why? because it's an *extra* $100, not $100 out of their own inventory of cash. What you're describing is someone who is *acting* like they are rich and above others. That is not the same as simply being *rich*.
-      
+
       Your assumptions about rich people, and about the validity and size of people's manifestations are your own limiting beliefs.
 
-  ↳ **u/Worried-Listen-1377** (10 pts)
+↳ **u/Worried-Listen-1377** (10 pts)
 
-  Hey. Ive manifest $10k for myself and received $12k. Ive manifested insane career opportunities that have taken me all the way from NY to LA because of my talent. Ive met celebrities, been in TV shows, a movie, etc. These things all happened because I believe im more than worthy. I am pretty young and i know exactly what i want for myself. $100 is a wonderful thing, you can have an amazing paying job and still be happy about finding $100. Ive made $1k recently being on a tv show !! Manifesting a career that provides great financial stability can take time because careers take time to grow, this doesn’t mean we can’t be happy about the small financial manifestations along the way.
+Hey. Ive manifest $10k for myself and received $12k. Ive manifested insane career opportunities that have taken me all the way from NY to LA because of my talent. Ive met celebrities, been in TV shows, a movie, etc. These things all happened because I believe im more than worthy. I am pretty young and i know exactly what i want for myself. $100 is a wonderful thing, you can have an amazing paying job and still be happy about finding $100. Ive made $1k recently being on a tv show !! Manifesting a career that provides great financial stability can take time because careers take time to grow, this doesn’t mean we can’t be happy about the small financial manifestations along the way.
 
-  ↳ **u/Jumeaux2012** (5 pts)
+↳ **u/Jumeaux2012** (5 pts)
 
-  Let me chime in as you requested: I believe there is self-concept and exposure/awareness? There's a guy here who blessed us by sharing his detailed journey of manifesting 30 million and being on his way to 100 million.
-  
-  My mentor has manifested over 300 million USD. From going through his course, I noticed he was exposed to reading people like Mme JC Walker, Henry Ford, Eisten, etc. This gave him a big vision to step up his self-concept.
-  
-  The course creators? They are aspiring to something just a bit better than their environment. They have the same details; some know more than him. But they can't see themselves commanding big amounts of money.
-  
-  They never tune themselves to believe they could create phenomenal products. Selling courses is their attainable aspiration.
-  
-  2 days ago, while reflecting, it occurred to me that Neymar, the Brazilian player, to me, is the biggest manifestator of our time. Not Oprah Winfrey!
-  
-  He manifested 1 billion from thin air, from someone who never knew him as an inheritance.
-  
-  English is my seconf language. 24 hours later, I saw a newsfeed in my native language that said he plans to build a smart city in Brazil, as well as have a city named after him in Saudi Arabia.
-  
-  Neymar was already earning millions of dollars, so stepping up his self-concept of a billion dollars was easy, compared to, let's say, Joe Dispenza.  
-    
-  I'm a football fan. If you ask me today, I'll tell you Neymar's career has been like a sublimation: while he does a little in the field, he's always talked much about outside the field.   
-    
-  He's always in the news as a big player. 
-  
-  So, if you're looking at an example of one who got a huge amount of money that came to him effortlessly, look at Neymar to believe that the law works.
-  
-  I'm currently manifesting something huge, and I believe it's almost here. Once in the 3D, I'll let you know.
-  
-  Believe! It's pure metaphysics. It works! We can do everything with our minds.
+Let me chime in as you requested: I believe there is self-concept and exposure/awareness? There's a guy here who blessed us by sharing his detailed journey of manifesting 30 million and being on his way to 100 million.
 
-  ↳ **u/Baseball_Routine** (7 pts)
+My mentor has manifested over 300 million USD. From going through his course, I noticed he was exposed to reading people like Mme JC Walker, Henry Ford, Eisten, etc. This gave him a big vision to step up his self-concept.
 
-  $100 is a lot of money in some countries. Still we should appreciate even small amounts. I partly agree with you, when you see posts like ‘I manifested a butterfly’ it’s annoying and hilarious
+The course creators? They are aspiring to something just a bit better than their environment. They have the same details; some know more than him. But they can't see themselves commanding big amounts of money.
 
-  ↳ **u/Mku_280** (5 pts)
+They never tune themselves to believe they could create phenomenal products. Selling courses is their attainable aspiration.
 
-  Just go to YouTube and type "Jim Carrey manifestation" and watch the shorts. He said that he was using manifestation to become a big Hollywood actor. What more proof do you need?
-  There are other celebs who clearly talked about practicing manifestation and they are millionaires now.
+2 days ago, while reflecting, it occurred to me that Neymar, the Brazilian player, to me, is the biggest manifestator of our time. Not Oprah Winfrey!
 
-  ↳ **u/Buiate** (2 pts)
+He manifested 1 billion from thin air, from someone who never knew him as an inheritance.
 
-  It may sound easy to manifest, but in real life, it also may not be easy! Let's say 100 people manifest wealth, how many truly live from the state where their desire is already theirs? Perhaps one day they may be rich, and now they are seeing all these small successes as encouragement or proof that the law is real. There are some posts about how people manifested a very good life though. And perhaps many others who did that but are not posting on Reddit. When you read into millionaire biographies, one theme in common that they have often is they believe that they have already succeeded and none of their plans will fail. However they won't be here posting on Reddit.
+English is my seconf language. 24 hours later, I saw a newsfeed in my native language that said he plans to build a smart city in Brazil, as well as have a city named after him in Saudi Arabia.
 
-  ↳ **u/PassionProud9275** (2 pts)
+Neymar was already earning millions of dollars, so stepping up his self-concept of a billion dollars was easy, compared to, let's say, Joe Dispenza.
 
-  Because most people can't and won't ever believe that they will ever be literal millionaires. It's not that its impossible, but they think it is..for them 
+I'm a football fan. If you ask me today, I'll tell you Neymar's career has been like a sublimation: while he does a little in the field, he's always talked much about outside the field.
 
-  ↳ **u/Frdoco11** (2 pts)
+He's always in the news as a big player.
 
-  Look up Helene Hedsell
+So, if you're looking at an example of one who got a huge amount of money that came to him effortlessly, look at Neymar to believe that the law works.
 
-  ↳ **u/bjohnlsu** (2 pts)
+I'm currently manifesting something huge, and I believe it's almost here. Once in the 3D, I'll let you know.
 
-  Because they don't have blocks in believing they can receive something they perceive to be "small" manifestations, but they still likely possess an underlying belief that the "Big" things are more difficult to manifest and can't possibly come as easily. 
-  
-  This is a false assumption however because the Field doesn't judge our ideas of what we want as large or small, it simply responds to our assumptions about the ideas.
+Believe! It's pure metaphysics. It works! We can do everything with our minds.
+
+↳ **u/Baseball_Routine** (7 pts)
+
+$100 is a lot of money in some countries. Still we should appreciate even small amounts. I partly agree with you, when you see posts like ‘I manifested a butterfly’ it’s annoying and hilarious
+
+↳ **u/Mku_280** (5 pts)
+
+Just go to YouTube and type "Jim Carrey manifestation" and watch the shorts. He said that he was using manifestation to become a big Hollywood actor. What more proof do you need?
+There are other celebs who clearly talked about practicing manifestation and they are millionaires now.
+
+↳ **u/Buiate** (2 pts)
+
+It may sound easy to manifest, but in real life, it also may not be easy! Let's say 100 people manifest wealth, how many truly live from the state where their desire is already theirs? Perhaps one day they may be rich, and now they are seeing all these small successes as encouragement or proof that the law is real. There are some posts about how people manifested a very good life though. And perhaps many others who did that but are not posting on Reddit. When you read into millionaire biographies, one theme in common that they have often is they believe that they have already succeeded and none of their plans will fail. However they won't be here posting on Reddit.
+
+↳ **u/PassionProud9275** (2 pts)
+
+Because most people can't and won't ever believe that they will ever be literal millionaires. It's not that its impossible, but they think it is..for them 
+
+↳ **u/Frdoco11** (2 pts)
+
+Look up Helene Hedsell
+
+↳ **u/bjohnlsu** (2 pts)
+
+Because they don't have blocks in believing they can receive something they perceive to be "small" manifestations, but they still likely possess an underlying belief that the "Big" things are more difficult to manifest and can't possibly come as easily.
+
+This is a false assumption however because the Field doesn't judge our ideas of what we want as large or small, it simply responds to our assumptions about the ideas.
 
     ↳ **u/hungzai** (0 pts)
 
     Some people must also not have those blocks and like yo post on reddit too, surely?
 
-  ↳ **u/edensgreen** (2 pts)
+↳ **u/edensgreen** (2 pts)
 
-  i manifested 36k. 100 bucks usually happens pretty quickly, easily, and often, even to me. i don’t post about those though. also manifested my bf back twice and for good that time
+i manifested 36k. 100 bucks usually happens pretty quickly, easily, and often, even to me. i don’t post about those though. also manifested my bf back twice and for good that time
 
-  ↳ **u/JellyfishOk9488** (2 pts)
+↳ **u/JellyfishOk9488** (2 pts)
 
-  i think it’s just the stories you’re coming across, like ironically even the thought that went into this post will likely cause you to manifest more $100 stories lol
-  
-  i will say though, $100 is the highest american dollar. so it can work as a reflection of being aligned with wealth, esp when it’s physical money ~ i see ppl manifesting hundreds to thousands all the time though
+i think it’s just the stories you’re coming across, like ironically even the thought that went into this post will likely cause you to manifest more $100 stories lol
 
-  ↳ **u/Rare_Protection1488** (2 pts)
+i will say though, $100 is the highest american dollar. so it can work as a reflection of being aligned with wealth, esp when it’s physical money ~ i see ppl manifesting hundreds to thousands all the time though
 
-  I'm with you. But at the same time people who do go on to make huge strides talk about it on YouTube and other platforms and many of them will credit the work itself. Outside causes.and anything besides the I am.  I think it's less about people having huge success and more about where the credit is due.
-  
-  Reddit just gets mostly the Gen z kids without a relative sense of general wealth. They're still fighting to leave their parents money mindsets of struggle in the past. Hundred bucks is something I'd personally forget I earned or spent within a minute or two. Finding it on the ground is fun I guess. But nothing to write home about.
-  
-  I personally made significant progress beginning the year I found Neville. I tripled my annual income and did it in 6 months. I got my family on a new path. My wife doesn't need to work anymore and we've escaped the bottom feeder mentality. Life is much easier when we don't need to worry about bills.
+↳ **u/Rare_Protection1488** (2 pts)
 
-  ↳ **u/[deleted]** (1 pts)
+I'm with you. But at the same time people who do go on to make huge strides talk about it on YouTube and other platforms and many of them will credit the work itself. Outside causes.and anything besides the I am. I think it's less about people having huge success and more about where the credit is due.
 
-  [removed]
+Reddit just gets mostly the Gen z kids without a relative sense of general wealth. They're still fighting to leave their parents money mindsets of struggle in the past. Hundred bucks is something I'd personally forget I earned or spent within a minute or two. Finding it on the ground is fun I guess. But nothing to write home about.
+
+I personally made significant progress beginning the year I found Neville. I tripled my annual income and did it in 6 months. I got my family on a new path. My wife doesn't need to work anymore and we've escaped the bottom feeder mentality. Life is much easier when we don't need to worry about bills.
+
+↳ **u/[deleted]** (1 pts)
+
+[removed]
 
     ↳ **u/AutoModerator** (1 pts)
 
     Your post or comment was removed due to too much negative comment [karma](https://support.reddithelp.com/hc/en-us/articles/204511829-What-is-karma) on your account.
-    
+
     *I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NevilleGoddard) if you have any questions or concerns.*
 
-  ↳ **u/Bend-Select** (1 pts)
+↳ **u/Bend-Select** (1 pts)
 
-  The answer is in your post; POVERTY MINDSET and a VERY LOW self worth/ self esteem. This is the reason they post this nonsense, they are proud of their accomplishments and want to “teach “ others. It is ridiculous especially coming from individuals that claim they read and understood Neville and the law.
+The answer is in your post; POVERTY MINDSET and a VERY LOW self worth/ self esteem. This is the reason they post this nonsense, they are proud of their accomplishments and want to “teach “ others. It is ridiculous especially coming from individuals that claim they read and understood Neville and the law.
 
-  ↳ **u/Snowowl22** (1 pts)
+↳ **u/Snowowl22** (1 pts)
 
-  Thank you, been thinking about that lately also.
+Thank you, been thinking about that lately also.
 
-  ↳ **u/commaoxford** (1 pts)
+↳ **u/commaoxford** (1 pts)
 
-  I manifested a $165k raise this year
-  On top of the $105k I was already making. I think my nervous system doesn’t feel safe receiving more than that yet, and I’m subconsciously blocking myself from
-  making $500k a year, or a million a year, but two years ago I wouldn’t have felt like it was realistic for me to make $250k so no amount of forcing a manifestation would make it feel safe in my body until I regulated my nervous system and believed deeply it cold happen. Now that I’m halfway to $500k that feels way more realistic and I think I could manifest that next. And then hopefully a million at some point. But right now a million sounds outlandish to me, so I’m not going to be able to manifest it from that place.
+I manifested a $165k raise this year
+On top of the $105k I was already making. I think my nervous system doesn’t feel safe receiving more than that yet, and I’m subconsciously blocking myself from
+making $500k a year, or a million a year, but two years ago I wouldn’t have felt like it was realistic for me to make $250k so no amount of forcing a manifestation would make it feel safe in my body until I regulated my nervous system and believed deeply it cold happen. Now that I’m halfway to $500k that feels way more realistic and I think I could manifest that next. And then hopefully a million at some point. But right now a million sounds outlandish to me, so I’m not going to be able to manifest it from that place.
 
 **u/Specific-Gold8567** (15 pts)
 
-If you regulated your nervous system that fast that's a far bigger success   than a few hundred dollars 😅
+If you regulated your nervous system that fast that's a far bigger success than a few hundred dollars 😅
 
-  ↳ **u/Worried-Listen-1377** (6 pts)
+↳ **u/Worried-Listen-1377** (6 pts)
 
-  lol you’re absolutely right. it was such a stressful week and I just had to do something. I get overwhelmed easily so all i needed was some meditation, self concept affirmations and some stretching 😄
+lol you’re absolutely right. it was such a stressful week and I just had to do something. I get overwhelmed easily so all i needed was some meditation, self concept affirmations and some stretching 😄
 
 **u/[deleted]** (7 pts)
 
 [deleted]
 
-  ↳ **u/pm302122** (9 pts)
+↳ **u/pm302122** (9 pts)
 
-  I feel the same recently but trust me you can keep a desired state even while being stressed. That's actually a nice way to remind yourself that you rule your mind no matter what, even if you're overwhelmed and tired. Yes, then it's easier for old patterns to try to get in your way, but still it's another moment when you show up and keep proving yourself who you really are, even if you feel you're giving like 1% of yourself and your possibilities. Cause you're not your stress, emotions and sleepless night, but God existing no matter what 🩷
+I feel the same recently but trust me you can keep a desired state even while being stressed. That's actually a nice way to remind yourself that you rule your mind no matter what, even if you're overwhelmed and tired. Yes, then it's easier for old patterns to try to get in your way, but still it's another moment when you show up and keep proving yourself who you really are, even if you feel you're giving like 1% of yourself and your possibilities. Cause you're not your stress, emotions and sleepless night, but God existing no matter what 🩷
 
 **u/Baseball_Routine** (6 pts)
 
@@ -1614,9 +1615,9 @@ Everyone is a master. They just may not know it. yet.
 
 I love to hear that. How did u manifest the 10 000$? And ppl u wanted? I wish I liked robotic affirming but the only method that works for me and that I like doing is scripting😩
 
-  ↳ **u/[deleted]** (-2 pts)
+↳ **u/[deleted]** (-2 pts)
 
-  [removed]
+[removed]
 
     ↳ **u/succesful333** (2 pts)
 
@@ -1624,14 +1625,14 @@ I love to hear that. How did u manifest the 10 000$? And ppl u wanted? I wish I 
 
     ↳ **u/NevilleGoddard-ModTeam** (1 pts)
 
-    Trolling, including posting inflammatory, irrelevant, or disruptive content intended to provoke emotional reactions or derail discussions, is not allowed. 
-    
+    Trolling, including posting inflammatory, irrelevant, or disruptive content intended to provoke emotional reactions or derail discussions, is not allowed.
+
     Trolling is when someone tries to stir up drama, frustrate others, or cause trouble for no good reason. Examples include:
-    
+
     Posting super-controversial or offensive opinions just to start fights.
     Sharing fake information or pretending not to know stuff to waste people’s time.
     Posting just to annoy, distract, or frustrate others.
-    
+
     If you’re here to cause problems instead of having a real discussion, your post or comment will be removed, and repeat offenders may get banned.
 
 **u/improvedmandem** (4 pts)
@@ -1650,17 +1651,15 @@ how do anybody use robotic affirmations and make them work
 
 Incredible report and congratulations on the manifestations.
 
-
 I'm studying a lot and working on my manifestation and you said something important, the nervous system, when I'm more stable the day and things flow well. If there's already some discomfort, nothing moves forward.
-
 
 Thank you for the report.
 
 **u/Mammoth-Pitch-6128** (2 pts)
 
-Ohh absolutely 💯 regulating ur nervous system is the best thing you can do for yourself. Even if you don’t deliberately try and manifest, things will work out for you and get what you want when ur nervous system is regulated. 
+Ohh absolutely 💯 regulating ur nervous system is the best thing you can do for yourself. Even if you don’t deliberately try and manifest, things will work out for you and get what you want when ur nervous system is regulated.
 
-Coz u feel content, satisfied, not looking for things in the 3D feeling lack inside, dont have to do mental diet its done for you- negative thoughts are wayyyyy less … the benefits are insane “with a regulated nervous system” 
+Coz u feel content, satisfied, not looking for things in the 3D feeling lack inside, dont have to do mental diet its done for you- negative thoughts are wayyyyy less … the benefits are insane “with a regulated nervous system”
 
 And the above explanation was specifically for people who will comment “no you dont need a regulated nervous system to manifest” 🤣🤣 please know what it means and does before BSing.
 
@@ -1686,18 +1685,17 @@ We ask that you familiarize yourself with our **[subreddit rules](https://www.re
 
 Please report any posts or comments that break the rules.
 
-
-*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NevilleGoddard) if you have any questions or concerns.*
+_I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NevilleGoddard) if you have any questions or concerns._
 
 **u/[deleted]** (1 pts)
 
 [removed]
 
-  ↳ **u/AutoModerator** (1 pts)
+↳ **u/AutoModerator** (1 pts)
 
-  Your Reddit account needs to be more than 72 hours old to comment on /r/NevilleGoddard. See the [rules](https://www.reddit.com/r/NevilleGoddard/about/rules) for further commenting guidelines.
-  
-  *I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NevilleGoddard) if you have any questions or concerns.*
+Your Reddit account needs to be more than 72 hours old to comment on /r/NevilleGoddard. See the [rules](https://www.reddit.com/r/NevilleGoddard/about/rules) for further commenting guidelines.
+
+_I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NevilleGoddard) if you have any questions or concerns._
 
 **u/magnetcouple** (1 pts)
 
@@ -1707,9 +1705,7 @@ Not sure the technique that was applied. But overall I feel your enthusiasm whic
 
 Congratulations! I feel like robotic affirmations are the key for me. In the sense that whenever I decide on something, there's always gonna be thoughts like "no it's not happening. You're stuck forever." and I just can't seem to remain in the desired state. (That's the case with some desires that I have, not all of them). That's the result of years of overthinking and literally severe ocd.
 
-
 Robotic affirmations and the best way for me to counterattack the negative thoughts that otherwise would be taking over my mental. 
-
 
 Yes, I know that thoughts ≠ states but in my case I know that I'm not in that desired state when it comes to manifesting some particular situations, no matter how hard I say I decide.
 
@@ -1733,31 +1729,31 @@ How do you regulate your nervous system?
 
 [removed]
 
-  ↳ **u/AutoModerator** (1 pts)
+↳ **u/AutoModerator** (1 pts)
 
-  Your post or comment was removed due to too much negative comment [karma](https://support.reddithelp.com/hc/en-us/articles/204511829-What-is-karma) on your account.
-  
-  *I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NevilleGoddard) if you have any questions or concerns.*
+Your post or comment was removed due to too much negative comment [karma](https://support.reddithelp.com/hc/en-us/articles/204511829-What-is-karma) on your account.
 
-**u/[deleted]** (1 pts)
-
-[removed]
-
-  ↳ **u/AutoModerator** (1 pts)
-
-  Your post or comment was removed due to too much negative comment [karma](https://support.reddithelp.com/hc/en-us/articles/204511829-What-is-karma) on your account.
-  
-  *I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NevilleGoddard) if you have any questions or concerns.*
+_I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NevilleGoddard) if you have any questions or concerns._
 
 **u/[deleted]** (1 pts)
 
 [removed]
 
-  ↳ **u/AutoModerator** (1 pts)
+↳ **u/AutoModerator** (1 pts)
 
-  Your post or comment was removed due to too much negative comment [karma](https://support.reddithelp.com/hc/en-us/articles/204511829-What-is-karma) on your account.
-  
-  *I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NevilleGoddard) if you have any questions or concerns.*
+Your post or comment was removed due to too much negative comment [karma](https://support.reddithelp.com/hc/en-us/articles/204511829-What-is-karma) on your account.
+
+_I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NevilleGoddard) if you have any questions or concerns._
+
+**u/[deleted]** (1 pts)
+
+[removed]
+
+↳ **u/AutoModerator** (1 pts)
+
+Your post or comment was removed due to too much negative comment [karma](https://support.reddithelp.com/hc/en-us/articles/204511829-What-is-karma) on your account.
+
+_I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NevilleGoddard) if you have any questions or concerns._
 
 **u/interestingsapien** (1 pts)
 
@@ -1775,11 +1771,11 @@ Can you share how you did that?
 
 [removed]
 
-  ↳ **u/AutoModerator** (1 pts)
+↳ **u/AutoModerator** (1 pts)
 
-  Your post or comment was removed due to too much negative comment [karma](https://support.reddithelp.com/hc/en-us/articles/204511829-What-is-karma) on your account.
-  
-  *I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NevilleGoddard) if you have any questions or concerns.*
+Your post or comment was removed due to too much negative comment [karma](https://support.reddithelp.com/hc/en-us/articles/204511829-What-is-karma) on your account.
+
+_I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NevilleGoddard) if you have any questions or concerns._
 
 **u/anb_777** (1 pts)
 
@@ -1789,34 +1785,33 @@ What kind of meditating and stretching ? Sorry if that sounds silly but I know t
 
 [removed]
 
-  ↳ **u/AutoModerator** (1 pts)
+↳ **u/AutoModerator** (1 pts)
 
-  Your post or comment was removed due to too much negative comment [karma](https://support.reddithelp.com/hc/en-us/articles/204511829-What-is-karma) on your account.
-  
-  *I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NevilleGoddard) if you have any questions or concerns.*
+Your post or comment was removed due to too much negative comment [karma](https://support.reddithelp.com/hc/en-us/articles/204511829-What-is-karma) on your account.
+
+_I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NevilleGoddard) if you have any questions or concerns._
 
 **u/[deleted]** (1 pts)
 
 [removed]
 
-  ↳ **u/AutoModerator** (1 pts)
+↳ **u/AutoModerator** (1 pts)
 
-  Your post or comment was removed due to too much negative comment [karma](https://support.reddithelp.com/hc/en-us/articles/204511829-What-is-karma) on your account.
-  
-  *I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NevilleGoddard) if you have any questions or concerns.*
+Your post or comment was removed due to too much negative comment [karma](https://support.reddithelp.com/hc/en-us/articles/204511829-What-is-karma) on your account.
+
+_I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NevilleGoddard) if you have any questions or concerns._
 
 **u/creatingmyreality** (1 pts)
 
-Stretching is a great idea for self regulating. Would probably be helpful to put yourself into the state of your desires at the same time. Another idea is EFT Tapping. If you don't know it just get on YouTube as there are a lot of good people out there who do videos on it. I've used that for years to help me when I'm just so tight, stressed - helps me let go. 
+Stretching is a great idea for self regulating. Would probably be helpful to put yourself into the state of your desires at the same time. Another idea is EFT Tapping. If you don't know it just get on YouTube as there are a lot of good people out there who do videos on it. I've used that for years to help me when I'm just so tight, stressed - helps me let go.
 
-Thanks for the great post. Reminds me of things I've known before and have forgotten. I'm usually a pretty good manifester. Been studying it for 25+ years. 
+Thanks for the great post. Reminds me of things I've known before and have forgotten. I'm usually a pretty good manifester. Been studying it for 25+ years.
 
 Not sure if it is just me but I swear things shifted in the last few months and it is easier to manifest now that a few years ago. I did a lot of self-work in the last 1.5 years so maybe it is that.
 
 **u/Good-Acanthisitta897** (0 pts)
 
-Good for you. I feel today it's all bulshit and need to quit. And start living different life. Without the law. It's not for everybody. 
-
+Good for you. I feel today it's all bulshit and need to quit. And start living different life. Without the law. It's not for everybody.
 
 I'm gonna live at least 1 year free of the bullshit. Just normal life. It makes me excited actually. No word manifesting no wasting time for study, thousands of hours, no frustration no disappointment no waiting. Whatever I have left from life , I wanna live manifesting free. Like this bulshit never existed.
 
@@ -1830,14 +1825,13 @@ Since you are a master at manifesting, can I ask you a question if you don't min
 
 **u/Draven_Wolf** (-4 pts)
 
-> I manifested something with my boyfriend that i wanted, got it the next day, small but important opportunities, and most importantly MONEY. I received unexpected money after money after money. An extra $100 from a gift i was not expecting at all, a sudden increase in hours at my job making me earn an extra $250 consistently, and the most unexpected one today, i found $100 on the floor.
+>  I manifested something with my boyfriend that i wanted, got it the next day, small but important opportunities, and most importantly MONEY. I received unexpected money after money after money. An extra $100 from a gift i was not expecting at all, a sudden increase in hours at my job making me earn an extra $250 consistently, and the most unexpected one today, i found $100 on the floor.
 
 Those are coincidences
 
->I have a great history of finding money on the floor, $1, $5, $10 even $20 once. But today I found $100 on the floor on ground. I feel this is a result of not only doing my manifesting methods but most importantly, realizing how important it is to make sure your nervous system is regulated. 
+> I have a great history of finding money on the floor, $1, $5, $10 even $20 once. But today I found $100 on the floor on ground. I feel this is a result of not only doing my manifesting methods but most importantly, realizing how important it is to make sure your nervous system is regulated.
 
 Sounds like somebody lost their money
-
 
 ================================================================================
 THREAD 6 OF 16
@@ -1848,26 +1842,26 @@ THREAD 6 OF 16
 **r/Manifestation** • Posted by u/Dumb_Blair • 96 points
 **URL:** https://reddit.com/r/Manifestation/comments/1qdb3op/
 
-Hi hi, this is a little silly success story of mine of the many. Just to prove that your belief is stronger then your doubts! 
+Hi hi, this is a little silly success story of mine of the many. Just to prove that your belief is stronger then your doubts!
 
-This happened way back last year around May, I discovered a history page where you could basically write the year and all, and it would show you the empires that were there at the time on the map. 
+This happened way back last year around May, I discovered a history page where you could basically write the year and all, and it would show you the empires that were there at the time on the map.
 
-And it was so cool as I’m a history fanatic! 
+And it was so cool as I’m a history fanatic!
 
-But ofc there was a problem, and that was that it’s only accessible through computer! So that got me a little annoyed as I was not economically stable enough to get one, but that didn’t stop me as I often do this trick. 
+But ofc there was a problem, and that was that it’s only accessible through computer! So that got me a little annoyed as I was not economically stable enough to get one, but that didn’t stop me as I often do this trick.
 
-Basically I imagined myself playing and interacting with the site on my school’s computers, which mind you we have both expensive ones like Macs and some old ones from like the 2010’s. But that’s not important, as after I imagined myself there I brushed it off and got ready to go to school. 
+Basically I imagined myself playing and interacting with the site on my school’s computers, which mind you we have both expensive ones like Macs and some old ones from like the 2010’s. But that’s not important, as after I imagined myself there I brushed it off and got ready to go to school.
 
 Lately there had been two scares of pepper spray at the school, as people used them to skip tests and spraying the whole classroom. Intoxicating their classmates just because they didn’t study.
 
-Well May was quite the moth as a third scare happened that day too, A BIG ONE. As they had sprayed it all over the stairs that connected three floors of the school, well basically other then feeling for the first time what you feel when you inhale pepper spray we managed to get to the ground floor from the second. 
-Two of my classmates were in horrible condition and had to go to the hospital, but the teacher took us to the computer room the one with the facy new Macs. 
+Well May was quite the moth as a third scare happened that day too, A BIG ONE. As they had sprayed it all over the stairs that connected three floors of the school, well basically other then feeling for the first time what you feel when you inhale pepper spray we managed to get to the ground floor from the second.
+Two of my classmates were in horrible condition and had to go to the hospital, but the teacher took us to the computer room the one with the facy new Macs.
 And boy was I ecstatic as she went ahead and told us to do our work on the computer while everything calmed down upstairs, ofc I was all over the computer and already on the site.
 
-AND MAN THIS IS TOO CRAZY TO BE A COINCIDENCE, like our brain forces us to believe it so because it feeds on logic as that’s safer to believe rather then a 50 50 chance of it happening. 
+AND MAN THIS IS TOO CRAZY TO BE A COINCIDENCE, like our brain forces us to believe it so because it feeds on logic as that’s safer to believe rather then a 50 50 chance of it happening.
 But yeah, ok this day me and my classmates laugh about that day but to me it was still crazy and too much quick and specific to be a coincidence!
 
-I hope I gave you something to hold onto! Something that won’t discourage you from trying and trying, as everything is possible if you believe in it! 
+I hope I gave you something to hold onto! Something that won’t discourage you from trying and trying, as everything is possible if you believe in it!
 
 ---
 
@@ -1877,18 +1871,17 @@ I hope I gave you something to hold onto! Something that won’t discourage you 
 
 Wow so cool!
 
-  ↳ **u/Dumb_Blair** (1 pts)
+↳ **u/Dumb_Blair** (1 pts)
 
-  Indeed darling! :)) 💕💕
+Indeed darling! :)) 💕💕
 
 **u/Twentyheartsyou** (4 pts)
 
 Thank You 🙂💜 I really needed to see this
 
-  ↳ **u/Dumb_Blair** (5 pts)
+↳ **u/Dumb_Blair** (5 pts)
 
-  No worries and if that helps you any better I visualised it in the morning and then brushed it off and by midday it happened. So really time also doesn’t matter! :)) 💕💕 Lots of love darling!
-
+No worries and if that helps you any better I visualised it in the morning and then brushed it off and by midday it happened. So really time also doesn’t matter! :)) 💕💕 Lots of love darling!
 
 ================================================================================
 THREAD 7 OF 16
@@ -1902,10 +1895,10 @@ THREAD 7 OF 16
 Hi fellow manifestors!! It's my first time writing a post in the sub, and I just wanted to share what helped me manifest my biggest desires, unconsciously..
 I have read the entire Neville collection and since then I tried to connect this knowledge to my unconscious manifestations so far.
 I was a kid too immersed in my imagination, literally living for it. My father, classmates and teachers often scolded me for not being observant, not being focused, because I really didn't care about anything besides my dream world. My imagination was so vivid, a gift from God that was taken from me and now I can't imagine with the same intensity.
-Some techniques that helped me manifest FAST: I would listen to uplifting songs, dance to them and imagine fake scenarios. While dancing, I would constantly look in the mirror, repeat the lyrics and affirm over and over. Another similar technique to SATS, was that before sleeping I would put on my headphones, imagine what I wanted and then sang and FELT those lyrics with all my heart. The results were incredibly good!! Neville was right. 
+Some techniques that helped me manifest FAST: I would listen to uplifting songs, dance to them and imagine fake scenarios. While dancing, I would constantly look in the mirror, repeat the lyrics and affirm over and over. Another similar technique to SATS, was that before sleeping I would put on my headphones, imagine what I wanted and then sang and FELT those lyrics with all my heart. The results were incredibly good!! Neville was right.
 Expect your manifestations with the same joy children expect their presents! They don't doubt, just expect!
-If something unwanted happens, ignore it. Let it starve. 
-The magic formula: LIVE IN YOUR IMAGINATION. PERIOD. Feel your emotions, the more intense the emotion, the sooner you'll get results. Incorporate music!!! SATS!!! -> The real game changer!!! 
+If something unwanted happens, ignore it. Let it starve.
+The magic formula: LIVE IN YOUR IMAGINATION. PERIOD. Feel your emotions, the more intense the emotion, the sooner you'll get results. Incorporate music!!! SATS!!! -> The real game changer!!!
 My last tip: be the MAIN CHARACTER. Embrace the God/Goddess you are. Yes!!!! I am Her, I am all that, I am the shit!! Walk, talk, act, embody this Godlike self concept!! I deserve and can have everything: the car, the house, the person. EXPECT IT. It's coming....⭐
 ❤️🎀
 
@@ -1919,44 +1912,43 @@ We ask that you familiarize yourself with our **[subreddit rules](https://www.re
 
 Please report any posts or comments that break the rules.
 
-
-*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NevilleGoddard) if you have any questions or concerns.*
+_I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NevilleGoddard) if you have any questions or concerns._
 
 **u/Select_Window_6719** (24 pts)
 
 I did this for my running as well listen to up lifting music and just imagine me running quick paces and I'm running extremely fast for long distances and go to bed motivated and wake up motivated to get up early and train twice a day. This is an amazing post and I know more things will come to you as for everybody else that sees this ☺️
 
-  ↳ **u/darkly_ethereal** (6 pts)
+↳ **u/darkly_ethereal** (6 pts)
 
-  Thank you, you are so kind 🙏 motivation is the key and music is the best  tool to use, it always got me miracles.. the best are yet to come, but they're on their way... hope you have the best life ❤️🙏🙏
+Thank you, you are so kind 🙏 motivation is the key and music is the best tool to use, it always got me miracles.. the best are yet to come, but they're on their way... hope you have the best life ❤️🙏🙏
 
 **u/[deleted]** (5 pts)
 
 This is an amazing post:-) And it is so true:) Its being in the love state, flow state:)) Made me so happy:) Thank you!
 
-  ↳ **u/darkly_ethereal** (4 pts)
+↳ **u/darkly_ethereal** (4 pts)
 
-  Oh, thank you!! Hope. It helps somehow ❤️
+Oh, thank you!! Hope. It helps somehow ❤️
 
 **u/InternationalAd2924** (4 pts)
 
 Haha this is what I’ve been doing for three months 🥰 I go to the park while listening to classical music (specifically Andrea Bocelli) while visualizing my dream life and I’ve cried multiple times. I know emotions aren’t necessary to manifest but it was a natural reaction.
 
-  ↳ **u/darkly_ethereal** (4 pts)
+↳ **u/darkly_ethereal** (4 pts)
 
-  Regarding all my successful manifestations, deep emotions really made results come FAST... Especially tears & anger, it's like transmuting this big energy, but yes it all came as a natural reaction, never. forced those emotions.. Now I weaponize them, like fuels 🤍  trust me, it always works 💥
+Regarding all my successful manifestations, deep emotions really made results come FAST... Especially tears & anger, it's like transmuting this big energy, but yes it all came as a natural reaction, never. forced those emotions.. Now I weaponize them, like fuels 🤍 trust me, it always works 💥
 
-  ↳ **u/[deleted]** (2 pts)
+↳ **u/[deleted]** (2 pts)
 
-  It’s so overwhelming isn’t it!! 😭🤯
+It’s so overwhelming isn’t it!! 😭🤯
 
     ↳ **u/darkly_ethereal** (2 pts)
 
     It is indeed!!! Trust the process 👌
 
-  ↳ **u/RemarkablePaint7242** (2 pts)
+↳ **u/RemarkablePaint7242** (2 pts)
 
-  How fitting for me to have just read that… while I am listening to Andrea Bocelli … I have “Il Giorno Più Speciale” on a loop at work, because this song right now makes me feel some kind of way …
+How fitting for me to have just read that… while I am listening to Andrea Bocelli … I have “Il Giorno Più Speciale” on a loop at work, because this song right now makes me feel some kind of way …
 
     ↳ **u/InternationalAd2924** (2 pts)
 
@@ -1992,33 +1984,33 @@ Haha this is what I’ve been doing for three months 🥰 I go to the park while
 
 **u/poof-cloud** (2 pts)
 
-That’s awesome! 
+That’s awesome!
 
 Could you please share the uplifting songs you listen to? I know one - Unstoppable by SIA 🫶🏻
 
-  ↳ **u/darkly_ethereal** (2 pts)
+↳ **u/darkly_ethereal** (2 pts)
 
-  Thank youuu 🙏 what a nice song by the way!!! :)
-  It depends on my mood, I usually stick to one or two songs and loop them ex. If I want to manifest an sp, imagine him singing  those songs to me and feel them, till sweat runs on my face and body and then I have the feeling that it's done. I had this experience in my mind and now I feel at peace and ready to receive ❤️Die for you - the weeknd, dusk till dawn, in the air tonight - Phil Collins, goodnight Moon, I wanna be yours, Beyonce - haunted + crazy in love from fifty shades, Madonna - like a prayer, I turn to you- Melanie C (some are not uplifting, but sensual 😍)
-  🫶🤍
+Thank youuu 🙏 what a nice song by the way!!! :)
+It depends on my mood, I usually stick to one or two songs and loop them ex. If I want to manifest an sp, imagine him singing those songs to me and feel them, till sweat runs on my face and body and then I have the feeling that it's done. I had this experience in my mind and now I feel at peace and ready to receive ❤️Die for you - the weeknd, dusk till dawn, in the air tonight - Phil Collins, goodnight Moon, I wanna be yours, Beyonce - haunted + crazy in love from fifty shades, Madonna - like a prayer, I turn to you- Melanie C (some are not uplifting, but sensual 😍)
+🫶🤍
 
 **u/[deleted]** (1 pts)
 
 [removed]
 
-  ↳ **u/AutoModerator** (1 pts)
+↳ **u/AutoModerator** (1 pts)
 
-  Your post or comment was removed due to too much negative comment [karma](https://support.reddithelp.com/hc/en-us/articles/204511829-What-is-karma) on your account.
-  
-  *I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NevilleGoddard) if you have any questions or concerns.*
+Your post or comment was removed due to too much negative comment [karma](https://support.reddithelp.com/hc/en-us/articles/204511829-What-is-karma) on your account.
+
+_I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NevilleGoddard) if you have any questions or concerns._
 
 **u/EarlyCap2067** (1 pts)
 
 I am confused...I understood that Neville said the emotions related to "feeling the desire fulfilled" were not important, and that actually the neutral state was preferable
 
-  ↳ **u/darkly_ethereal** (3 pts)
+↳ **u/darkly_ethereal** (3 pts)
 
-  I know and that got me confused too until I started testing the law consciously.. I usually am in this neutral state but what works for me when I need accelerated results is always a deep DEEP emotion, otherwise I've figured out my manifestations take a much longer time to come into fruition 🤔 you can test it yourself and share the results ❤️ you can use this technique even once and see your manifestations unfolding soon!!!
+I know and that got me confused too until I started testing the law consciously.. I usually am in this neutral state but what works for me when I need accelerated results is always a deep DEEP emotion, otherwise I've figured out my manifestations take a much longer time to come into fruition 🤔 you can test it yourself and share the results ❤️ you can use this technique even once and see your manifestations unfolding soon!!!
 
     ↳ **u/EarlyCap2067** (1 pts)
 
@@ -2032,12 +2024,11 @@ He recorded an amazing song with Eros Ramazotti t’s long and has all the emoti
 
 [removed]
 
-  ↳ **u/AutoModerator** (1 pts)
+↳ **u/AutoModerator** (1 pts)
 
-  Your Reddit account needs to be more than 72 hours old to comment on /r/NevilleGoddard. See the [rules](https://www.reddit.com/r/NevilleGoddard/about/rules) for further commenting guidelines.
-  
-  *I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NevilleGoddard) if you have any questions or concerns.*
+Your Reddit account needs to be more than 72 hours old to comment on /r/NevilleGoddard. See the [rules](https://www.reddit.com/r/NevilleGoddard/about/rules) for further commenting guidelines.
 
+_I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NevilleGoddard) if you have any questions or concerns._
 
 ================================================================================
 THREAD 8 OF 16
@@ -2100,7 +2091,7 @@ The reason for why it's you're not successful is simply that **90% of your mind 
 
 It can be difficult to create awareness just by yourself, and we all have blindspots that are especially difficult to notice. **If you're looking for guidance in this**, simply comment your current struggle below, and I will personally reply to you.
 
-I hope you found the post valuable! ***Good luck with your manifestation journey!***
+I hope you found the post valuable! **_Good luck with your manifestation journey!_**
 
 ---
 
@@ -2118,8 +2109,7 @@ You can post there as well as here.
 
 Thanks
 
-
-*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Manifestation) if you have any questions or concerns.*
+_I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Manifestation) if you have any questions or concerns._
 
 **u/Skatemyway2014** (4 pts)
 
@@ -2133,9 +2123,9 @@ How did you exactly let go of the old manifestation?
 
 How do I wipe the canvas clean? Do you mean accept what I already manifested?
 
-  ↳ **u/TC_Joni** (5 pts)
+↳ **u/TC_Joni** (5 pts)
 
-  Yes. Wiping the canvas is about bringing everything that currently exists (suppressed feelings) and accepting them.
+Yes. Wiping the canvas is about bringing everything that currently exists (suppressed feelings) and accepting them.
 
     ↳ **u/Tiny-Trainer-11** (5 pts)
 
@@ -2144,34 +2134,34 @@ How do I wipe the canvas clean? Do you mean accept what I already manifested?
       ↳ **u/TC_Joni** (2 pts)
 
       First step is to make it not subconscious. That comes down to awareness but also going outside comfort zone, where the "unwanted" feelings reside.
-      
+
       Negative thoughts come up so easily because they are part of the unconscious programming. Meaning, it's an automatic reaction
 
 **u/thicklittlebunny** (2 pts)
 
 I’m manifesting freedom from working a 9-5, and being provided for. So you’re saying I just need to recognize the freedom I already have (I work remote) and focus on the ways I’m already provided for? I already have these things in some ways, and I want more of them?
 
-  ↳ **u/TC_Joni** (1 pts)
+↳ **u/TC_Joni** (1 pts)
 
-  Your current situation might not reflect all the things you want to have due to blockages towards these energies. You can start working on these blockages by bringing awareness to them.
-  
-  Let's start with this: What makes you want to manifest freedom and being provided for?
+Your current situation might not reflect all the things you want to have due to blockages towards these energies. You can start working on these blockages by bringing awareness to them.
+
+Let's start with this: What makes you want to manifest freedom and being provided for?
 
 **u/cheddarcheese9951** (2 pts)
 
 I want to manifest enough money that i never have to work again, or to find a man who is willing to be the sole provider. It feels impossible because 1) how on earth am I going to obtain such money unless I win the lottery? 2) most couples these days have both parties providing financially - men don't want to be sole providers anymore
 
-  ↳ **u/[deleted]** (4 pts)
+↳ **u/[deleted]** (4 pts)
 
-  Just believe that you’re an exception
+Just believe that you’re an exception
 
-  ↳ **u/[deleted]** (1 pts)
+↳ **u/[deleted]** (1 pts)
 
-  Just believe that you’re an exception
+Just believe that you’re an exception
 
-  ↳ **u/Alexa_Editor** (1 pts)
+↳ **u/Alexa_Editor** (1 pts)
 
-  That's a limiting belief. Plenty of men are providers and women too.
+That's a limiting belief. Plenty of men are providers and women too.
 
 **u/Repulsive-Tear-6020** (2 pts)
 
@@ -2181,9 +2171,9 @@ There are days when I am tired of manifesting love, painting on top of an old ca
 
 Can you explain 1. more relate to SP? I don‘t figure it out properly.
 
-  ↳ **u/TC_Joni** (2 pts)
+↳ **u/TC_Joni** (2 pts)
 
-  Ceetainly. The old picture in this case is 3d. More precisely it's all the narratives you hold about 3d. What do you make it mean?
+Ceetainly. The old picture in this case is 3d. More precisely it's all the narratives you hold about 3d. What do you make it mean?
 
     ↳ **u/CollectionCreative17** (2 pts)
 
@@ -2191,11 +2181,11 @@ Can you explain 1. more relate to SP? I don‘t figure it out properly.
 
 **u/shreyame** (1 pts)
 
-I'm having such a hard time with SPs hot and cold behavior. Every time I get excited that he's here for good,  he goes silent for days and there's a knot in my stomach. I'm so anxious. I'm having a hard time ignoring the current reality. No matter what I tell myself I'm still anxious. 😭
+I'm having such a hard time with SPs hot and cold behavior. Every time I get excited that he's here for good, he goes silent for days and there's a knot in my stomach. I'm so anxious. I'm having a hard time ignoring the current reality. No matter what I tell myself I'm still anxious. 😭
 
-  ↳ **u/TC_Joni** (1 pts)
+↳ **u/TC_Joni** (1 pts)
 
-  When you say 'hot and cold behavior' what do you mean by that?
+When you say 'hot and cold behavior' what do you mean by that?
 
     ↳ **u/Zealousideal-Hope108** (1 pts)
 
@@ -2205,9 +2195,9 @@ I'm having such a hard time with SPs hot and cold behavior. Every time I get exc
 
 I have been trying to manifest my dream partner since years but I haven’t been able to. How do I succeed?
 
-  ↳ **u/TC_Joni** (1 pts)
+↳ **u/TC_Joni** (1 pts)
 
-  I see. In what ways have you been trying to manifest them before?
+I see. In what ways have you been trying to manifest them before?
 
     ↳ **u/Available-Pen-9288** (1 pts)
 
@@ -2229,21 +2219,21 @@ I want to manifest a job of a specific profile, fixed time and everything as per
 
 Can someone please fucking help me!!! I am struggling with manifesting a relationship. I really want a specific person that I have not met however I am open to it being anyone. I feel deep down that I am meant to be with this person. Like my ancestors are pointing me in his direction but again I just want love and conenction like anyone fucking else. I have struggled with this my whole fucking life and I am so sick of it. My 20s were such a mess so I thought if I could just learn and fix certain problems I had, for example attachment styles, I could turn things around. I quit binge drinking, smoking cigarettes, recreational drug use, have been in therapy on and off for years, have listened to all the podcasts and Tik Toks and YoutTube videos and read all the fucking books but it feels like I can't call in love no matter what I do. I bought this book called Calling In the One by Katherine Woodward after watching her really inspirational TedTalk and I set the intention to get married and I swear I havent been on one fucking date in the last two years. I took back my ex because he claimed he had changed and wanted to marry me and it had been five year so I thought there must have been change on his end but he was the same emotionally stunted broken man I met five years ago. I am okay with all of that not working but it feels like nothing I do is bringing me closer!!! I am so fucking lonely and I am getting more and more desperate. I thought as time went on my grip would get looser and maybe I would even give up but I just can't. I feel like like I am stuck in this fucking hallway and I just want this door to fucking open. These past 6 months have been unbeareable. I saw an old coworker had got engaged in May and I lost it. It is now November and I have not met anyone. I tried all the dating apps on and off for yours. What am I doing wrong? I am only saying this to give context. I accept that all of this happened that it didnt work out but I am scared nothing is going to change at this point. I have listened to subliminals, journaled, made vision boards. Why isnt it happening for me? This is really affecting my mental health and well being. I have died my hair, took lessons, signed up for a certification. Like wtf am I missing?! And my faith is wearing down. I feel like God has forgotten me and I am screaming and no one can hear.
 
-  ↳ **u/TC_Joni** (1 pts)
+↳ **u/TC_Joni** (1 pts)
 
-  I was in your shoes around the time of my tipping point. The reason it isn't happening for you is that you have bought into the belief "I am not good enough for anyone". You simply keep looking for another let down, and even interpret opportunities as failures.
-  
-  From experience I can tell you that there's no other way out other than emotional healing. You must also realize that you are the one manifesting this reality. No-one else, Universe, or God is choosing your experience. You are. Universe simply reflects you exactly that which you insist on seeing.
+I was in your shoes around the time of my tipping point. The reason it isn't happening for you is that you have bought into the belief "I am not good enough for anyone". You simply keep looking for another let down, and even interpret opportunities as failures.
+
+From experience I can tell you that there's no other way out other than emotional healing. You must also realize that you are the one manifesting this reality. No-one else, Universe, or God is choosing your experience. You are. Universe simply reflects you exactly that which you insist on seeing.
 
 **u/Busy_Crab1408** (1 pts)
 
 I am wanting to manifest a guy to want to date me. He’s my brothers best friend and my brother is also marrying his cousin… so… he’s obviously cautious of that, as well as, he doesn’t want a gf, and also, he told me 5 years ago he wouldn’t date me..
 
-We’re currently randomly sleeping together and we’ve been on and off like this for years. 
+We’re currently randomly sleeping together and we’ve been on and off like this for years.
 
-How do I change this for him to want to date me when there’s SOOO many hurdles and reality hits me in the face every time  I try? I’m also 35, and worried about time and worried I’ll waste my precious years on this. But I want him 😩🥺
+How do I change this for him to want to date me when there’s SOOO many hurdles and reality hits me in the face every time I try? I’m also 35, and worried about time and worried I’ll waste my precious years on this. But I want him 😩🥺
 
-Any advice for me? 
+Any advice for me?
 
 Ps. I did manifest my ex back from 6 years no contact but it took around 2 years of affirming and visualising. I don’t want it to take that long again
 
@@ -2255,7 +2245,6 @@ My girlfriend broke up with me on 14th October, and after trying to convince her
 
 Can you help me manifest her back permanently, I am trying from the past 3 days
 
-
 ================================================================================
 THREAD 9 OF 16
 ================================================================================
@@ -2265,17 +2254,15 @@ THREAD 9 OF 16
 **r/Manifestation** • Posted by u/pauliipau • 58 points
 **URL:** https://reddit.com/r/Manifestation/comments/1ld5oq4/
 
+Hello everyone beautiful people!
 
-Hello everyone beautiful people! 
-
-I wanted to share my experience with manifestation and how it has transformed my life over the past six months. At first, I was skeptical and unconfident about the idea that our thoughts and beliefs can influence our reality, but I decided to give it a try to see how it goes. 
+I wanted to share my experience with manifestation and how it has transformed my life over the past six months. At first, I was skeptical and unconfident about the idea that our thoughts and beliefs can influence our reality, but I decided to give it a try to see how it goes.
 
 I began practicing conscious manifestation, setting clear intentions and visualizing what I wanted to achieve. Every morning, I would spend a few minutes meditating and visualizing my goals, whether in my career, relationships, or personal well-being. I also started keeping a gratitude journal, which helped me focus on the positive and attract more good things into my life.
 
 The results have been surprising. I've gotten a new job that I really love, I've improved my personal relationships, and most importantly, I've found greater inner peace. I have realized that the key is consistency and maintaining a positive mindset, even when things don't go as expected.
 
 I would love to hear your stories and experiences. What manifestation techniques have worked for you? Any recommendations for those who are starting on this path?
-
 
 ---
 
@@ -2293,8 +2280,7 @@ You can post there as well as here.
 
 Thanks
 
-
-*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Manifestation) if you have any questions or concerns.*
+_I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Manifestation) if you have any questions or concerns._
 
 **u/Relevant_Screen3540** (3 pts)
 
@@ -2306,7 +2292,7 @@ good job!
 
 **u/CoastCheap8709** (1 pts)
 
-Congratulations,sorry I don't have any good story to tell cause I'm struggling. If you don't mind can I ask you question. 
+Congratulations,sorry I don't have any good story to tell cause I'm struggling. If you don't mind can I ask you question.
 
 Did you have goal like specific thing or randomly deciding what you want today? Cause I don't have that much patients like 6month is kind of like mountain for me.
 
@@ -2320,16 +2306,15 @@ I’m still really early, I’ve been binge watching a few youtube podcasts here
 
 She has a credible business background in real estate and a few other businesses, giving her more credibility.
 
-  ↳ **u/Ruibiks** (1 pts)
+↳ **u/Ruibiks** (1 pts)
 
-  Thanks. Did a  search about  Bianca, and add a video to my YouTube text threads to check out later 
-  
-  Here is the link if anyone else wants it [https://www.cofyt.app/search/mastering-the-80-20-rule-of-manifestation-with-bia-6aPuh7HlTai8KX6moc--Tf](https://www.cofyt.app/search/mastering-the-80-20-rule-of-manifestation-with-bia-6aPuh7HlTai8KX6moc--Tf)
+Thanks. Did a search about Bianca, and add a video to my YouTube text threads to check out later
+
+Here is the link if anyone else wants it [https://www.cofyt.app/search/mastering-the-80-20-rule-of-manifestation-with-bia-6aPuh7HlTai8KX6moc--Tf](https://www.cofyt.app/search/mastering-the-80-20-rule-of-manifestation-with-bia-6aPuh7HlTai8KX6moc--Tf)
 
     ↳ **u/prazeros** (1 pts)
 
     i’ve checked out some of Bianca Lysette’s content too really like how she ties manifestation to shifting beliefs and taking action. feels very similar to what OP shared about consistency and daily practice.
-
 
 ================================================================================
 THREAD 10 OF 16
@@ -2358,36 +2343,35 @@ You can post there as well as here.
 
 Thanks
 
-
-*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Manifestation) if you have any questions or concerns.*
+_I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Manifestation) if you have any questions or concerns._
 
 **u/AlluretheGoat** (10 pts)
 
 Insomnia. I have gotten very good at self-hypnosis and programming from there but I would love to be able to do SATs and fall asleep in the wish fulfilled. That is where the subconscious really gets impressed, right? I have manifested some big things. Money being my biggest achievement. Multiple times. I have gotten an SP to come back and profess love to me but I was falling in love with someone else by that point and it caused confusion. I don’t know if I should have dated while manifesting an SP. So timing as well.
 
-  ↳ **u/Grouchy_Table_7119** (1 pts)
+↳ **u/Grouchy_Table_7119** (1 pts)
 
-  Can I dm you bruda
+Can I dm you bruda
 
-  ↳ **u/AdeptCell4106** (1 pts)
+↳ **u/AdeptCell4106** (1 pts)
 
-  Can I DM you for some help in manifestation?
+Can I DM you for some help in manifestation?
 
-  ↳ **u/Independent_Writing6** (1 pts)
+↳ **u/Independent_Writing6** (1 pts)
 
-  Same, when I try to do SATS I simply cant sleep
+Same, when I try to do SATS I simply cant sleep
 
-  ↳ **u/Adorable-Opposite162** (1 pts)
+↳ **u/Adorable-Opposite162** (1 pts)
 
-  Bro. Same. There are so many techniques involving sleep and I am missing out because of insomnia
+Bro. Same. There are so many techniques involving sleep and I am missing out because of insomnia
 
 **u/Rudrashiva** (7 pts)
 
 Negative thoughts , The Instant I put a positive intention on my manifestation , something negative arises in mind and it becomes a mental struggle for me to to do anything.
 
-  ↳ **u/TC_Joni** (1 pts)
+↳ **u/TC_Joni** (1 pts)
 
-  I know what you're going through. May I ask what are you looking to manifest?
+I know what you're going through. May I ask what are you looking to manifest?
 
     ↳ **u/Rudrashiva** (1 pts)
 
@@ -2401,9 +2385,9 @@ Negative thoughts , The Instant I put a positive intention on my manifestation ,
 
 I feel things I want are impossible..i feel like I'm defeatist and cynic. I don't know how to overcome that. Like my actions aren't able to match what I want. Like I want good grades, but I'm not studying much so idk how I'll manifest that. Sometimes I strugle with believing in manifestation itself.
 
-  ↳ **u/TC_Joni** (1 pts)
+↳ **u/TC_Joni** (1 pts)
 
-  That which you hold in your mind will manifest. But what you hold in mind isn't conscious most of the time. You have to become aware of your mind and then let go if it, i.e. surrender to it.
+That which you hold in your mind will manifest. But what you hold in mind isn't conscious most of the time. You have to become aware of your mind and then let go if it, i.e. surrender to it.
 
     ↳ **u/Proud_Inevitable8484** (1 pts)
 
@@ -2421,17 +2405,17 @@ Depression, it’s hard to stay consistent
 
 I can’t find the word for it, I will explain. I have been manifesting a job and I randomly got a job that aligns well with what I want but the salary was lower but I was okay with it. On the same day that I thought I got the job, I was rejected and I don’t know what to make out of it. For a moment I was happy that my manifestation came through only for it not to happen
 
-  ↳ **u/gracezhen** (5 pts)
+↳ **u/gracezhen** (5 pts)
 
-  Better job is waiting for you!
+Better job is waiting for you!
 
     ↳ **u/ExpressFreedom1812** (1 pts)
 
     Thank you so much 🥺
 
-  ↳ **u/TC_Joni** (1 pts)
+↳ **u/TC_Joni** (1 pts)
 
-  Hmm. Was the outcome surprising to you or something you'd expect to happen to you?
+Hmm. Was the outcome surprising to you or something you'd expect to happen to you?
 
     ↳ **u/ExpressFreedom1812** (1 pts)
 
@@ -2461,14 +2445,14 @@ Getting into the SATS. I know I don’t need it but I’d like to be able to do 
 
 Staying positive and living in the end. My manifestation is difficult, so it’s hard for me to stay hopeful.
 
-  ↳ **u/TC_Joni** (2 pts)
+↳ **u/TC_Joni** (2 pts)
 
-  I know that feeling. I used to feel that way too. What are you looking to manifest, and why do you think it hasn't come to fruition yet?
+I know that feeling. I used to feel that way too. What are you looking to manifest, and why do you think it hasn't come to fruition yet?
 
     ↳ **u/BlueBison8** (2 pts)
 
-    Thanks. I’m looking to manifest a large amount of money (hopefully via winning a cash prize - like the lottery) to help make my own and others’ dreams come true. 
-    
+    Thanks. I’m looking to manifest a large amount of money (hopefully via winning a cash prize - like the lottery) to help make my own and others’ dreams come true.
+
     As to why it hasn’t manifested yet, I don’t know. I’m doing my best to live in the end, but I’m not sure what I’m missing.
 
       ↳ **u/TC_Joni** (2 pts)
@@ -2483,19 +2467,19 @@ Staying positive and living in the end. My manifestation is difficult, so it’s
 
 Some days are easier than others for me when it comes to manifestation. On the days that are more challenging I struggle with believing I already have my manifestation and ‘ignoring’ the present. I struggle to live in the end and stay in it, and trusting that the universe is already working in my favor
 
-  ↳ **u/TC_Joni** (1 pts)
+↳ **u/TC_Joni** (1 pts)
 
-  I see. Sounds like desire which is the energy of "I don't have it already". The key is to know what you want but let go of the need. I.e. be fully indifferent whether you'll get what you want.
+I see. Sounds like desire which is the energy of "I don't have it already". The key is to know what you want but let go of the need. I.e. be fully indifferent whether you'll get what you want.
 
 **u/UbeWaffler** (1 pts)
 
-1. Still skeptical about manifesting for someone else, which is my only desire for now. 
+1. Still skeptical about manifesting for someone else, which is my only desire for now.
 
 2. Hard to resist negative thoughts and doubts coming my way. I try to release them as soon as I found them. But they come in fast and intense. And then I stress out about them thinking they are hurting my manifestation, which generate more negativity...
 
-  ↳ **u/TC_Joni** (1 pts)
+↳ **u/TC_Joni** (1 pts)
 
-  What are you looking to manifest for someone else?
+What are you looking to manifest for someone else?
 
     ↳ **u/UbeWaffler** (1 pts)
 
@@ -2507,7 +2491,7 @@ Some days are easier than others for me when it comes to manifestation. On the d
 
 **u/theINTFJ** (1 pts)
 
-I’m trying to manifest bigger win from a scratch game just to prove something to myself. The thing is… I’ll buy the scratch game & it would be like ex „find the number 8 and the amount next to it is your win”, I would be getting scratches like all of different numbers with the same amount(actually the amount I’m manifesting the win). It would be like ex „5 ; 1000€, 9 ; 1000€, 11 ; 1000€”. Like all of the different numbers with the sum I want to win, except for the winning number. Idk what’s going wrong that I am not seeing the winning number with the amount I want to win. I’m trying to prove myself that I am actually a winner, I am actually lucky - I do believe that, I was winning other things already and smaller amounts, but right now I just want to manifest this specific thing. 
+I’m trying to manifest bigger win from a scratch game just to prove something to myself. The thing is… I’ll buy the scratch game & it would be like ex „find the number 8 and the amount next to it is your win”, I would be getting scratches like all of different numbers with the same amount(actually the amount I’m manifesting the win). It would be like ex „5 ; 1000€, 9 ; 1000€, 11 ; 1000€”. Like all of the different numbers with the sum I want to win, except for the winning number. Idk what’s going wrong that I am not seeing the winning number with the amount I want to win. I’m trying to prove myself that I am actually a winner, I am actually lucky - I do believe that, I was winning other things already and smaller amounts, but right now I just want to manifest this specific thing.
 
 Other, I want to become friends with one super cool girl from my gym. Like she’s just so freaking cool and awesome. I want her to be my friend friend, cause I need someone grounded, jealously free, like a healthy friendship.(cause my previous friendships with other girls were just bad, with them being mean, annoying, toxic and jealous 24/7. It was hard to breathe while being just next to them). I manifested seeing her 4 times on the gym. 2 times I was exercising next to her. I want to be next to her on a treadmill or bikes & I want her to talk to me first.
 
@@ -2515,9 +2499,9 @@ Other, I want to become friends with one super cool girl from my gym. Like she�
 
 I‘m manifesting my sp (aka boyfriend) to move here (we live a couple hours away from each other) and manifesting the lottery jackpot! I’ve been manifesting both things for a couple of years now, but this year I was able to manifest major progress. But then I slipped back into old thinking patterns which the 3D instantly reflected back to me. I’ve been very depressed because of it for the past couple of weeks and no matter what I do, I just feel absolutely defeated cause I thought I finally had it figured out… I guess my struggle is consistency/ persisting and “ignoring” the 3D. Knowing it is done and staying there, without wavering. Your help is highly appreciated🫶🏻
 
-  ↳ **u/TC_Joni** (1 pts)
+↳ **u/TC_Joni** (1 pts)
 
-  Have you talked about this with your boyfriend? What's his view about it and what's holding him back from moving closer to you?
+Have you talked about this with your boyfriend? What's his view about it and what's holding him back from moving closer to you?
 
     ↳ **u/Pattatoni** (1 pts)
 
@@ -2543,9 +2527,9 @@ I‘m manifesting my sp (aka boyfriend) to move here (we live a couple hours awa
 
 I'd say my ego. My negative and oppositional thoughts. 3d sucks at the moment and I struggle to live as if I've already reached my goals, as if I've already am the person I wannabe. Furthermore, the sp I want to manifest doesn't even know I exist and lives abroad. Even if I believe in the power of the law of attraction, it still feels impossible sometimes. 
 
-  ↳ **u/TC_Joni** (1 pts)
+↳ **u/TC_Joni** (1 pts)
 
-  Ego is the enemy of manifesting as it's identified with all the stories about 'you'. When you say it feels impossible, what have you tried so far?
+Ego is the enemy of manifesting as it's identified with all the stories about 'you'. When you say it feels impossible, what have you tried so far?
 
     ↳ **u/Past_Peak4588** (1 pts)
 
@@ -2556,18 +2540,18 @@ I'd say my ego. My negative and oppositional thoughts. 3d sucks at the moment an
       ↳ **u/TC_Joni** (1 pts)
 
       Hmm. When manifesting an important aspect is letting go. What this means is visualizing what your ideal life would be, and then letting go of the barriers for you to feel that way in the right here right now.
-      
+
       You have to disregard the 3d and give yourself the feeling you're putting behind the desire. Only then once you have given yourself what you're after will things align externally to reflect that state.
-      
+
       Inner state always comes first. External state simply reflects that.
 
 **u/Zealousideal-Hope108** (1 pts)
 
 Hits of fear from past experiences that my desire won’t work out, not bc I am unworthy, just bc I can’t control anything
 
-  ↳ **u/TC_Joni** (1 pts)
+↳ **u/TC_Joni** (1 pts)
 
-  Desire is tricky for manifesting as it is the energy of "I don't have it". If you want to manifest you have to learn to let go of that.
+Desire is tricky for manifesting as it is the energy of "I don't have it". If you want to manifest you have to learn to let go of that.
 
 **u/Altruistic-One-4899** (1 pts)
 
@@ -2581,29 +2565,29 @@ Growing taller, because i’m almost 19 and really short and i want to grow at l
 
 Earlier it used to be getting affected by Sp's behaviour in 3d but as i overcame it now my biggest struggle is to forget sp and 3p memories on social media and what my sp has told me i mean every time i lock in and persist her memories with 3p their trips and all they bother me a lot its like whatever i do i am finding it hard to get rid of 3p!
 
-  ↳ **u/TC_Joni** (1 pts)
+↳ **u/TC_Joni** (1 pts)
 
-  Could you tell a bit more about the situation? Are you or have you been in relationship with the SP?
+Could you tell a bit more about the situation? Are you or have you been in relationship with the SP?
 
 **u/zaimahk** (1 pts)
 
 health 🥲 i swear i feel like it would be easier for me to win the damn lottery
 
-  ↳ **u/TC_Joni** (1 pts)
+↳ **u/TC_Joni** (1 pts)
 
-  What health issues are you struggling with?
+What health issues are you struggling with?
 
 **u/aspirant_target2024** (1 pts)
 
-getting a  desired Job(fresher here)| earning  good amount $$🧿
+getting a desired Job(fresher here)| earning good amount $$🧿
 
 **u/master_prizefighter** (1 pts)
 
-Just the idea in general.  
+Just the idea in general.
 
 I remember first hearing about the whole idea back in 2005, and ever since I have yet to even see any positive results.
 
-I've read books about what and how people did their processes.  
+I've read books about what and how people did their processes.
 
 Watched videos.
 
@@ -2619,15 +2603,15 @@ Diabetic (potentially a Type 1 due to recent testing when I was diagnosed as a T
 
 Untreated ADHD with severe depression which I was on meds but was told by 2 doctors to just grow out of it.
 
-I also have aphantasia so no I can't just visualize something and it appears.  This has been a thing since I was little and never corrected.
+I also have aphantasia so no I can't just visualize something and it appears. This has been a thing since I was little and never corrected.
 
 I even tried something basic as a simple hello from someone in the morning and instead pure silence.
 
-I remember one person who claimed they knew millionaires in their family but when I asked what they did and how long the process it was crickets.  I checked this person's post history and there was some other actions involved with their claims which went against typical manifesting practices.
+I remember one person who claimed they knew millionaires in their family but when I asked what they did and how long the process it was crickets. I checked this person's post history and there was some other actions involved with their claims which went against typical manifesting practices.
 
-So I apologize if others can *manifest* something in hours where I've spent decades and still have nothing to show and I don't believe them.  Every time I ask for how someone did something I'm met with a variant of "just trust me bro" with no guidance or help.  Almost as if "I got mine and too bad so sad" for us who did put in the effort and have nothing to show.  
+So I apologize if others can _manifest_ something in hours where I've spent decades and still have nothing to show and I don't believe them. Every time I ask for how someone did something I'm met with a variant of "just trust me bro" with no guidance or help. Almost as if "I got mine and too bad so sad" for us who did put in the effort and have nothing to show.
 
-And for the record I can say I'm one of the few who will think about something/someone and nothing happens at all.  No contact, no signs, nothing.
+And for the record I can say I'm one of the few who will think about something/someone and nothing happens at all. No contact, no signs, nothing.
 
 Edited for grammar.
 
@@ -2635,9 +2619,9 @@ Edited for grammar.
 
 Health issues with strong symptoms (going on for 9+ years) + general idea that I'm unhealthy. I also have some unhealthy habits like smoking and what not.
 
-  ↳ **u/TC_Joni** (1 pts)
+↳ **u/TC_Joni** (1 pts)
 
-  I see. Many health issues are really caused by suppressed emotions. What health issues do you have?
+I see. Many health issues are really caused by suppressed emotions. What health issues do you have?
 
 **u/Independent_Writing6** (1 pts)
 
@@ -2647,10 +2631,9 @@ SATS, I cant fall asleep when I try
 
 There's a job i want but everytime i go in the store and see the manager standing there i feel like im forcing life to happen the way I want it. Instead of speaking to him and ask about a opening I tell myself next time.
 
-  ↳ **u/TC_Joni** (1 pts)
+↳ **u/TC_Joni** (1 pts)
 
-  What's wrong with making life happen the way you want?
-
+What's wrong with making life happen the way you want?
 
 ================================================================================
 THREAD 11 OF 16
@@ -2685,7 +2668,7 @@ Even if the method works for others, you try because you cannot not try (maybe i
 
 # As a man thinketh in HIS HEART, so is he.
 
-(notice how this proverb doesn't say *in his mind*)
+(notice how this proverb doesn't say _in his mind_)
 
 Your heart knows what's authentic. Not your mind - your HEART. It's about selecting the reality that FEELS true to you and becoming aware of it.
 
@@ -2732,16 +2715,15 @@ You can post there as well as here.
 
 Thanks
 
-
-*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Manifestation) if you have any questions or concerns.*
+_I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Manifestation) if you have any questions or concerns._
 
 **u/nameisnotyourname** (8 pts)
 
 Why is it when I don’t care about it I get it? Why is it when I really want something I’ll get it but only later when I’m not thinking about it. Weird
 
-  ↳ **u/macfking1** (10 pts)
+↳ **u/macfking1** (10 pts)
 
-  Manifestation is shifting to a point where you no longer are emotionally dependent on seeing reality change
+Manifestation is shifting to a point where you no longer are emotionally dependent on seeing reality change
 
     ↳ **u/curiouswanderer_100** (2 pts)
 
@@ -2751,13 +2733,13 @@ Why is it when I don’t care about it I get it? Why is it when I really want so
 
       Nero gang 🫡
 
-  ↳ **u/curiouswanderer_100** (8 pts)
+↳ **u/curiouswanderer_100** (8 pts)
 
-  I wouldn’t call it detachment. I would call it a vibrational match for your desire. When you become a vibrational match, it looks like not caring for it. But it’s not that you stopped wanting it. You just aligned. You embodied that who has it. That’s how acceptance, surrender, trust feels like to the universe, thus you receive what you wanted. It was impressed on your subconscious, it was ready to manifest. But the vibration was of lack until you decided „ah f it, I don’t want it anymore” which to the universe looked like the vibration of already having it :) but you don’t have to do this trick, because next time you try to do this consciously, god knows what you’re doing. Feelingly, that would be deceitful. So instead of trying to not care, give it to yourself in your imagination to get the familiar feeling of embodying that who has it and embody that who has it, while regulating yourself emotionally so that your nervous system doesn’t betray you and give you what you don’t want. You can’t fool god. Ask yourself: who am I being when I’m triggered by the lack? Then gently deny that identity and come back to the feeling you made so familiar in your imagination to, again, embody that who has it. Do it on moment to moment basis, in each moment because there’s only the eternal NOW moment. Choose again and again :) hope it helps
+I wouldn’t call it detachment. I would call it a vibrational match for your desire. When you become a vibrational match, it looks like not caring for it. But it’s not that you stopped wanting it. You just aligned. You embodied that who has it. That’s how acceptance, surrender, trust feels like to the universe, thus you receive what you wanted. It was impressed on your subconscious, it was ready to manifest. But the vibration was of lack until you decided „ah f it, I don’t want it anymore” which to the universe looked like the vibration of already having it :) but you don’t have to do this trick, because next time you try to do this consciously, god knows what you’re doing. Feelingly, that would be deceitful. So instead of trying to not care, give it to yourself in your imagination to get the familiar feeling of embodying that who has it and embody that who has it, while regulating yourself emotionally so that your nervous system doesn’t betray you and give you what you don’t want. You can’t fool god. Ask yourself: who am I being when I’m triggered by the lack? Then gently deny that identity and come back to the feeling you made so familiar in your imagination to, again, embody that who has it. Do it on moment to moment basis, in each moment because there’s only the eternal NOW moment. Choose again and again :) hope it helps
 
-  ↳ **u/Competitive_Orchid45** (3 pts)
+↳ **u/Competitive_Orchid45** (3 pts)
 
-  Detachment. You need to be okay with the idea of not having it.
+Detachment. You need to be okay with the idea of not having it.
 
     ↳ **u/curiouswanderer_100** (2 pts)
 
@@ -2765,24 +2747,24 @@ Why is it when I don’t care about it I get it? Why is it when I really want so
 
 **u/Kamoriii** (7 pts)
 
-This is the same reason fears manifest. If you so truly believe in your heart that something will happen. If you are a vibrational match, it will happen. 
+This is the same reason fears manifest. If you so truly believe in your heart that something will happen. If you are a vibrational match, it will happen.
 
-I hear it all the time “he cheated on me” “I saw other girls in his phone” 
+I hear it all the time “he cheated on me” “I saw other girls in his phone”
 
-And then you ask them “Why were you looking for evidence of him cheating?” and you realize it’s because they so deeply believed they’d see evidence, they were absolutely convinced. That it happened. 
+And then you ask them “Why were you looking for evidence of him cheating?” and you realize it’s because they so deeply believed they’d see evidence, they were absolutely convinced. That it happened.
 
-or with things like “I knew my boss didn’t like me, that’s why I got fired” It’s that knowing and believing in your heart that something will or has happened. That again, it happened. 
+or with things like “I knew my boss didn’t like me, that’s why I got fired” It’s that knowing and believing in your heart that something will or has happened. That again, it happened.
 
 So whatever you truly believe, whether it be in your best interest or not. If you are absolutely dead set on that being the truth. God has no way but to deliver.
 
-  ↳ **u/curiouswanderer_100** (6 pts)
+↳ **u/curiouswanderer_100** (6 pts)
 
-  Absolutely, it’s impartial. He just delivers. The moment I knew I’m a master manifestor was when I looked back and saw all the times I manifested my fears :) true master indeed
+Absolutely, it’s impartial. He just delivers. The moment I knew I’m a master manifestor was when I looked back and saw all the times I manifested my fears :) true master indeed
 
     ↳ **u/AlaskanAlpacaWorm** (4 pts)
 
     For some reason my fears never manifest (in fact in those cases things always seem to go my way and not happen), yet I have trouble getting my desires to manifest too. The only consistent way I feel my desires manifesting is when I give up...There have been times where I am just 100% sure about something to the point that I am not even surprised/nor excited when they happen, but that is hard to when you are trying to intentionally manifest something. Most other times when I become convinced I am manifesting something and try to live in the end, I get someone/something telling me the opposite of what I am intending to do.
-    
+
     I just feel so confused because my experiences manifesting are so different from others, and while part of your post is recognizing that we should follow what works for us and not for others, I cannot for the life of me seem to figure out how to intentionally manifest : (
 
       ↳ **u/curiouswanderer_100** (1 pts)
@@ -2792,9 +2774,9 @@ So whatever you truly believe, whether it be in your best interest or not. If yo
         ↳ **u/AlaskanAlpacaWorm** (2 pts)
 
         Thank you so much for your comment 🥺 It means a lot that you are trying to understand how I feel and my perspective, as my feelings on the topic have been dismissed before. However, do you think that means that I can never manifest intentionally if its up to my higher self? How is that manifesting if I am not getting to choose what I want? I try to surrender and think that things will happen when they are meant to, but when I do so life seems to get stagnant...
-        
+
         I am sorry, I do not mean to be overly negative, I am just tired of feeling so stuck and stagnant, like I  am not just trying to delude myself but actually making change in my life.
-        
+
         Do you have any advice on what I could try? Any help wiould be appreciated 🥺🙏
 
           ↳ **u/curiouswanderer_100** (1 pts)
@@ -2803,19 +2785,19 @@ So whatever you truly believe, whether it be in your best interest or not. If yo
 
 **u/Rrryyyuu** (6 pts)
 
-You cannot do it anymore 😭 I was thinking to ask you to write this post yesterday (I love to read your posts). And here we go. 
+You cannot do it anymore 😭 I was thinking to ask you to write this post yesterday (I love to read your posts). And here we go.
 And you know what is strange - I clicked on the post by accident, being in a bus. I wasn't aware it is yours, but after I'd started to read.. I felt it. So weird.
 
-  ↳ **u/curiouswanderer_100** (3 pts)
+↳ **u/curiouswanderer_100** (3 pts)
 
-  That’s spooky! You manifested a post 😂
+That’s spooky! You manifested a post 😂
 
     ↳ **u/Rrryyyuu** (3 pts)
 
-    if it is from you - it was worth it <3 
-    
-    But I am deadly serious. I was thinking to ask, if you can do it. Then I forget, was tired after work. 
-    
+    if it is from you - it was worth it <3
+
+    But I am deadly serious. I was thinking to ask, if you can do it. Then I forget, was tired after work.
+
     And today, I was scrolling in a bus and just pressed some post. When I was reading, I felt .. something. I checked the author.. and .. I am happier now :)
 
       ↳ **u/curiouswanderer_100** (3 pts)
@@ -2834,14 +2816,14 @@ And you know what is strange - I clicked on the post by accident, being in a bus
 
 What makes this difficult for many and for me for a long time ks the love and light mindset that everything needs to be good and happy so ignoring what is perceived as bad was required. Instead of accepting but radical honesty is what was required to fully see myself and then i could see what i really wanted and didnt want and finally get clear about life.
 
-  ↳ **u/curiouswanderer_100** (3 pts)
+↳ **u/curiouswanderer_100** (3 pts)
 
-  Yes, exactly! And the fear didn’t allow us to admit what we really want either. Trying to correct ourselves as if somethings wrong with you. Nothings wrong with you and we’ve all been there, this community can be really toxic this way. But labelling something good or bad is what the Ego does. When you’re aware of this, you can see everything as neutral, thus acceptance comes easier that way. You are safe here and you can feel all that comes up, feeling is healing. Working on your awareness and acceptance, knowing you’re perfect and here to experience anything, the good the bad the ugly, is how you align with your true self - the IAM, awareness of being, and from this place of heaven state of consciousness accept all thus not suffering anymore. And things manifest when you want or need them naturally, allowing you to pursue your true purpose :)
+Yes, exactly! And the fear didn’t allow us to admit what we really want either. Trying to correct ourselves as if somethings wrong with you. Nothings wrong with you and we’ve all been there, this community can be really toxic this way. But labelling something good or bad is what the Ego does. When you’re aware of this, you can see everything as neutral, thus acceptance comes easier that way. You are safe here and you can feel all that comes up, feeling is healing. Working on your awareness and acceptance, knowing you’re perfect and here to experience anything, the good the bad the ugly, is how you align with your true self - the IAM, awareness of being, and from this place of heaven state of consciousness accept all thus not suffering anymore. And things manifest when you want or need them naturally, allowing you to pursue your true purpose :)
 
     ↳ **u/dreamed2life** (3 pts)
 
-    Yes! Exactly this! This sub is teaching me so much about the distractions and misleading teachings that will confuse people. Im happy to see them after remembering what i am because i know i would have been trapped in this shit 😂. Manifesting is from being the true self. Honoring our TRUE desires. that part about admitting what we really want and being safe to is HUGE. 
-    
+    Yes! Exactly this! This sub is teaching me so much about the distractions and misleading teachings that will confuse people. Im happy to see them after remembering what i am because i know i would have been trapped in this shit 😂. Manifesting is from being the true self. Honoring our TRUE desires. that part about admitting what we really want and being safe to is HUGE.
+
     Thanks for sharing this post! And nice confirmation of what all I’ve come through to realize where i am.
 
       ↳ **u/curiouswanderer_100** (2 pts)
@@ -2852,17 +2834,17 @@ What makes this difficult for many and for me for a long time ks the love and li
 
 Why is it people are always talking about manifesting things? Most of the time material things or a person even, surely the only true thing to manifest is happiness, with or without any person or material possessions, simply happiness in the eternal moment, EVERYTHING else are just trimmings
 
-  ↳ **u/curiouswanderer_100** (3 pts)
+↳ **u/curiouswanderer_100** (3 pts)
 
-  I agree to some extent, you’re hitting a nail on a head when you say we manifest happiness - more widely we manifest feelings. I’m going a step further: The only true thing to manifest are emotions :) the good the bad. We don’t manifest happiness. We are happiness, we can remove blocks to it by accepting what is. We don’t manifest through emotions, we manifest them. That’s the experience.
+I agree to some extent, you’re hitting a nail on a head when you say we manifest happiness - more widely we manifest feelings. I’m going a step further: The only true thing to manifest are emotions :) the good the bad. We don’t manifest happiness. We are happiness, we can remove blocks to it by accepting what is. We don’t manifest through emotions, we manifest them. That’s the experience.
 
 **u/PLANETBUBU** (2 pts)
 
 Yeah you're spitting, you cracked it! I've had the same journey as you. Only recently figured it out as well
 
-  ↳ **u/curiouswanderer_100** (2 pts)
+↳ **u/curiouswanderer_100** (2 pts)
 
-  That's wonderful! And how does it feel for you? What advice would you give to yourself a year ago for example? If they would even listen 😂 (the process is what it is init)
+That's wonderful! And how does it feel for you? What advice would you give to yourself a year ago for example? If they would even listen 😂 (the process is what it is init)
 
     ↳ **u/PLANETBUBU** (2 pts)
 
@@ -2880,17 +2862,17 @@ Yeah you're spitting, you cracked it! I've had the same journey as you. Only rec
 
 This was amazing.. yes please share link☺️
 
-  ↳ **u/curiouswanderer_100** (1 pts)
+↳ **u/curiouswanderer_100** (1 pts)
 
-  Thank you, I do hope it helps! https://youtu.be/xaLhe-f2fxI?si=39KxO2eaKLgy4o3-
+Thank you, I do hope it helps! https://youtu.be/xaLhe-f2fxI?si=39KxO2eaKLgy4o3-
 
 **u/Common-Balance8333** (2 pts)
 
 And when you say to rest in your “I am” ness.. what does that look like during meditating? I am powerful, etc .. and see what blocks I feel when sitting in that I’m affirming?
 
-  ↳ **u/Superb_Rush5157** (2 pts)
+↳ **u/Superb_Rush5157** (2 pts)
 
-  I am also curious about this.
+I am also curious about this.
 
     ↳ **u/curiouswanderer_100** (2 pts)
 
@@ -2904,29 +2886,29 @@ And when you say to rest in your “I am” ness.. what does that look like duri
 
       Thank you! This will be very helpful
 
-  ↳ **u/curiouswanderer_100** (3 pts)
+↳ **u/curiouswanderer_100** (3 pts)
 
-  Great question! Thank you for asking it 💕  Resting in your awareness doesn’t require any affirmations even, you can repeat I AM if, like for me, it symbolises the presence, you being here and now. I AM is the name of god (source,universe, whatever it is you refer to it as). It’s very ordinary and easy to miss. So, when you close your eyes, relax your body and breath into it, focus on breathing. Then ask yourself: who is the one being aware of my breath? Who is the one noticing all the thoughts? All the feelings, sensations, sounds? Many think that these are disturbances but they help you realise you’re aware. This noticing entity is god. It is your awareness of being. It is you. When a thought comes in, you’re the one noticing it. Just letting it go and focusing back on the spaces between the thoughts. Next thing you know, that intrusive thought was here to help you because it grounded you in your awareness. This simple practice is your I AM. It is your power, you don’t have to affirm it it’s powerful. It is love, the present moment, all there is. It never judges, it just IS. When you sit deep enough in this, resting in your divine consciousness, you start feeling the everpresent love, of which you are the source. And when you exit this meditation, it also turns into walking meditation because you observe yourself, your thoughts, emotions, sensations, perceptions as the I AM and it helps you to not identify with the mind. That’s freedom. That’s the practice. So simple it’s easy to miss :) apply daily 😁
+Great question! Thank you for asking it 💕 Resting in your awareness doesn’t require any affirmations even, you can repeat I AM if, like for me, it symbolises the presence, you being here and now. I AM is the name of god (source,universe, whatever it is you refer to it as). It’s very ordinary and easy to miss. So, when you close your eyes, relax your body and breath into it, focus on breathing. Then ask yourself: who is the one being aware of my breath? Who is the one noticing all the thoughts? All the feelings, sensations, sounds? Many think that these are disturbances but they help you realise you’re aware. This noticing entity is god. It is your awareness of being. It is you. When a thought comes in, you’re the one noticing it. Just letting it go and focusing back on the spaces between the thoughts. Next thing you know, that intrusive thought was here to help you because it grounded you in your awareness. This simple practice is your I AM. It is your power, you don’t have to affirm it it’s powerful. It is love, the present moment, all there is. It never judges, it just IS. When you sit deep enough in this, resting in your divine consciousness, you start feeling the everpresent love, of which you are the source. And when you exit this meditation, it also turns into walking meditation because you observe yourself, your thoughts, emotions, sensations, perceptions as the I AM and it helps you to not identify with the mind. That’s freedom. That’s the practice. So simple it’s easy to miss :) apply daily 😁
 
-  ↳ **u/curiouswanderer_100** (1 pts)
+↳ **u/curiouswanderer_100** (1 pts)
 
-  Hello there, I released a video with guided meditation on this topic and I remembered your comment so here it is if you’re still interested what it means to rest in awareness :) https://youtu.be/okkYzH9prJw?si=OkselzlHm3U9Tlvx
+Hello there, I released a video with guided meditation on this topic and I remembered your comment so here it is if you’re still interested what it means to rest in awareness :) https://youtu.be/okkYzH9prJw?si=OkselzlHm3U9Tlvx
 
 **u/PhoenixRising1788** (2 pts)
 
 I'm definitely interested! Great post by the way!
 
-  ↳ **u/curiouswanderer_100** (1 pts)
+↳ **u/curiouswanderer_100** (1 pts)
 
-  Thank you, I’m glad it resonated. Sending love 💕
+Thank you, I’m glad it resonated. Sending love 💕
 
 **u/Odd-Shower9395** (1 pts)
 
 Bro that’s crazy I just got blocked she finally let go and noticed my o method was just pushing her farther and farther away and was wondering why it hasn’t worked and then this post pops up the next day
 
-  ↳ **u/curiouswanderer_100** (2 pts)
+↳ **u/curiouswanderer_100** (2 pts)
 
-  😂 bro that’s crazy because I added the O method in the last change before posting this. No technique is bad if it genuinely works for you, so don’t let anyone sway you. But just question your motivations: do I do this all the time because I’m scared it won’t show up otherwise? You can relax, it will. And doing something once aka deciding, is all you need. It’s enough. Believe in yourself and your powers, have the conviction it is for you and it’s here. We don’t manifest, we only realise it was always here. And regulating ourselves emotionally to handle the doubt in the meantime, accepting ourselves and what is. That’s the act of love, for yourself. And as we know, loveless attracts lovelessness.
+😂 bro that’s crazy because I added the O method in the last change before posting this. No technique is bad if it genuinely works for you, so don’t let anyone sway you. But just question your motivations: do I do this all the time because I’m scared it won’t show up otherwise? You can relax, it will. And doing something once aka deciding, is all you need. It’s enough. Believe in yourself and your powers, have the conviction it is for you and it’s here. We don’t manifest, we only realise it was always here. And regulating ourselves emotionally to handle the doubt in the meantime, accepting ourselves and what is. That’s the act of love, for yourself. And as we know, loveless attracts lovelessness.
 
     ↳ **u/Odd-Shower9395** (1 pts)
 
@@ -2940,9 +2922,9 @@ Everyone should do whatever they need to do to make their practice what they nee
 
 I was in a flow (where things are good) but then felt unsafe about a person harassing me. He was doing it where I actually recharge and let go, yes, the place where I connect to the Universe. I know people say it can be done anyway, but I've worked out a special energy there for years. One cannot fool the feelings. If I listen to intuition then not sure how to solve it, there are different ways. How do you know what your heart says? Mine only says, I want peace back, I want to have people around me who have respect and integrity! I wanna live with people who have same values, don't need neanderthal vibes!
 
-  ↳ **u/curiouswanderer_100** (2 pts)
+↳ **u/curiouswanderer_100** (2 pts)
 
-  Amazing, if your heart tells you to bring back the peace that’s a wonderful message. How do you do that? By self enquiry, emotional regulation and acceptance. Creating that heaven state of consciousness. Because as above so below ☺️ what do you think you miss to get back to that peace? How does it feel now? What comes to mind first?
+Amazing, if your heart tells you to bring back the peace that’s a wonderful message. How do you do that? By self enquiry, emotional regulation and acceptance. Creating that heaven state of consciousness. Because as above so below ☺️ what do you think you miss to get back to that peace? How does it feel now? What comes to mind first?
 
     ↳ **u/meditationcamp** (1 pts)
 
@@ -2960,9 +2942,9 @@ Thanks☺️
 
 [removed]
 
-  ↳ **u/curiouswanderer_100** (1 pts)
+↳ **u/curiouswanderer_100** (1 pts)
 
-  Oh boy 🤦🏻‍♀️ can we, please, not
+Oh boy 🤦🏻‍♀️ can we, please, not
 
     ↳ **u/Stricter_Lobster** (1 pts)
 
@@ -2976,7 +2958,6 @@ Thanks☺️
 
         No, just something I believe in that’s helped me and I was trying to help other people, dick. It’s obviously not an ad. I have nothing to do with the company. I just hope you can find something that helps you be successful in your journey and keep an open mind. It can be anything, but if you’re not open to it. It’s not gonna happen.
 
-
 ================================================================================
 THREAD 12 OF 16
 ================================================================================
@@ -2986,7 +2967,7 @@ THREAD 12 OF 16
 **r/NevilleGoddard** • Posted by u/Expert-Kitchen8064 • 49 points
 **URL:** https://reddit.com/r/NevilleGoddard/comments/1qcqd4e/
 
-This is one of the most insane moments in my life because it truly felt like an accident because since this incident, I haven't been able to replicate it. I had gone to a casino and like previous trips, I'll play some games slots, win chump change or none at all and just leave. I normally stick to about $50 to $100 when I walk into this place and I don't just gamble out of addiction or hopelessness, but I do it for the odd chance of winning. for a little backstory I live in Indiana and the town I'm in really doesn't have much going on but this one Casino. It feels like it's kind of out in the middle of nowhere with its only neighbor, if you could even call it one, a coal powerplant. Anyway, we had gone in and as usual gotten our ID's checked at the front door security and gone through the metal detectors. After this I had this sudden and unusual feeling come over me and that was the feeling I was going to win some serious money.  I don't know how I talked myself into this, I just had this sudden feeling. The first slot machine I had gone to was a bust. Lost money and I just jumped off and ran to another one. The second one was a Lock-in-Link machine and had absent mindedly set my denom to 2 cents. I didn't do it knowingly, it was more of an accident, but once I had my second pull on this machine, I had gotten several free spins (i think about 20) and each and every single spin had given me hearts that multiplied my winnings. I had walked into this casino with around $100 and I walked out with $900. I was only on my second machine when this had happened, and it was just strange. How did I just delulu myself into thinking that I would leave with serious money, especially knowing I didn't actively plan to do this. I do remember enjoying being there once I stepped foot into the place and I had this mild thought of winning some money, but it kind of snowballed into this sudden "knowing" feeling that I was going to win money. To me this was amazing but as I stated, I have not been able to replicate it. Has anyone had moments like this?
+This is one of the most insane moments in my life because it truly felt like an accident because since this incident, I haven't been able to replicate it. I had gone to a casino and like previous trips, I'll play some games slots, win chump change or none at all and just leave. I normally stick to about $50 to $100 when I walk into this place and I don't just gamble out of addiction or hopelessness, but I do it for the odd chance of winning. for a little backstory I live in Indiana and the town I'm in really doesn't have much going on but this one Casino. It feels like it's kind of out in the middle of nowhere with its only neighbor, if you could even call it one, a coal powerplant. Anyway, we had gone in and as usual gotten our ID's checked at the front door security and gone through the metal detectors. After this I had this sudden and unusual feeling come over me and that was the feeling I was going to win some serious money. I don't know how I talked myself into this, I just had this sudden feeling. The first slot machine I had gone to was a bust. Lost money and I just jumped off and ran to another one. The second one was a Lock-in-Link machine and had absent mindedly set my denom to 2 cents. I didn't do it knowingly, it was more of an accident, but once I had my second pull on this machine, I had gotten several free spins (i think about 20) and each and every single spin had given me hearts that multiplied my winnings. I had walked into this casino with around $100 and I walked out with $900. I was only on my second machine when this had happened, and it was just strange. How did I just delulu myself into thinking that I would leave with serious money, especially knowing I didn't actively plan to do this. I do remember enjoying being there once I stepped foot into the place and I had this mild thought of winning some money, but it kind of snowballed into this sudden "knowing" feeling that I was going to win money. To me this was amazing but as I stated, I have not been able to replicate it. Has anyone had moments like this?
 
 ---
 
@@ -2998,8 +2979,7 @@ We ask that you familiarize yourself with our **[subreddit rules](https://www.re
 
 Please report any posts or comments that break the rules.
 
-
-*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NevilleGoddard) if you have any questions or concerns.*
+_I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NevilleGoddard) if you have any questions or concerns._
 
 **u/Fun_Detective_3531** (1 pts)
 
@@ -3008,7 +2988,6 @@ Those random wins really mess with your head. It feels special in the moment but
 **u/Dimepiece8821** (4 pts)
 
 Same. Walked in and KNEW I was going to win $600. Even after i was up $400 and the guy next to me said “don’t give it all back” I knew that I was walking out with $600. So I played. I got to $600 and then I left. It was bizarre. It wasn’t planned, I didn’t do any techniques. I just knew.
-
 
 ================================================================================
 THREAD 13 OF 16
@@ -3030,9 +3009,9 @@ I was able to manifest every intention that I had so far in my life. The latest 
 How do you manifest? Like saying loudly (to universe) everyday OR imagining your life OR anything else?
 Because I've been trying everything but it always backfires, it always turns out opposite of what i imagined... Pls guide me sensei 🙏
 
-  ↳ **u/madsoybean** (102 pts)
+↳ **u/madsoybean** (102 pts)
 
-  I have two ways. 1) I will either set the intention and consider it as done. I only do that when I’m really confident about the intention. 2) When it’s something harder for me I would (in a calm setting) start to visualise my intended outcome in my head and be very detailed about it. So not just imagining the SP talking to me but also, what they would say, how I perceive them in that particular situation, how I feel, what I do BEFORE it happens and really concentrating on the feelings and exaggerating them and trying to feel it as it happens right now. Also notice that it’s not necessarily nervousness or excitement. You need to become the person that is able to hold your manifestation in that specific moment. So in this example you wouldn’t be nervous or anxious in that moment but joyful or confidently amused.
+I have two ways. 1) I will either set the intention and consider it as done. I only do that when I’m really confident about the intention. 2) When it’s something harder for me I would (in a calm setting) start to visualise my intended outcome in my head and be very detailed about it. So not just imagining the SP talking to me but also, what they would say, how I perceive them in that particular situation, how I feel, what I do BEFORE it happens and really concentrating on the feelings and exaggerating them and trying to feel it as it happens right now. Also notice that it’s not necessarily nervousness or excitement. You need to become the person that is able to hold your manifestation in that specific moment. So in this example you wouldn’t be nervous or anxious in that moment but joyful or confidently amused.
 
     ↳ **u/Jumeaux2012** (7 pts)
 
@@ -3056,20 +3035,20 @@ Because I've been trying everything but it always backfires, it always turns out
 
     ↳ **u/No-Hunt-7796** (1 pts)
 
-    Exactly 💯 
+    Exactly 💯
     Well  Spoken
 
-  ↳ **u/spiritofahusla** (2 pts)
+↳ **u/spiritofahusla** (2 pts)
 
-  Exactly! I’m new to this and I’m wondering how it all works. Obviously I want some things and situations so badly but how do I go about ‘manifesting’?
+Exactly! I’m new to this and I’m wondering how it all works. Obviously I want some things and situations so badly but how do I go about ‘manifesting’?
 
 **u/throwaway3933666** (12 pts)
 
 Really? Can you give me some example?
 
-  ↳ **u/madsoybean** (52 pts)
+↳ **u/madsoybean** (52 pts)
 
-  money, jobs, (free) travels, apartments in places that were almost impossible to get, multiple SPs, one of them even not knowing that I exist before I manifested them talking to me, you name it…
+money, jobs, (free) travels, apartments in places that were almost impossible to get, multiple SPs, one of them even not knowing that I exist before I manifested them talking to me, you name it…
 
     ↳ **u/throwaway3933666** (5 pts)
 
@@ -3094,14 +3073,14 @@ Really? Can you give me some example?
             ↳ **u/jas_on0** (5 pts)
 
             I made my SP (who was already in love with me) say a few things to me. My intention was to make them feel that way about myself not to just make them repeat those lines.
-            
+
             They said those same things to me. They described why they were saying those things.
-            
+
             And I questioned reality that day too and realised exactly the same thing you realized. It's not special when it's in reach.
 
               ↳ **u/Willing_Bookkeeper13** (1 pts)
 
-              My god how do you guys do it. My SP has feelings for me, but due to our age gap he said many times he isn't willing to commit and face the world despite his feelings as he has been thru a lot. 
+              My god how do you guys do it. My SP has feelings for me, but due to our age gap he said many times he isn't willing to commit and face the world despite his feelings as he has been thru a lot.
               Not sure what to do tbh. He said he is 100% sure or even 99% that he is right, and I'm thinking in a wrong way of us being together due to society and judgement and family etc... breaks my heart honestly
 
                 ↳ **u/jas_on0** (1 pts)
@@ -3148,9 +3127,9 @@ Really? Can you give me some example?
 
 what was that one manifestation that you did consciously that made you realise okay this is very simple and straightforward and assuming you found the right routine/technique/belief tailored exactly for you
 
-  ↳ **u/madsoybean** (26 pts)
+↳ **u/madsoybean** (26 pts)
 
-  One evening before christmas eve I asked to receive a gift in the next 24 hours. Nothing specific but when I received it I wanted to be 100% sure that it came from that intention and was not just a random gift (since it was christmas next day). I set the intention and forgot about it because it was a busy day. Exactly 24 hours later my mom asked me after dinner if I wanted some tea and although I didn’t really want it, I “somehow” agreed. I started to play with the tag from the tea bag and then realised it was one of those with a quote on it. The quote said “This life is a gift”. I still have the tag :)
+One evening before christmas eve I asked to receive a gift in the next 24 hours. Nothing specific but when I received it I wanted to be 100% sure that it came from that intention and was not just a random gift (since it was christmas next day). I set the intention and forgot about it because it was a busy day. Exactly 24 hours later my mom asked me after dinner if I wanted some tea and although I didn’t really want it, I “somehow” agreed. I started to play with the tag from the tea bag and then realised it was one of those with a quote on it. The quote said “This life is a gift”. I still have the tag :)
 
     ↳ **u/Limitless_Success** (3 pts)
 
@@ -3168,9 +3147,9 @@ what was that one manifestation that you did consciously that made you realise o
 
 Could you give me any help regarding manifesting money? Thank you
 
-  ↳ **u/madsoybean** (28 pts)
+↳ **u/madsoybean** (28 pts)
 
-  Start with smaller amounts to get the drill. You need to make it tangible and experience some victories to be able to work with bigger amounts of money. For many of us it is hard to imagine how it would be to have a million dollars but we can imagine what it is to have a hundred. Also don’t specify HOW it will come to you. You don’t need to think if someone will give it to you or if you find it on the sidewalk because in that way you limit yourself. Focus on the feeling of getting it but don’t freak out in excitement. Expect it like you would expect your regular salary payment. Also manifest being able to hold that money, otherwise you can loose it pretty quickly. I manifested 10k once and lost it almost immediately haha
+Start with smaller amounts to get the drill. You need to make it tangible and experience some victories to be able to work with bigger amounts of money. For many of us it is hard to imagine how it would be to have a million dollars but we can imagine what it is to have a hundred. Also don’t specify HOW it will come to you. You don’t need to think if someone will give it to you or if you find it on the sidewalk because in that way you limit yourself. Focus on the feeling of getting it but don’t freak out in excitement. Expect it like you would expect your regular salary payment. Also manifest being able to hold that money, otherwise you can loose it pretty quickly. I manifested 10k once and lost it almost immediately haha
 
     ↳ **u/Typical_Suit4790** (2 pts)
 
@@ -3184,9 +3163,9 @@ Could you give me any help regarding manifesting money? Thank you
 
 What would you say is your most important "secret" on how you did it all
 
-  ↳ **u/madsoybean** (32 pts)
+↳ **u/madsoybean** (32 pts)
 
-  I think it’s to master self control. When we really want something we start to obsess about it and look for ways to get it because our brain works like that and we are always told to work hard for our desires but that’s exactly what pushes the manifestation away. The more you are able to rest in trust the easier it will come to you in my experience.
+I think it’s to master self control. When we really want something we start to obsess about it and look for ways to get it because our brain works like that and we are always told to work hard for our desires but that’s exactly what pushes the manifestation away. The more you are able to rest in trust the easier it will come to you in my experience.
 
     ↳ **u/SweetPoem7625** (1 pts)
 
@@ -3204,9 +3183,9 @@ What would you say is your most important "secret" on how you did it all
 
 Hii Im trying to manifest an SP back (my ex) and I've been doing robotic affirmations, is that something that you've found works? 
 
-  ↳ **u/madsoybean** (8 pts)
+↳ **u/madsoybean** (8 pts)
 
-  Affirmations don’t work for me personally at all but  apparently there are many people who manifest like that. I don’t believe one method is better than another. It is more about in what way can you consider your intention as “send and done”.
+Affirmations don’t work for me personally at all but apparently there are many people who manifest like that. I don’t believe one method is better than another. It is more about in what way can you consider your intention as “send and done”.
 
     ↳ **u/4ngel1v** (3 pts)
 
@@ -3216,9 +3195,9 @@ Hii Im trying to manifest an SP back (my ex) and I've been doing robotic affirma
 
 How do you know if you’re manifesting “right?” And what (do you think) actually makes things manifest? Because I’ve been trying for months and nothing has worked so far
 
-  ↳ **u/madsoybean** (16 pts)
+↳ **u/madsoybean** (16 pts)
 
-  I find it works best and quickest when I’m so sure about the outcome coming to life that I can just assume it and not do anything about it. Imagine as if you’re going to the grocery store and you just know there will be food, without rethinking about it, checking probabilities or planning ahead, you just know it will be there.
+I find it works best and quickest when I’m so sure about the outcome coming to life that I can just assume it and not do anything about it. Imagine as if you’re going to the grocery store and you just know there will be food, without rethinking about it, checking probabilities or planning ahead, you just know it will be there.
 
     ↳ **u/Purple_Papaya9** (3 pts)
 
@@ -3226,8 +3205,8 @@ How do you know if you’re manifesting “right?” And what (do you think) act
 
       ↳ **u/madsoybean** (14 pts)
 
-      I’d say one thing is acknowledging what feeling you are going for. Many people know the word but can’t restore that feeling. You need to be certain about it the way you are certain that you’re going to see the Lord of the Rings on the cinema screen when you get a ticket for it. You don’t doubt if they maybe are going to play Spiderman or what you need to do to make sure that they really play the movie. You just know they will even if you’re watching commercials at the beginning, you’re not stressed, you wait in excitement. This calm feeling is exactly what has been described by many authors. 
-      
+      I’d say one thing is acknowledging what feeling you are going for. Many people know the word but can’t restore that feeling. You need to be certain about it the way you are certain that you’re going to see the Lord of the Rings on the cinema screen when you get a ticket for it. You don’t doubt if they maybe are going to play Spiderman or what you need to do to make sure that they really play the movie. You just know they will even if you’re watching commercials at the beginning, you’re not stressed, you wait in excitement. This calm feeling is exactly what has been described by many authors.
+
       To reach that state you will need to work on your own perception of yourself and your self esteem. To be certain you need to know you’re worthy of it. That you deserve whatever you’re looking for. You can say every affirmation about being a millionaire but if you currently see and talk to yourself like a broke mf that looses money all the time, it won’t work. Sometimes it’s literally fake it till you make it.
 
     ↳ **u/diamaria93** (2 pts)
@@ -3238,25 +3217,25 @@ How do you know if you’re manifesting “right?” And what (do you think) act
 
 do you think it’s critical to detach ?
 
-  ↳ **u/madsoybean** (12 pts)
+↳ **u/madsoybean** (12 pts)
 
-  Yes but in the right way. Not as “I don’t want it anyway” but just being calm and assured that it’s in your way. Also something that isn’t mentioned that often is knowing and trusting that you are worthy and able to hold your intended outcome!
+Yes but in the right way. Not as “I don’t want it anyway” but just being calm and assured that it’s in your way. Also something that isn’t mentioned that often is knowing and trusting that you are worthy and able to hold your intended outcome!
 
 **u/Professional_Bag286** (3 pts)
 
 What advice would you give when trying to manifest an SP but you keep thinking maybe I would be happier with someone else but deep down yk you want to be with them, like how can I fight that thought?
 
-  ↳ **u/madsoybean** (12 pts)
+↳ **u/madsoybean** (12 pts)
 
-  I think the critical point with manifesting SP is that we often put them on a pedestal and praise them because we want them so badly. You need to love yourself more than them so it is only natural that they would want to be in your life. The SP I manifested lately would usually be considered out of my league but I constantly tell myself that I am worthy of whatever it is that I want.
+I think the critical point with manifesting SP is that we often put them on a pedestal and praise them because we want them so badly. You need to love yourself more than them so it is only natural that they would want to be in your life. The SP I manifested lately would usually be considered out of my league but I constantly tell myself that I am worthy of whatever it is that I want.
 
 **u/azula_loml** (3 pts)
 
 i have a very difficult exam coming up there are total 6 papers starts on 5th this month it ends on 20th. My will to study is at an all time low and its EXTREMELY CRUCIAL for me to pass, Can u pls guide me how i can motivate myself into becoming an unstoppable study machine who will pass this exam no matter what
 
-  ↳ **u/madsoybean** (6 pts)
+↳ **u/madsoybean** (6 pts)
 
-  I know it’s not what you want to hear especially when you’re short on time but if your intention is to become an unstoppable study machine then honestly fake it till you make it. Do what you think a person like that would do. Assume you are just that and that it works for you effortlessly. Don’t question it or doubt it if you don’t feel it immediately just trust with certainty that it is.
+I know it’s not what you want to hear especially when you’re short on time but if your intention is to become an unstoppable study machine then honestly fake it till you make it. Do what you think a person like that would do. Assume you are just that and that it works for you effortlessly. Don’t question it or doubt it if you don’t feel it immediately just trust with certainty that it is.
 
     ↳ **u/azula_loml** (2 pts)
 
@@ -3266,9 +3245,9 @@ i have a very difficult exam coming up there are total 6 papers starts on 5th th
 
 Can you share how to manifest long term goals? That would he achievable in around a year + imo its easier to manifest external materialistic things but pretty hard to manifest internal stuff like habit building, being discipline, how to go about that?
 
-  ↳ **u/madsoybean** (7 pts)
+↳ **u/madsoybean** (7 pts)
 
-  In my perception it seems easier to manifest external things because we think we don’t have an influence on them and how they unfold but when it comes to internal things it usually requires actions and not only intentions. For example if I would want to become more organised I wouldn’t just manifest to wake up one day and be an organised person but I would try to adapt a lifestyle of such person knowing that I can be one as well and that it come easy to me and visualising myself doing the things I want to do. Manifesting circumstances out of context can also be tricky. Once I tried to manifest being slim and many bad things happened in my life and because whenever I’m stressed I tend to loose weight extremely fast I got my manifestation but not in the way I wanted. So be very specific here!
+In my perception it seems easier to manifest external things because we think we don’t have an influence on them and how they unfold but when it comes to internal things it usually requires actions and not only intentions. For example if I would want to become more organised I wouldn’t just manifest to wake up one day and be an organised person but I would try to adapt a lifestyle of such person knowing that I can be one as well and that it come easy to me and visualising myself doing the things I want to do. Manifesting circumstances out of context can also be tricky. Once I tried to manifest being slim and many bad things happened in my life and because whenever I’m stressed I tend to loose weight extremely fast I got my manifestation but not in the way I wanted. So be very specific here!
 
     ↳ **u/rere4248** (2 pts)
 
@@ -3278,34 +3257,34 @@ Can you share how to manifest long term goals? That would he achievable in aroun
 
 How long does it take for each one to really appear in your reality?
 
-  ↳ **u/madsoybean** (8 pts)
+↳ **u/madsoybean** (8 pts)
 
-  Depends on how easy it is for me to consider the intention as done but could happen in a matter of a day, in some cases could be a couple of months.
+Depends on how easy it is for me to consider the intention as done but could happen in a matter of a day, in some cases could be a couple of months.
 
 **u/Sparrow2897** (2 pts)
 
 I am manifesting my sp for 6 months now. I don't know what to do anymore, have been through many stages and now I feel like deattaching from him. I don't want to give up, I want him in my life. He lives in another country and doesn't know me yet. What would your advice be?
 
-  ↳ **u/madsoybean** (5 pts)
+↳ **u/madsoybean** (5 pts)
 
-  I already answered some comments around SP but I’d say even though it’s doable, in most cases it’s not really worth it. Especially when you’ve been trying to have someone in your life for so long and it doesn’t seem to work, they might not be for you. Despite manifesting and all the magical work we do here, love shouldn’t feel like a ton of effort. So maybe you slowly deattaching is actually a good thing. Pour the love into yourself! (this is also usually when they notice what they’ve lost)
+I already answered some comments around SP but I’d say even though it’s doable, in most cases it’s not really worth it. Especially when you’ve been trying to have someone in your life for so long and it doesn’t seem to work, they might not be for you. Despite manifesting and all the magical work we do here, love shouldn’t feel like a ton of effort. So maybe you slowly deattaching is actually a good thing. Pour the love into yourself! (this is also usually when they notice what they’ve lost)
 
-  ↳ **u/diamaria93** (1 pts)
+↳ **u/diamaria93** (1 pts)
 
-  Pony back into it I was manifesting my Twin Flame back into my life I even hear his voice in my head see his name everywhere it was nearly like 10 months NC I’ve gotten to the point where I bless his energy because yeah he’s within me but he’s my creation so I’ve blessed the reality of our union and officially moved on. 
-  
-  Energetically as humans we shouldn’t live life wanting anyone or anything everything since this is all literally an illusion 🕉️love peace of mind and gratitude are the bases of having it already go be happy and trust what’s meant for you is already yours💓
-   never focus on time. 
-  
-  I have literally always manifested an SP and ex lol and they always returned when I thought of them laughed and said duh ofc they want me I’m literally a Diamond sent their energy our past and myself most importantly LOVE and boom bam they returned lolololol also check out HIGH FREQUENCY GURU and Gouba Subs along with Nocturum like they’ll do crazy work with your subconscious mind. Most importantly we all take a shit 💩 no one is more important than you babe!🩷❤️❤️🧡💛💙💙💙💚💚🖤🩶🩶🤍🤍🤎❣️
+Pony back into it I was manifesting my Twin Flame back into my life I even hear his voice in my head see his name everywhere it was nearly like 10 months NC I’ve gotten to the point where I bless his energy because yeah he’s within me but he’s my creation so I’ve blessed the reality of our union and officially moved on.
 
-  ↳ **u/CamelFew204** (1 pts)
+Energetically as humans we shouldn’t live life wanting anyone or anything everything since this is all literally an illusion 🕉️love peace of mind and gratitude are the bases of having it already go be happy and trust what’s meant for you is already yours💓
+never focus on time.
 
-  What is sp??????
+I have literally always manifested an SP and ex lol and they always returned when I thought of them laughed and said duh ofc they want me I’m literally a Diamond sent their energy our past and myself most importantly LOVE and boom bam they returned lolololol also check out HIGH FREQUENCY GURU and Gouba Subs along with Nocturum like they’ll do crazy work with your subconscious mind. Most importantly we all take a shit 💩 no one is more important than you babe!🩷❤️❤️🧡💛💙💙💙💚💚🖤🩶🩶🤍🤍🤎❣️
+
+↳ **u/CamelFew204** (1 pts)
+
+What is sp??????
 
 **u/Capital-Quarter9827** (2 pts)
 
-Well done  wish u manifest everything i want
+Well done wish u manifest everything i want
 
 **u/Equivalent-Rope-1818** (2 pts)
 
@@ -3327,9 +3306,9 @@ do you reccomend a specifict book or author? and out of curiosity, what was your
 
 [removed]
 
-  ↳ **u/madsoybean** (2 pts)
+↳ **u/madsoybean** (2 pts)
 
-  I just answered exactly that in a comment above :)
+I just answered exactly that in a comment above :)
 
 **u/Blondfox189** (1 pts)
 
@@ -3404,12 +3383,12 @@ I guess I’m stuck a bit - I’ve been offered 2 full rides to 2 colleges that 
 
 **u/Warm_Investigator100** (1 pts)
 
-how u  manifested?
+how u manifested?
 
 **u/TrueRaccoon7742** (1 pts)
 
 How to actually manifest physical appearance changes?
-So strongly that the drastic change is visible in reality(from an avg looking to the top) 
+So strongly that the drastic change is visible in reality(from an avg looking to the top)
 ThanQ☺️
 
 **u/CoastCheap8709** (1 pts)
@@ -3451,7 +3430,7 @@ Currently manifesting physical appearance change and it is working fs but I wann
 
 **u/Complete_Effective26** (1 pts)
 
-How often did you imagine your desires? How long did you dwell in your wish full filled? Like 20 mins per desire every day. When  did you stop imagining? Thank you for your time
+How often did you imagine your desires? How long did you dwell in your wish full filled? Like 20 mins per desire every day. When did you stop imagining? Thank you for your time
 
 **u/Wonderful_Ad_573** (1 pts)
 
@@ -3463,9 +3442,9 @@ I’ve been trying to manifest a job. How do you manifest when doubtful thoughts
 
 **u/Virtual_Blood_4847** (1 pts)
 
-Hello, thank you for trying to helping us. 
+Hello, thank you for trying to helping us.
 
-My question would be why is it that everytime when i want to manifest a specific things people around me / near me / friends have that thing but not me? 
+My question would be why is it that everytime when i want to manifest a specific things people around me / near me / friends have that thing but not me?
 
 Thats some of the things specific when it comes to money / job / career what confuses me.
 
@@ -3485,20 +3464,19 @@ Have you ever manifested what you wanted, even when you are stressed/restless ab
 
 How did you deal with the 3d? Or the waiting process of it confirming? And what about doubts when that unsureness creeps in how did you deal with that?
 
-**u/woahtheremate_** (1 pts)
+**u/woahtheremate\_** (1 pts)
 
-I came here to ask because I have 5 days to manifest a job. At most I have 9… and that’s pushing it  because of my circumstances. I’ve made a spiritual petition twice and gave dates. Nothing happened the first date or the second date.. I’m trying to stay calm. The job I’m wanting to manifest I was kind of promised but it depends on a tender. I haven’t heard anything. The job would be life changing and lift me out of a poverty I’ve been living in for over 3 decades. All my life really. 
+I came here to ask because I have 5 days to manifest a job. At most I have 9… and that’s pushing it because of my circumstances. I’ve made a spiritual petition twice and gave dates. Nothing happened the first date or the second date.. I’m trying to stay calm. The job I’m wanting to manifest I was kind of promised but it depends on a tender. I haven’t heard anything. The job would be life changing and lift me out of a poverty I’ve been living in for over 3 decades. All my life really.
 
-It would also open up possibility to another manifestation - a home. I’ve had deep instability and homelessness for years. Parental abandonment, living in care, abusive relationships. No family, no support, raised myself from childhood, the whole 9 yards. Currently being severely harassed by a landlord, her daughter and co tenant. It’s affected my health deeply. Chronic pain the lot. I want out. Have health issues that mean that home environment was “perfect” but for the harassment and people. So the job would mean I can move out, have the ability to have CHOICE to choose a place and be there on my own.. for the first time in my life.. 
+It would also open up possibility to another manifestation - a home. I’ve had deep instability and homelessness for years. Parental abandonment, living in care, abusive relationships. No family, no support, raised myself from childhood, the whole 9 yards. Currently being severely harassed by a landlord, her daughter and co tenant. It’s affected my health deeply. Chronic pain the lot. I want out. Have health issues that mean that home environment was “perfect” but for the harassment and people. So the job would mean I can move out, have the ability to have CHOICE to choose a place and be there on my own.. for the first time in my life..
 
-I am trying to stay calm and manifest and change my internal landscape… “working against the clock” feels like it doesn’t help but I have moments of calm and have been leaning into gratitude as much as possible. I recognised old thinking patterns in sitting with myself recently - the comfort in chaos because of childhood trauma , the fact that I always feel like a better life is in the future so I probably push it away manifestation wise if that makes sense, maybe some underlying issues around deserving. These are deep down but intellectually I know they’re not true and desire the opposite everyday. 
+I am trying to stay calm and manifest and change my internal landscape… “working against the clock” feels like it doesn’t help but I have moments of calm and have been leaning into gratitude as much as possible. I recognised old thinking patterns in sitting with myself recently - the comfort in chaos because of childhood trauma , the fact that I always feel like a better life is in the future so I probably push it away manifestation wise if that makes sense, maybe some underlying issues around deserving. These are deep down but intellectually I know they’re not true and desire the opposite everyday.
 
-Beyond this I have career goals but this is my biggest … 
+Beyond this I have career goals but this is my biggest …
 
+You’ve mentioned you manifested things a person would call unachievable… so you’re the exact person I would be very grateful to learn from.
 
-You’ve mentioned you manifested things a person would call unachievable… so you’re the exact person I would be very grateful to learn from. 
-
-How do you reframe your mind to manifest achieving the seemingly unachievable? 
+How do you reframe your mind to manifest achieving the seemingly unachievable?
 
 Were there specific steps or hacks or a light bulb moment?
 
@@ -3518,9 +3496,9 @@ Have you tried manifesting an SP?
 
 How can I ignore 3D if I haven’t gotten what I want yet 😭
 
-  ↳ **u/Past-Story2800** (1 pts)
+↳ **u/Past-Story2800** (1 pts)
 
-  I will have an exam tmr and I rly want it to go well but I’m still anxious and nervous about that though I try to believe that I will do it perfectly 🥲
+I will have an exam tmr and I rly want it to go well but I’m still anxious and nervous about that though I try to believe that I will do it perfectly 🥲
 
 **u/mina_usir** (1 pts)
 
@@ -3540,7 +3518,7 @@ Hello. Can u give me some suggestions to manifest freedom? Like I have strict pa
 
 **u/thississonali** (1 pts)
 
-How can I manifest good college for me and my bf 
+How can I manifest good college for me and my bf
 I've to manifest same college
 
 **u/Professional-Pin9432** (1 pts)
@@ -3582,9 +3560,9 @@ How to get out of severe depression
 I’m a chronic overthinker.
 I have something I’m manifesting but keeps hitting small bumps but I still whole heartedly believe it will happen.. but I journal about “what ifs” to keep me from melting down in my real life - do I need to stop doing this to let the manifestation come to fruition?
 
-  ↳ **u/rubyblue1990** (2 pts)
+↳ **u/rubyblue1990** (2 pts)
 
-  Can you shift the What If questions to be positive ones? Like “What if xyz happens (in a good way)?”; “What if I get everything I’m asking for?”; etc.
+Can you shift the What If questions to be positive ones? Like “What if xyz happens (in a good way)?”; “What if I get everything I’m asking for?”; etc.
 
     ↳ **u/Automatic-Minute7960** (1 pts)
 
@@ -3594,9 +3572,9 @@ I have something I’m manifesting but keeps hitting small bumps but I still who
 
 How?
 
-  ↳ **u/madsoybean** (15 pts)
+↳ **u/madsoybean** (15 pts)
 
-  At the beginning I did it without knowing about manifesting at all just by visualising very deeply and literally assuming that your planned outcome is going to happen but quickly I learned that I am a quite literal manifestor, so I had to work on my techniques a little to reduce backfires lol
+At the beginning I did it without knowing about manifesting at all just by visualising very deeply and literally assuming that your planned outcome is going to happen but quickly I learned that I am a quite literal manifestor, so I had to work on my techniques a little to reduce backfires lol
 
     ↳ **u/novemberkind111** (3 pts)
 
@@ -3606,12 +3584,11 @@ How?
 
 how do i manifest a job ivr been trying so hard. I’ve been unemployed for 6 months now i only started manifesting 2 weeks ago.
 
-
 ================================================================================
 THREAD 14 OF 16
 ================================================================================
 
-# How do you manifest when there's a lot of fear and resistance? 
+# How do you manifest when there's a lot of fear and resistance?
 
 **r/lawofattraction** • Posted by u/anne-kaffeekanne • 15 points
 **URL:** https://reddit.com/r/lawofattraction/comments/1gxihya/
@@ -3626,9 +3603,9 @@ Hello everyone, I have had some manifestation successes around topics that felt 
 
 Work out the limiting beliefs and affirm against, im on the same journey and first worked out the fears I had, im increasingly realising I can have whatever I want, affirm through it all, sadness, tears, 3d shit the lot…. Ive had movement lately so its all falling into place but working on me first was the important bit. I struggled (still do) with thinking that detaching will result in loosing the desire but keep saying its mine and its done helps
 
-  ↳ **u/anne-kaffeekanne** (1 pts)
+↳ **u/anne-kaffeekanne** (1 pts)
 
-  Thanks a lot! Did it help you to affirm the opposite even if at first, it didn't feel "true"? 
+Thanks a lot! Did it help you to affirm the opposite even if at first, it didn't feel "true"? 
 
     ↳ **u/[deleted]** (1 pts)
 
@@ -3638,33 +3615,33 @@ Work out the limiting beliefs and affirm against, im on the same journey and fir
 
 [deleted]
 
-  ↳ **u/thelittlemisscat** (3 pts)
+↳ **u/thelittlemisscat** (3 pts)
 
-  It's really helpful. It helps me a lot too
+It's really helpful. It helps me a lot too
 
-  ↳ **u/[deleted]** (1 pts)
+↳ **u/[deleted]** (1 pts)
 
-  [deleted]
+[deleted]
 
-  ↳ **u/anne-kaffeekanne** (1 pts)
+↳ **u/anne-kaffeekanne** (1 pts)
 
-  Wow, that's such a clever idea to use Chat GPT for your benefits. Did you tell it first to counsel you from a LOA point of view? 
+Wow, that's such a clever idea to use Chat GPT for your benefits. Did you tell it first to counsel you from a LOA point of view? 
 
 **u/Flashas9** (4 pts)
 
 Reprogram your limiting beliefs/fears
 
-  ↳ **u/anne-kaffeekanne** (2 pts)
+↳ **u/anne-kaffeekanne** (2 pts)
 
-  Thanks a lot! 
+Thanks a lot! 
 
 **u/koalaonaplane** (4 pts)
 
 I’ve been doing robotic affirming and it’s working wonders
 
-  ↳ **u/anne-kaffeekanne** (1 pts)
+↳ **u/anne-kaffeekanne** (1 pts)
 
-  Interesting! Does robotic mean that you just affirm again and again or is this a special method? 
+Interesting! Does robotic mean that you just affirm again and again or is this a special method? 
 
     ↳ **u/koalaonaplane** (1 pts)
 
@@ -3674,45 +3651,42 @@ I’ve been doing robotic affirming and it’s working wonders
 
 I learned Emotional Freedom Techniques also known as EFT or Tapping, its predecessor was called TFT or Thought Field Therapy. They help take the edge off in order to objectively address the fear and resistance without wallowing or triggering.
 
-  ↳ **u/anne-kaffeekanne** (2 pts)
+↳ **u/anne-kaffeekanne** (2 pts)
 
-  Thanks a lot, I will definately look into that! 
+Thanks a lot, I will definately look into that! 
 
 **u/HTMG** (3 pts)
 
 Analyzing limiting beliefs mean letting go. https://www.reddit.com/r/lawofattraction/s/zM8pScLvFs
 
-  ↳ **u/anne-kaffeekanne** (1 pts)
+↳ **u/anne-kaffeekanne** (1 pts)
 
-  Thanks a lot! 
+Thanks a lot! 
 
 **u/CreatedByHappyStars** (3 pts)
 
 I've personally struggled with this issue in the past, but practicing mindfulness and focusing on positive thoughts has been incredibly empowering for me, like instead of having anxiety of things going wrong, I look forward to things going right for me. Try not to attach emotions to negative thoughts. Simply watch them come and go. Meanwhile, prioritize and dwell on positive thoughts to cultivate a more uplifting mindset.
 
-  ↳ **u/anne-kaffeekanne** (2 pts)
+↳ **u/anne-kaffeekanne** (2 pts)
 
-  Thanks a lot! I feel like recognizing an anxiety-inducing thought as not necessarily true and not going into rumination has helped me in the past already to detach a little and take off the edge.
+Thanks a lot! I feel like recognizing an anxiety-inducing thought as not necessarily true and not going into rumination has helped me in the past already to detach a little and take off the edge.
 
 **u/Curious-Avocado-3290** (3 pts)
 
 It’s about letting go and allowing. You are not actualizing anything except to steer your desire by entertaining them. Ask yourself why you are confident about why you feel that way and biting into it.
 
-  ↳ **u/anne-kaffeekanne** (1 pts)
+↳ **u/anne-kaffeekanne** (1 pts)
 
-  Thank you, that makes sense! 
+Thank you, that makes sense! 
 
 **u/Creative_Map1048** (2 pts)
 
 You just have to create a daily ritual that keep you in the state. Try this playlist to help ✨️
 
-
-The Best Manifestation Playlist on Spotify ✨️ Save Now! 
+The Best Manifestation Playlist on Spotify ✨️ Save Now!
 https://open.spotify.com/playlist/0woB1vYmzqZeTJmqygJHjx?si=l6QdFtvgTuKQiuR6Eih-mg&pi=HHzXhw8OQUOm1
 
 **u/jbamg55** (2 pts)
-
-
 
 I know some Law of Attraction enthusiasts might disagree, but in my experience, it's not just thoughts but the power of emotions that triggers manifestations. This concept ties into something called "loosh," which suggests that we’re in a simulation where our emotions are harvested as energy.
 
@@ -3726,9 +3700,9 @@ The real skill lies in harnessing negative emotions to fuel the intentions of wh
 
 !
 
-  ↳ **u/anne-kaffeekanne** (1 pts)
+↳ **u/anne-kaffeekanne** (1 pts)
 
-  Wow, thank you so much for taking the time to write such a long comment. I have often heard about emotions being just as significant in manifestation as thoughts. When you talk about redirecting the energy, would you say it's about questions like "Okay, I very much do know what I don't want, so what do I want instead?" and then going into the feeling of this "instead" fulfilled? 
+Wow, thank you so much for taking the time to write such a long comment. I have often heard about emotions being just as significant in manifestation as thoughts. When you talk about redirecting the energy, would you say it's about questions like "Okay, I very much do know what I don't want, so what do I want instead?" and then going into the feeling of this "instead" fulfilled? 
 
     ↳ **u/jbamg55** (1 pts)
 
@@ -3744,10 +3718,9 @@ The only way to move through an untrue belief is to acknowledge it but no longer
 
 **u/DJGammaRabbit** (1 pts)
 
-Gotta use that leverage or else it'd be impossible due to where we're all at sometimes. 
+Gotta use that leverage or else it'd be impossible due to where we're all at sometimes.
 
 Zoom out, appreciate the little things, count small things as big wins, shoot for smaller things, take smaller steps.
-
 
 ================================================================================
 THREAD 15 OF 16
@@ -3774,7 +3747,7 @@ Edit 1: Thank you all for your patience as I respond. I’m doing my best to get
 
 Edit 2: Thank you everyone for your thoughtful questions and comments. I really enjoyed the conversations here. As long as a question was within the scope of this AMA, I’ve done my best to answer it to the best of my knowledge. A few of you also DM’d asking for the detailed success stories. As promised, I’ll share those in a separate thread so the learnings and success stories stay organized and easy to reference. Thanks again for chiming in. This AMA is officially closed.
 
-Good luck. Happy manifesting ✨️ 
+Good luck. Happy manifesting ✨️
 
 ---
 
@@ -3786,8 +3759,7 @@ We ask that you familiarize yourself with our **[subreddit rules](https://www.re
 
 Please report any posts or comments that break the rules.
 
-
-*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NevilleGoddard) if you have any questions or concerns.*
+_I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NevilleGoddard) if you have any questions or concerns._
 
 **u/Puzzleheaded_Aide997** (54 pts)
 
@@ -3797,33 +3769,32 @@ What were the impossible circumstances, that were lifted once you understood and
 
 Have you had any negative job seeking experience that was interpreted as a movement, that led you to have a better job?
 
-I’m in a situation of being in a shitty job that I know I don’t belong to and that I will be going away soon haha, so looking for some advice :) 
+I’m in a situation of being in a shitty job that I know I don’t belong to and that I will be going away soon haha, so looking for some advice :)
 
 And ofc, happy for you! You rock!
 
-  ↳ **u/babbysaurus** (104 pts)
+↳ **u/babbysaurus** (104 pts)
 
-  > What was the breakthrough in knowing the law?
-  
-  The biggest breakthrough was realizing the difference between thinking of the desire and thinking from the desire.
-  For almost two years, I believed I was living in the end, but in reality, I was fantasizing about having the job as a way to escape my undesired circumstances. My self-concept had not changed at all, so there was no reason for my external reality to shift.
-  
-  
-  > What were the impossible circumstances, that were lifted once you understood and applied the law?
-  
-  At the time, everything felt impossible.
-  
-  I applied to over 1,000 jobs without landing interviews. When I did get interviews, I wouldn't make it past round 1, when I did pass initial rounds, I would get rejected after 8–10 rounds of technical interviews, which unfortunately is not uncommon in tech. Despite graduating from a top graduate program in my field, my self-concept was so low that I genuinely believed I was not qualified enough.
-  On top of that, I constantly compared myself to others. There were hundreds of thousands of qualified candidates, many with prior industry experience, strong referrals, or high-level connections. From that state of mind, the circumstances looked completely insurmountable.
-  
-  > Have you had any negative job seeking experience that was interpreted as a movement, that led you to have a better job?
-  
-  Absolutely. 1000%
-  I have shared this particular success story on this sub multiple times, but I will add it in my posta as an edit for context. What initially felt like stagnation, rejection and failure later revealed itself as part of the bridge of incidents that led me to a much better role. At the time, it did not feel like movement at all. In hindsight, it clearly was.
-  
-  > And ofc, happy for you! You rock!
-  
-  Thank you. And I don't say this lightly, you already have what you want. The key is choosing the state consistently. You’ve got this 🙌🏻
+> What was the breakthrough in knowing the law?
+
+The biggest breakthrough was realizing the difference between thinking of the desire and thinking from the desire.
+For almost two years, I believed I was living in the end, but in reality, I was fantasizing about having the job as a way to escape my undesired circumstances. My self-concept had not changed at all, so there was no reason for my external reality to shift.
+
+> What were the impossible circumstances, that were lifted once you understood and applied the law?
+
+At the time, everything felt impossible.
+
+I applied to over 1,000 jobs without landing interviews. When I did get interviews, I wouldn't make it past round 1, when I did pass initial rounds, I would get rejected after 8–10 rounds of technical interviews, which unfortunately is not uncommon in tech. Despite graduating from a top graduate program in my field, my self-concept was so low that I genuinely believed I was not qualified enough.
+On top of that, I constantly compared myself to others. There were hundreds of thousands of qualified candidates, many with prior industry experience, strong referrals, or high-level connections. From that state of mind, the circumstances looked completely insurmountable.
+
+> Have you had any negative job seeking experience that was interpreted as a movement, that led you to have a better job?
+
+Absolutely. 1000%
+I have shared this particular success story on this sub multiple times, but I will add it in my posta as an edit for context. What initially felt like stagnation, rejection and failure later revealed itself as part of the bridge of incidents that led me to a much better role. At the time, it did not feel like movement at all. In hindsight, it clearly was.
+
+> And ofc, happy for you! You rock!
+
+Thank you. And I don't say this lightly, you already have what you want. The key is choosing the state consistently. You’ve got this 🙌🏻
 
     ↳ **u/DasIstNumberwanggg** (32 pts)
 
@@ -3832,12 +3803,12 @@ And ofc, happy for you! You rock!
     ↳ **u/faolck** (19 pts)
 
     In your response you said this
-    
+
     > For almost two years, I believed I was living in the end, but in reality, I was fantasizing about having the job as a way to escape my undesired circumstances.
-    
+
     Isn’t fantasizing and reminding ourselves about our true reality what we should be doing when confronted with circumstances that imply our desire hasn’t manifested?
-    
-    
+
+
     Thank you, OP for doing this. It is very much appreciated and I’m glad you’ve had success with the law
 
       ↳ **u/unalright_** (1 pts)
@@ -3851,38 +3822,38 @@ And ofc, happy for you! You rock!
           ↳ **u/babbysaurus** (187 pts)
 
           Thinking of the desire keeps the job in front of you as something to arrive. You can affirm, visualize, script, and do SATS perfectly, but internally the job is still positioned as missing. Your awareness is split: one part imagines having it, the other part keeps checking reality to see if it has shown up yet.
-          
+
           That was exactly my state.
-          
+
           I did SATS, affirmations, vision boards, and every technique you can name, and some more. I’d wake up thinking “today might be the day,” then spend the day refreshing emails, decoding silence, and letting rejections or delays dictate how I felt. That is not embodiment. That is waiting for permission to feel settled, just with some Neville-ness sprinkled on top.
-          
+
           Here is the core issue:
           In this state, the job is what you believe will change how you feel. So your nervous system stays alert, scanning for evidence. As long as you are scanning, you are positioned before the desire, not after it. Embodiment only happens when you stop relating to the job as something that will fix your state and start relating to it as something that must conform to the state you have already assumed.
-          
+
           Thinking from the desire (which is just another name for embodiment) removes that distance. You stop inching toward the job and mentally relocate past it. The job is removed from the category of solution. That is the part most people miss.
-          
+
           When you are thinking from the desire, you are no longer letting the absence of it in 3D regulate how you feel about yourself in relation to the desire. You are not waiting for it to make you feel safe, worthy, or financially okay. Those decisions are already made internally. Because of that, the job stops being something you are psychologically moving toward.
-          
+
           Practically, this is what changes.
           You stop waking up wondering if today is the day.
           You stop checking emails to see how you should feel.
           You stop rehearsing conversations, preparing for rejection, or bracing yourself emotionally.
           You stop needing reassurance that you are “on the right track.”
-          
+
           Not because you are "trying" to be detached.
           Because there is nothing left to resolve.
-          
+
           The desire is no longer in front of you pulling you forward. You are standing after it, and life reorganizes to match that position.
-          
+
           Here is the cleanest way I can put it:
           If the job still feels like the thing that will finally allow you to relax, you are thinking of it.
           If you already feel relaxed, steady, and self-trusting before the job exists in the 3D, you are thinking from it.
-          
+
           That is embodiment.
           Not believing harder.
           Not visualizing better.
           But no longer needing the desire to change how you feel about yourself.
-          
+
           'Just being', as Neville would call it.
 
             ↳ **u/stephaniaalexandra** (24 pts)
@@ -3900,7 +3871,7 @@ And ofc, happy for you! You rock!
               ↳ **u/babbysaurus** (26 pts)
 
               When you're in the state, techniques usually stop feeling compulsory.
-              
+
               That said, I recommend doing whatever you feel organically inclined to do, not what you feel you should do to make something happen.
 
               ↳ **u/07LADEV** (17 pts)
@@ -3930,57 +3901,56 @@ And ofc, happy for you! You rock!
 
         ↳ **u/YaEchoesKnowMe** (1 pts)
 
-        Thanks for response 
+        Thanks for response
         Awesome 👏🏼
 
         ↳ **u/neo_00_9** (1 pts)
 
         Is this how you fixed your self concept ?
-        
+
         Or any other ways to fix self concept that you tried ?
-        
-        Also, what did you do after realising your mistakes ? Like the final process that you settled on 
-        
+
+        Also, what did you do after realising your mistakes ? Like the final process that you settled on
+
         From what I understand, you carried on with your day without worrying about getting a job. But, how do you remove that feeling of lack when you are checking mails for invites or tracking applications on excel sheet
 
           ↳ **u/neo_00_9** (2 pts)
 
           Got the reply here
-          
+
           https://www.reddit.com/r/NevilleGoddard/s/YtOoWLT8Np
 
     ↳ **u/BAS_247** (1 pts)
 
     Please share the link to your previous job success stories I am not able to find it. I want to read it
 
-  ↳ **u/theycallmebelsss** (8 pts)
+↳ **u/theycallmebelsss** (8 pts)
 
-  Gonna wait here with you because I also wanted to know
+Gonna wait here with you because I also wanted to know
 
 **u/Formal-Treacle6697** (43 pts)
 
-I also have manifested my job . My previous company had done me dirty by not promoting me when I actually deserved. Then I just concerted on my work . Deep down I just manifested that I need my respect for that I need to get promoted this year and just kept doing work . Then I attended one interview and honestly felt like that's a dream job for me . I wasn't   desperate for that job i kept clearing interview rounds and reached the last round . When I reached the last round I became so desperate and just was frustrated with my current job . My current job colleagues became very toxic . I wasn't feeling myself and with the job being a night shift job it was taking a toll on my health as well . But I simply kept repeating I am getting promoted and will land that exact job . And the job interview which I have where I had reached the last round , somehow didn't work out . They had hired someone else . But I didn't give up my hopes . I kept repeating my affirmations . I kept seeing the company logo . But again I was really desperate. They came back after 2 months . Things were almost ready to finalise and it didn't happen . I was really desperate at this point . I was shattered when it didn't happen . Then I finally let go of the desperation . My promotion was announced . I finally started to thank my current job how I was thankful for the money I was getting from the current job and there was no need for me to hate the job so much . And it went on like that and I get a message from the HR from the other company which I desperately wanted that something might open up soon and I just replied sure we can touch base during that time . I was just very calm because I knew it would work out and things are working in my favour . I kept delicately working in my job being thankful . Kept repeating that I am working in so and so company and seeing the logo everywhere like it was a sign . Guess what I get a call unexpected suddenly out of no where that things went on pause and they are ready to hire . The offer letter was released in 2 days , I didn't even have to wait or keep checking my phone for offer letter . So I believe the true art is to let go of the fear , desperation, being thankful for what ever we have currently . And keeping the desire alive how much ever the 3D is against us . And it works out in the divine timing. 
+I also have manifested my job . My previous company had done me dirty by not promoting me when I actually deserved. Then I just concerted on my work . Deep down I just manifested that I need my respect for that I need to get promoted this year and just kept doing work . Then I attended one interview and honestly felt like that's a dream job for me . I wasn't desperate for that job i kept clearing interview rounds and reached the last round . When I reached the last round I became so desperate and just was frustrated with my current job . My current job colleagues became very toxic . I wasn't feeling myself and with the job being a night shift job it was taking a toll on my health as well . But I simply kept repeating I am getting promoted and will land that exact job . And the job interview which I have where I had reached the last round , somehow didn't work out . They had hired someone else . But I didn't give up my hopes . I kept repeating my affirmations . I kept seeing the company logo . But again I was really desperate. They came back after 2 months . Things were almost ready to finalise and it didn't happen . I was really desperate at this point . I was shattered when it didn't happen . Then I finally let go of the desperation . My promotion was announced . I finally started to thank my current job how I was thankful for the money I was getting from the current job and there was no need for me to hate the job so much . And it went on like that and I get a message from the HR from the other company which I desperately wanted that something might open up soon and I just replied sure we can touch base during that time . I was just very calm because I knew it would work out and things are working in my favour . I kept delicately working in my job being thankful . Kept repeating that I am working in so and so company and seeing the logo everywhere like it was a sign . Guess what I get a call unexpected suddenly out of no where that things went on pause and they are ready to hire . The offer letter was released in 2 days , I didn't even have to wait or keep checking my phone for offer letter . So I believe the true art is to let go of the fear , desperation, being thankful for what ever we have currently . And keeping the desire alive how much ever the 3D is against us . And it works out in the divine timing.
 
-This is my first reply to any post .  I have always been a silent reader in this sub . But this is something I wanted to share so it can help people to reach what they really want
+This is my first reply to any post . I have always been a silent reader in this sub . But this is something I wanted to share so it can help people to reach what they really want
 
 I am trying to manifest one more thing which really matters for me , please wish me luck and keep me in prayers
 
-  ↳ **u/babbysaurus** (3 pts)
+↳ **u/babbysaurus** (3 pts)
 
-  Yiyyye! 🙌🏻
+Yiyyye! 🙌🏻
 
-  ↳ **u/_butterfly_______** (1 pts)
+↳ **u/\_butterfly**\_\_\_\*\*\*\* (1 pts)
 
-  Thank you for your post as it made me feel a little better. I've been in a quite difficult situation rn. It's in the office itself, ppl are against and now it seems really not possible to get things for myself. It's about a sp situation. Things were going smooth and well for me.
-  Someone from my dept complained about it to the management and she has a tendency to manipulate everyone.   I did change my self concept and tried to not focus on others but myself and my thoughts, I could see things shifting as well. Now the sp itself is acting opposite and my strength is quite low. Tbh I'm just surviving and pushing myself to come to office. Earlier there would be hope but now it just feel entirely difficult for me.
-  
-  
-  To anyone if at all you may help in my situation, I would really appreciate any insight or suggestion so that things turn in my favor.
-  Your any comment or even any prayer would be appreciated.
+Thank you for your post as it made me feel a little better. I've been in a quite difficult situation rn. It's in the office itself, ppl are against and now it seems really not possible to get things for myself. It's about a sp situation. Things were going smooth and well for me.
+Someone from my dept complained about it to the management and she has a tendency to manipulate everyone. I did change my self concept and tried to not focus on others but myself and my thoughts, I could see things shifting as well. Now the sp itself is acting opposite and my strength is quite low. Tbh I'm just surviving and pushing myself to come to office. Earlier there would be hope but now it just feel entirely difficult for me.
 
-  ↳ **u/7thighs** (1 pts)
+To anyone if at all you may help in my situation, I would really appreciate any insight or suggestion so that things turn in my favor.
+Your any comment or even any prayer would be appreciated.
 
-  May it be as you have spoken it!
+↳ **u/7thighs** (1 pts)
+
+May it be as you have spoken it!
 
 **u/87anxiety** (27 pts)
 
@@ -3988,9 +3958,9 @@ Hell yeah, mods, more discussions! Ty OP
 
 Following
 
-  ↳ **u/babbysaurus** (9 pts)
+↳ **u/babbysaurus** (9 pts)
 
-  🙌🏻
+🙌🏻
 
 **u/sNo-Habit-747** (15 pts)
 
@@ -3998,11 +3968,11 @@ My current job is my first successful conscious manifestation. Big one, anyway. 
 
 Now I have want to create a new role for myself in the same organization. Have you experience with this?
 
-  ↳ **u/babbysaurus** (24 pts)
+↳ **u/babbysaurus** (24 pts)
 
-  Yiyye! Congratulations 🎊
-  
-  In one of the jobs I manifested, I was actually down-leveled at first. Instead of trying to force a new title, I focused on identifying internally as someone whose work is valued and whose responsibilities naturally expand. I spoke and delivered results like the people who hold senior titles in that org. Over time, the role adjusted around that state.
+Yiyye! Congratulations 🎊
+
+In one of the jobs I manifested, I was actually down-leveled at first. Instead of trying to force a new title, I focused on identifying internally as someone whose work is valued and whose responsibilities naturally expand. I spoke and delivered results like the people who hold senior titles in that org. Over time, the role adjusted around that state.
 
     ↳ **u/sNo-Habit-747** (6 pts)
 
@@ -4019,11 +3989,11 @@ Now I have want to create a new role for myself in the same organization. Have y
       ↳ **u/babbysaurus** (21 pts)
 
       For my first job, I imagined my parents congratulating me.
-      
+
       The second was an internal move, so I visualized myself working from the new space where I would sit once I transferred.
-      
+
       The third one, I just knew I would get it and didn’t feel inclined to do anything.
-      
+
       For the fourth, after visiting the office for an on-site interview, I visualized driving into the parking lot, badging in, and settling at my desk.
 
         ↳ **u/morepower1996** (2 pts)
@@ -4038,13 +4008,13 @@ Now I have want to create a new role for myself in the same organization. Have y
 
 It has not clicked for me either. I have been manifesting a better job higher pay and something I enjoy that will give me more freedom in life. I have applied and got interviews to really great positions to not getting the position. I stopped applying I get fear with the thought of even trying to apply and interviews now I would love if it happen without so much effort
 
-  ↳ **u/babbysaurus** (72 pts)
+↳ **u/babbysaurus** (72 pts)
 
-  You know what, I was in your shoes not too long ago. I applied to over 1,000 jobs without landing interviews. When I did get interviews, I wouldn’t make it past the first round, and even when I cleared initial rounds, I was rejected after 8–10 interviews. I was rejected after the final round 17 times in 2 years. It hit my already fragile self-image so hard that I eventually stopped applying altogether.
-  
-  At night, I would imagine having the job. During the day, I waited for my circumstances to change. I watched my peers make great money straight out of college and quietly wondered when it would be my turn. One day, Neville’s line about not serving two masters finally clicked. I was imagining being employed at night while questioning my reality during the day.
-  
-  So I paused. I focused only on changing the quiet story I was telling myself, not to get a job, not to fix my circumstances, but because I was tired of feeling the way I felt. Weeks later, when I felt more settled internally, a recruiter from my desired company reached out, and I cleared my first interview in 2 years.🙂
+You know what, I was in your shoes not too long ago. I applied to over 1,000 jobs without landing interviews. When I did get interviews, I wouldn’t make it past the first round, and even when I cleared initial rounds, I was rejected after 8–10 interviews. I was rejected after the final round 17 times in 2 years. It hit my already fragile self-image so hard that I eventually stopped applying altogether.
+
+At night, I would imagine having the job. During the day, I waited for my circumstances to change. I watched my peers make great money straight out of college and quietly wondered when it would be my turn. One day, Neville’s line about not serving two masters finally clicked. I was imagining being employed at night while questioning my reality during the day.
+
+So I paused. I focused only on changing the quiet story I was telling myself, not to get a job, not to fix my circumstances, but because I was tired of feeling the way I felt. Weeks later, when I felt more settled internally, a recruiter from my desired company reached out, and I cleared my first interview in 2 years.🙂
 
     ↳ **u/Embarrassed_Wave_720** (8 pts)
 
@@ -4053,15 +4023,15 @@ It has not clicked for me either. I have been manifesting a better job higher pa
       ↳ **u/babbysaurus** (46 pts)
 
       I simply invalidated the old story. It wasn’t easy. I had to repeatedly choose my position in relation to the desire until it stopped feeling forced and started feeling natural. SATS played a crucial role in the process.
-      
-      The real work though, happens during the day, as you live life and face 3D. Refusing to emotionally engage with the absence of the desire to put it plainly. Any thoughts that brought up the old identity got zero engagement. No negotiation. No emotional correspondence. 
-      
+
+      The real work though, happens during the day, as you live life and face 3D. Refusing to emotionally engage with the absence of the desire to put it plainly. Any thoughts that brought up the old identity got zero engagement. No negotiation. No emotional correspondence.
+
       Once I stopped living as the one who was waiting, the old story had nothing to survive on and died on its own.
 
         ↳ **u/justneedabreak802** (6 pts)
 
-        Thank you OP for saying this. I am in the same boat, left my last job in Jan 2025 due to my manager’s toxic behavior and him giving me a low rating for no reason. I have been looking since. I have gone to final rounds multiple times but something or the other has happened at each of those companies, so that I didn’t get a job offer. I know I need to work on self concept. I am also in the same state of mind as you were, I keep doubting myself, my capabilities. All the final rounds interviewers have told me I am great, but I still doubted it. 
-        
+        Thank you OP for saying this. I am in the same boat, left my last job in Jan 2025 due to my manager’s toxic behavior and him giving me a low rating for no reason. I have been looking since. I have gone to final rounds multiple times but something or the other has happened at each of those companies, so that I didn’t get a job offer. I know I need to work on self concept. I am also in the same state of mind as you were, I keep doubting myself, my capabilities. All the final rounds interviewers have told me I am great, but I still doubted it.
+
         I figured last month that I have been very desperate in my job search. I have been fearful because I am unemployed. I figured I need to detach from this situation. Your comment about being behind your desire is making a lot of sense. Until your post I hadn’t figured out that it was my self concept, desperation and serving 2 masters. I am a bit more clear now. I will definitely reach out with more questions as I keep working on myself.
 
         ↳ **u/Embarrassed_Wave_720** (1 pts)
@@ -4070,12 +4040,12 @@ It has not clicked for me either. I have been manifesting a better job higher pa
 
           ↳ **u/babbysaurus** (9 pts)
 
-          The old story created the current undesired reality. 
-          
-          Don't want it? 
-          
-          Scrap the story, write a new one that will create a new reality. 
-          
+          The old story created the current undesired reality.
+
+          Don't want it?
+
+          Scrap the story, write a new one that will create a new reality.
+
           Time crunch or not, that's the only way the law works.
 
         ↳ **u/perksandwallflower** (1 pts)
@@ -4087,13 +4057,13 @@ It has not clicked for me either. I have been manifesting a better job higher pa
         Can you explain - “Any thoughts that brought up the old identity got zero engagement, no negotiation, no emotional correspondence”
         Because i am in a phase where i feel and experience both..new self identity and the old self thoughts, emotions. So the old self thoughts comes with the feeling of realness , pain,emotions. How to handle that?
 
-  ↳ **u/Key-Humor4344** (9 pts)
+↳ **u/Key-Humor4344** (9 pts)
 
-  You reacted to your 3D “I stopped applying I get fear with the thought of even trying…”.
-  
-  You let the victim mentality dominate your narrative, therefore this is what the mirror is reflecting outside.
-  You need to really focus on a new story instead. 
-  For example : “this happened but I’m not longer in that old state”
+You reacted to your 3D “I stopped applying I get fear with the thought of even trying…”.
+
+You let the victim mentality dominate your narrative, therefore this is what the mirror is reflecting outside.
+You need to really focus on a new story instead.
+For example : “this happened but I’m not longer in that old state”
 
     ↳ **u/Zealousideal_Swan98** (1 pts)
 
@@ -4107,29 +4077,29 @@ It has not clicked for me either. I have been manifesting a better job higher pa
 
 What mistakes or traps should be avoided?
 
-  ↳ **u/babbysaurus** (59 pts)
+↳ **u/babbysaurus** (59 pts)
 
-  1. Serving two masters, imagining the end but emotionally living from the problem.
-  
-  2. Treating current circumstances as evidence of what’s possible.
-  
-  3. Technique chasing. The work is in shifting identity not finding a new technique.
+1.  Serving two masters, imagining the end but emotionally living from the problem.
+
+2.  Treating current circumstances as evidence of what’s possible.
+
+3.  Technique chasing. The work is in shifting identity not finding a new technique.
 
     ↳ **u/bananana_apple** (1 pts)
 
     Damn man, all these answers are really helpful. Very thankful for you
 
-      ↳ **u/babbysaurus** (1 pts)
+    ↳ **u/babbysaurus** (1 pts)
 
-      🍻
+    🍻
 
     ↳ **u/Yakuza_14** (1 pts)
 
     Emotionally living from the problem? What do you mean by that?
 
-      ↳ **u/babbysaurus** (4 pts)
+    ↳ **u/babbysaurus** (4 pts)
 
-      It means doing all techniques, but letting your day-to-day emotions, reactions, and decisions still be driven by worry, lack, urgency, or “this hasn’t worked yet,” which keeps you anchored to the old state instead of the assumed one.
+    It means doing all techniques, but letting your day-to-day emotions, reactions, and decisions still be driven by worry, lack, urgency, or “this hasn’t worked yet,” which keeps you anchored to the old state instead of the assumed one.
 
         ↳ **u/Fearless_Willow_156** (1 pts)
 
@@ -4138,18 +4108,18 @@ What mistakes or traps should be avoided?
     ↳ **u/ThrowRAtalks** (1 pts)
 
     Hey, Thanks for doing this!
-    
-    I think, the law works same in every situation. It would be helpful if you could edit the post on how you were serving 2 masters and how you changed that. 
-    
+
+    I think, the law works same in every situation. It would be helpful if you could edit the post on how you were serving 2 masters and how you changed that.
+
     Embodying/living from the premise of having it, how did you do that? How did do you accept that the end is done and now youre living from that premise?
-    
+
     Embodying basically means, you've not accepted that its done, it already true and you dont expect anything anymore right, how did you teach yourself to stop expecting the 3D to change?
 
-      ↳ **u/babbysaurus** (1 pts)
+    ↳ **u/babbysaurus** (1 pts)
 
-      I've answered these questions in this post.
-      
-      [Here](https://www.reddit.com/r/NevilleGoddard/s/CMyU310ced) and [here](https://www.reddit.com/r/NevilleGoddard/s/yXQtz4XB7j)
+    I've answered these questions in this post.
+
+    [Here](https://www.reddit.com/r/NevilleGoddard/s/CMyU310ced) and [here](https://www.reddit.com/r/NevilleGoddard/s/yXQtz4XB7j)
 
         ↳ **u/ThrowRAtalks** (1 pts)
 
@@ -4159,31 +4129,31 @@ What mistakes or traps should be avoided?
 
 Congrats OP
 
-  ↳ **u/babbysaurus** (5 pts)
+↳ **u/babbysaurus** (5 pts)
 
-  Thanks mate 🍻
+Thanks mate 🍻
 
 **u/Eastern-Western-7056** (9 pts)
 
 You said 3 out of 4 times you didn't even apply for the job, were those jobs offered to you through a friend? Or did you walk in and they said they were hiring? Im very curious cuz im manifesting a job at a specific location and sometimes I worry about the circumstances 🥲
 
-  ↳ **u/babbysaurus** (25 pts)
+↳ **u/babbysaurus** (25 pts)
 
-  I was approached by recruiters and hiring managers hiring for that position. 1 time, I cold-contacted a hiring manager on LinkedIn and got hired. (That's my current role.)
+I was approached by recruiters and hiring managers hiring for that position. 1 time, I cold-contacted a hiring manager on LinkedIn and got hired. (That's my current role.)
 
-  ↳ **u/sNo-Habit-747** (9 pts)
+↳ **u/sNo-Habit-747** (9 pts)
 
-  This is a good question and I think the answer is there are innumerable ways that a job could be offered without applying. In my circumstances, I applied for one job at a company and they told me the position was no longer available. Then they offered me several other opportunities that I “did not apply to”, and not even in my area of interest.
-  
-  In a “birds before land”, a special needs guy offered me a job at his workplace. It was really sweet and made my day. He was my first offer! For me, it confirmed that the “how” is really out of our hands.
+This is a good question and I think the answer is there are innumerable ways that a job could be offered without applying. In my circumstances, I applied for one job at a company and they told me the position was no longer available. Then they offered me several other opportunities that I “did not apply to”, and not even in my area of interest.
+
+In a “birds before land”, a special needs guy offered me a job at his workplace. It was really sweet and made my day. He was my first offer! For me, it confirmed that the “how” is really out of our hands.
 
 **u/HalfEnvironmental615** (7 pts)
 
 Agree with OP. This has happened with me as well. It all happens in a very strange manner but the key thing is internal shift which either happen when you're too frustrated from trying constantly and you then detach or you decide and persist and give no other story any power. This is harder for desires we're desperate about ngl but it sure does work this way.
 
-  ↳ **u/babbysaurus** (2 pts)
+↳ **u/babbysaurus** (2 pts)
 
-  🎯
+🎯
 
 **u/Additional_Device320** (6 pts)
 
@@ -4199,15 +4169,15 @@ How do you interpret repeated movement without finalisation?
 And how do you hold a time-bound intention without slipping into pressure?
 Your post helped me reflect rather than force meaning — so thank you for sharing.
 
-  ↳ **u/babbysaurus** (1 pts)
+↳ **u/babbysaurus** (1 pts)
 
-  Glad it resonated.🙌🏻
-  
-  For all you know, you are still experiencing a bridge. Read my story [here](https://www.reddit.com/r/NevilleGoddard/s/PTOGEX4MEQ).
+Glad it resonated.🙌🏻
 
-  ↳ **u/Intelligent_Okra7286** (1 pts)
+For all you know, you are still experiencing a bridge. Read my story [here](https://www.reddit.com/r/NevilleGoddard/s/PTOGEX4MEQ).
 
-  I feel this sooooo hard. I can’t seem to feel trust in the fact that something will fully pan out because I’ve gotten so close to getting a role to then be passed up due to change in scope, change in budget, or a better candidate coming into play. It’s so frustrating and makes me just settle for not even trying anymore
+↳ **u/Intelligent_Okra7286** (1 pts)
+
+I feel this sooooo hard. I can’t seem to feel trust in the fact that something will fully pan out because I’ve gotten so close to getting a role to then be passed up due to change in scope, change in budget, or a better candidate coming into play. It’s so frustrating and makes me just settle for not even trying anymore
 
     ↳ **u/Additional_Device320** (1 pts)
 
@@ -4223,13 +4193,13 @@ What techniques do you use?
 
 How do you manage to feel it real in your everyday life? for instance, needing cash and not having it in the 3d
 
-  ↳ **u/babbysaurus** (35 pts)
+↳ **u/babbysaurus** (35 pts)
 
-  SATS is my go-to technique. I also use scripting occasionally.
-  
-  Honestly, it was challenging at first and I struggled with it like many others. I would do SATS at night and then check my bank account during the day. That contradiction is what kept things stuck.
-  
-  At some point, I had had enough and paused. I focused on shifting the quiet inner voice that kept asking, “When is it my turn?” I chose to identify as someone who is supported, financially abundant, and taken care of, and I refused to react to the 3D. I would simply pivot my attention to living life rather than wondering when things would change.
+SATS is my go-to technique. I also use scripting occasionally.
+
+Honestly, it was challenging at first and I struggled with it like many others. I would do SATS at night and then check my bank account during the day. That contradiction is what kept things stuck.
+
+At some point, I had had enough and paused. I focused on shifting the quiet inner voice that kept asking, “When is it my turn?” I chose to identify as someone who is supported, financially abundant, and taken care of, and I refused to react to the 3D. I would simply pivot my attention to living life rather than wondering when things would change.
 
     ↳ **u/Formal-Art4098** (3 pts)
 
@@ -4243,9 +4213,9 @@ How do you manage to feel it real in your everyday life? for instance, needing c
 
 Hi there! I'm actually trying to manifest a new job ASAP but I find it really hard to ignore the 3D. You mentioned you had some difficult circumstances, I was wondering if you could please expand on how you managed to ignore them.
 
-  ↳ **u/babbysaurus** (2 pts)
+↳ **u/babbysaurus** (2 pts)
 
-  Explained [here ](https://www.reddit.com/r/NevilleGoddard/s/S0QNyXOOKD)
+Explained [here ](https://www.reddit.com/r/NevilleGoddard/s/S0QNyXOOKD)
 
     ↳ **u/andreawilderod** (2 pts)
 
@@ -4255,36 +4225,36 @@ Hi there! I'm actually trying to manifest a new job ASAP but I find it really ha
 
 Have you ever gotten a job you were genuinely unqualified for?
 
-  ↳ **u/babbysaurus** (6 pts)
+↳ **u/babbysaurus** (6 pts)
 
-  Objectively, from a third-person POV, no.
-  However, my self-concept said otherwise, and reality reflected that until it changed.
+Objectively, from a third-person POV, no.
+However, my self-concept said otherwise, and reality reflected that until it changed.
 
 **u/SimplyAGameToMe** (3 pts)
 
-Hey OP, I just got out of the shower thinking about the exact things you’ve written about so I’ll take this as a “sign” (yes they follow and don’t precede, I mean it to be a message from my subconscious) 
+Hey OP, I just got out of the shower thinking about the exact things you’ve written about so I’ll take this as a “sign” (yes they follow and don’t precede, I mean it to be a message from my subconscious)
 
 I’ve tried the list method with great yet strange success. I’ve been manifesting the things that I’ve listed but….variations of them?
 
-Eg, I wanted to somehow receive free lip gloss. My mom this week got me a lipstick and a lip mask, she has never done this before so it wasn’t expected at all. Pure manifestation. 
+Eg, I wanted to somehow receive free lip gloss. My mom this week got me a lipstick and a lip mask, she has never done this before so it wasn’t expected at all. Pure manifestation.
 
 But it isn’t the gloss. Similarly, all my list items are kinda wonky but serve the purpose essentially. Any idea why this may be, if I’m doing anything wrong?
 
-  ↳ **u/PoetryAsPrayer** (4 pts)
+↳ **u/PoetryAsPrayer** (4 pts)
 
-  Probably a foundational, generalized belief like “I don’t get exactly what I want.” Or something similar. The answer is in your reaction to the events. What feeling do you have around this pattern? If you persist with that feeling, the pattern persists. 
-  
-  Try new reactions like, “wow I get free stuff just by thinking about it.” In other words, assume 100% success even if it’s 90% or whatever. 
-  
-   Make a conscious effort to notice every little thing, every day that is exactly as you want it to be and really really feel the satisfaction of experiencing exactly what you want. If it seems nothing is “perfect”, look harder for something, anything. I would notice cloud shapes or colors I loved - anything that could strike me as ideal. When it feels natural for you, it manifests. So make perfection “realistic” this way.
+Probably a foundational, generalized belief like “I don’t get exactly what I want.” Or something similar. The answer is in your reaction to the events. What feeling do you have around this pattern? If you persist with that feeling, the pattern persists.
 
-  ↳ **u/babbysaurus** (2 pts)
+Try new reactions like, “wow I get free stuff just by thinking about it.” In other words, assume 100% success even if it’s 90% or whatever.
 
-  🙌🏻
-  
-  I’ve had this happen too, mostly with low-stakes desires. I’m usually just happy it showed up in some form and move on, without dissecting it too much. I shared one such experience [here](https://www.reddit.com/r/NevilleGoddard/s/jA7Q0gG93r)
-  
-  If anyone else has a perspective on why this happens, I’d genuinely be open to hearing it.
+Make a conscious effort to notice every little thing, every day that is exactly as you want it to be and really really feel the satisfaction of experiencing exactly what you want. If it seems nothing is “perfect”, look harder for something, anything. I would notice cloud shapes or colors I loved - anything that could strike me as ideal. When it feels natural for you, it manifests. So make perfection “realistic” this way.
+
+↳ **u/babbysaurus** (2 pts)
+
+🙌🏻
+
+I’ve had this happen too, mostly with low-stakes desires. I’m usually just happy it showed up in some form and move on, without dissecting it too much. I shared one such experience [here](https://www.reddit.com/r/NevilleGoddard/s/jA7Q0gG93r)
+
+If anyone else has a perspective on why this happens, I’d genuinely be open to hearing it.
 
     ↳ **u/SimplyAGameToMe** (1 pts)
 
@@ -4294,9 +4264,9 @@ But it isn’t the gloss. Similarly, all my list items are kinda wonky but serve
 
 How long did the manifestation take to come true?
 
-  ↳ **u/babbysaurus** (8 pts)
+↳ **u/babbysaurus** (8 pts)
 
-  That depends, from when?
+That depends, from when?
 
     ↳ **u/Mind-Mint-Calm** (2 pts)
 
@@ -4305,13 +4275,13 @@ How long did the manifestation take to come true?
       ↳ **u/babbysaurus** (4 pts)
 
       2018: introduced to Neville's teachings
-      
-      2019: manifested first job using LoAssumption 
-      
+
+      2019: manifested first job using LoAssumption
+
       2021: second job
-      
+
       2023: third
-      
+
       2024: fourth
 
 **u/InfiniteBeingness** (4 pts)
@@ -4326,67 +4296,65 @@ I'll start of with this:
 
 2. How long did you apply the method and how long every day? (Until you got the job?)
 
-  ↳ **u/babbysaurus** (3 pts)
+↳ **u/babbysaurus** (3 pts)
 
-  Thank you.
-  
-  1. Mostly SATS.
-  
-  2. Until the state of the wish fulfilled felt natural. In some cases days or weeks, in others just a few times. I’d loop a short, implicative scene until I dozed off.
+Thank you.
+
+1. Mostly SATS.
+
+2. Until the state of the wish fulfilled felt natural. In some cases days or weeks, in others just a few times. I’d loop a short, implicative scene until I dozed off.
 
 **u/ethereality111** (2 pts)
 
-Hello! Your post is so timely. I just posted a question about this in another sub. The two career/job opportunities I’m currently manifesting and would like your take on: 
+Hello! Your post is so timely. I just posted a question about this in another sub. The two career/job opportunities I’m currently manifesting and would like your take on:
 
+1. A new higher paying role at my current company, with a more hands off manager, and a team that I align with better.
 
+2. A part-time Operations Associate role at ALO that will give me extra cash for savings and debt elimination. Just applied yesterday!
 
-1. A new higher paying role at my current company, with a more hands off manager, and a team that I align with better. 
-
-2. A part-time Operations Associate role at ALO that will give me extra cash for savings and debt elimination. Just applied yesterday! 
-
-Any tips for me? I have been checking internal job boards at my current company, not seeing anything that lights me up so far. In terms of the part-time role it feels like such a good fit and I’m more than qualified. 
+Any tips for me? I have been checking internal job boards at my current company, not seeing anything that lights me up so far. In terms of the part-time role it feels like such a good fit and I’m more than qualified.
 
 How do I use the law of assumption to my benefit when it comes to aligning with these two opportunities?
 
-  ↳ **u/babbysaurus** (8 pts)
+↳ **u/babbysaurus** (8 pts)
 
-  Assume the state that you’re worthy of great opportunities, your income is always increasing, you bring value wherever you work, and you’re seen as a valuable contributor in a work environment you genuinely enjoy.
+Assume the state that you’re worthy of great opportunities, your income is always increasing, you bring value wherever you work, and you’re seen as a valuable contributor in a work environment you genuinely enjoy.
 
 **u/Adventurous-Being215** (2 pts)
 
 How would you describe the wish fulfilled or the feeling of the wish fulfilled. Is feeling really enough? Or is it more about assuming through faith and expectation, simply knowing it will happen.
 
-  ↳ **u/babbysaurus** (14 pts)
+↳ **u/babbysaurus** (14 pts)
 
-  >How would you describe the wish fulfilled or the feeling of the wish fulfilled.
-  
-  Normalcy.
-  
-  The desire starts to feel ordinary. It no longer has a grip on you, and the urgency or desperation disappears.
-  There’s a quiet sense of liberation. Honestly, it’s hard to explain until you experience it yourself.
+> How would you describe the wish fulfilled or the feeling of the wish fulfilled.
+
+Normalcy.
+
+The desire starts to feel ordinary. It no longer has a grip on you, and the urgency or desperation disappears.
+There’s a quiet sense of liberation. Honestly, it’s hard to explain until you experience it yourself.
 
 **u/celeryxstalker** (2 pts)
 
 Huge congrats to you! On both the job, and figuring out a way that works for you (:
 
-I was wondering what your general thoughts are about the more “supernatural” side of manifesting, like revision and reality shifting? 
+I was wondering what your general thoughts are about the more “supernatural” side of manifesting, like revision and reality shifting?
 
 Wishing you many more successful manifestations!!!
 
-  ↳ **u/babbysaurus** (1 pts)
+↳ **u/babbysaurus** (1 pts)
 
-  Thank you 🙂
-  That’s a bit out of scope for this AMA.
-  
-  But Revision, yes. Reality shifting, not my area.
+Thank you 🙂
+That’s a bit out of scope for this AMA.
+
+But Revision, yes. Reality shifting, not my area.
 
 **u/Electrical-Plane-769** (2 pts)
 
 Did you stop preparing for the job interviews too?
 
-  ↳ **u/babbysaurus** (3 pts)
+↳ **u/babbysaurus** (3 pts)
 
-  Nope, why would I do that?
+Nope, why would I do that?
 
     ↳ **u/Electrical-Plane-769** (6 pts)
 
@@ -4399,13 +4367,13 @@ Did you stop preparing for the job interviews too?
         ↳ **u/babbysaurus** (9 pts)
 
         This is a common beginner question. Let’s spin your stance slightly. Say you were manifesting being married to a loving partner. You assume the inner state of already being in a happy marriage.
-        
+
         Now, life will naturally take you through a bridge of incidents where you meet that loving partner and eventually want to get married in the 3D. So do you stop planning your wedding, refuse to walk down the aisle, or skip saying your vows because it contradicts your inner state of already being married?
-        
+
         Of course not. In the 3D, you still do whatever is required of you right?
-        
+
         Creation happens in the 4D. Once you assume the state, from that point on, you simply go about your day while remaining faithful to that inner state of already having your desire in the 4D. Meanwhile, in the 3D, you continue doing what is needed, and in this example that means studying and showing up for the interview.
-        
+
         The job is already yours in the 4D once you have planted the seed properly. Yet you must be present in the 3D and do what is required of you.
 
           ↳ **u/Zealousideal_Swan98** (1 pts)
@@ -4415,14 +4383,14 @@ Did you stop preparing for the job interviews too?
             ↳ **u/babbysaurus** (2 pts)
 
             I’m not sure if I understood your question correctly.
-            
+
             If you’re asking how to tell the difference between applying from lack versus applying from the end state, and how to identify which one you’re in practically, I’ve explained this earlier in the thread under thinking of vs thinking from the desire.
 
 **u/meltingSnoww** (2 pts)
 
 Suppose you’re currently working as a software engineer at a mid-level company, but you want to move to Google in the same role.
 
-Using the Law of Assumption, what would your *inner state and self-concept* look like during this transition?
+Using the Law of Assumption, what would your _inner state and self-concept_ look like during this transition?
 
 Your physical reality still reflects your current job—office, colleagues, meetings, day-to-day work—so how do you relate to this present reality without mentally reinforcing it, while assuming the Google role is already yours?
 
@@ -4430,9 +4398,9 @@ Given that Google is known for hiring top talent, how do you work on **upgrading
 
 Practically, how do you approach actions like preparation, applications, or interviews in this phase without slipping into effort, doubt, or “trying to force” the outcome?
 
-  ↳ **u/babbysaurus** (3 pts)
+↳ **u/babbysaurus** (3 pts)
 
-  I’ve made a similar transition myself, moving from a small tech company to mid-level and then to a large one that hires highly selective talent, and I’ve already detailed the identity shift and process I used in this thread, so I’d suggest referring back to those responses.
+I’ve made a similar transition myself, moving from a small tech company to mid-level and then to a large one that hires highly selective talent, and I’ve already detailed the identity shift and process I used in this thread, so I’d suggest referring back to those responses.
 
 **u/BAS_247** (2 pts)
 
@@ -4442,11 +4410,11 @@ Where is your previous job success stories please share the link I want to read 
 
 This is a great idea for a post, thank you! When circumstances looked "impossible", did you have a process to ignore or reframe them? How did you stop them from affecting your mental state?
 
-  ↳ **u/babbysaurus** (7 pts)
+↳ **u/babbysaurus** (7 pts)
 
-  I simply decided to see circumstances as reflections of an older identity. Easier said than done, of course. I’ve explained this partially [here](https://www.reddit.com/r/NevilleGoddard/s/jMDST6onyt)
-  
-  When I first started working on my self-concept, the foundation was assuming that things always work out for me no matter what. That groundwork made it much easier not to get shaken by circumstances later on.
+I simply decided to see circumstances as reflections of an older identity. Easier said than done, of course. I’ve explained this partially [here](https://www.reddit.com/r/NevilleGoddard/s/jMDST6onyt)
+
+When I first started working on my self-concept, the foundation was assuming that things always work out for me no matter what. That groundwork made it much easier not to get shaken by circumstances later on.
 
 **u/faolck** (2 pts)
 
@@ -4458,37 +4426,37 @@ In your response you said this
 
 Isn’t fantasizing and reminding ourselves about our true reality what we should be doing when confronted with circumstances that imply our desire hasn’t manifested?
 
-  ↳ **u/babbysaurus** (3 pts)
+↳ **u/babbysaurus** (3 pts)
 
-  I think I already answered your question in this thread. Maybe a duplicate. If I haven't, lmk.
+I think I already answered your question in this thread. Maybe a duplicate. If I haven't, lmk.
 
 **u/[deleted]** (2 pts)
 
 [deleted]
 
-  ↳ **u/babbysaurus** (5 pts)
+↳ **u/babbysaurus** (5 pts)
 
-  In theory, you’re doing everything right, which usually means what’s left is an identity shift. As a Reddit stranger, it’s hard to troubleshoot deeply, but I’d suggest sitting with yourself and reflecting on this thread, especially the parts about my breakthrough moments, and see if something clicks for you.
+In theory, you’re doing everything right, which usually means what’s left is an identity shift. As a Reddit stranger, it’s hard to troubleshoot deeply, but I’d suggest sitting with yourself and reflecting on this thread, especially the parts about my breakthrough moments, and see if something clicks for you.
 
 **u/[deleted]** (1 pts)
 
 [removed]
 
-  ↳ **u/AutoModerator** (1 pts)
+↳ **u/AutoModerator** (1 pts)
 
-  Your post or comment was removed due to too much negative comment [karma](https://support.reddithelp.com/hc/en-us/articles/204511829-What-is-karma) on your account.
-  
-  *I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NevilleGoddard) if you have any questions or concerns.*
+Your post or comment was removed due to too much negative comment [karma](https://support.reddithelp.com/hc/en-us/articles/204511829-What-is-karma) on your account.
+
+_I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NevilleGoddard) if you have any questions or concerns._
 
 **u/YaEchoesKnowMe** (1 pts)
 
-I was wondering if you could kindly guide me on how to stay detached from the 3D situation and would appreciate any other guidance on SATS and how to manifest this. 
+I was wondering if you could kindly guide me on how to stay detached from the 3D situation and would appreciate any other guidance on SATS and how to manifest this.
 
 How to live from the state in my case?
 
-  ↳ **u/babbysaurus** (9 pts)
+↳ **u/babbysaurus** (9 pts)
 
-  Stop identifying as someone applying and waiting, and start identifying as someone already placed, SATS just keeps you familiar with that position.
+Stop identifying as someone applying and waiting, and start identifying as someone already placed, SATS just keeps you familiar with that position.
 
     ↳ **u/YaEchoesKnowMe** (1 pts)
 
@@ -4502,7 +4470,7 @@ How to live from the state in my case?
 
         Sounds good, thanks a ton
 
-**u/unalright_** (1 pts)
+**u/unalright\_** (1 pts)
 
 Congrats on your success!! I have a couple questions:
 
@@ -4516,39 +4484,39 @@ Were you ever dealing with anxieties during any of these manifestations? How did
 
 And finally, what conscious differences did you make to live in the end? Was there some thing(s) in particular you began doing that you weren’t doing before?
 
-  ↳ **u/babbysaurus** (3 pts)
+↳ **u/babbysaurus** (3 pts)
 
-  >Congrats on your success!!
-  
-  Thank you
-  
-  >What changed for you to realise what “living in the end” is?
-  
-  I came across Neville’s line, “You cannot serve two masters."
-  
-  >Once you realised this did things shift instantly, or feel like they did? What was that like?
-  
-  Nope, it took time and mental discipline to get there. 
-  
-  >Did you ever doubt the law during any of these manifestations and how did that affect them coming to fruition?
-  
-  I didn’t really doubt the law itself, but I definitely doubted my own ability to apply it at times. That said, nothing is final. You’re always choosing states. If you can abandon a state, you can also return to it. I don’t think those moments of doubt ultimately affected the outcomes, or at least I hope not. 
-  
-  >Were you ever dealing with anxieties during any of these manifestations? How did you deal with that while living in the end?
-  
-  No, I was not. 
-  
-  >And finally, what conscious differences did you make to live in the end? Was there something (s) in particular you began doing that you weren’t doing before?
-  
-  When doubts came up, I stopped engaging with them. They didn’t need more emotional calories. Just pivoted my attention elsewhere.
+> Congrats on your success!!
+
+Thank you
+
+> What changed for you to realise what “living in the end” is?
+
+I came across Neville’s line, “You cannot serve two masters."
+
+> Once you realised this did things shift instantly, or feel like they did? What was that like?
+
+Nope, it took time and mental discipline to get there.
+
+> Did you ever doubt the law during any of these manifestations and how did that affect them coming to fruition?
+
+I didn’t really doubt the law itself, but I definitely doubted my own ability to apply it at times. That said, nothing is final. You’re always choosing states. If you can abandon a state, you can also return to it. I don’t think those moments of doubt ultimately affected the outcomes, or at least I hope not.
+
+> Were you ever dealing with anxieties during any of these manifestations? How did you deal with that while living in the end?
+
+No, I was not.
+
+> And finally, what conscious differences did you make to live in the end? Was there something (s) in particular you began doing that you weren’t doing before?
+
+When doubts came up, I stopped engaging with them. They didn’t need more emotional calories. Just pivoted my attention elsewhere.
 
 **u/sanmathigb** (1 pts)
 
 where are those earlier posts you wrote on this sub?
 
-  ↳ **u/babbysaurus** (7 pts)
+↳ **u/babbysaurus** (7 pts)
 
-  They are hidden now. I am compiling them so I can add them as an edit to this post.
+They are hidden now. I am compiling them so I can add them as an edit to this post.
 
     ↳ **u/sanmathigb** (2 pts)
 
@@ -4558,31 +4526,31 @@ where are those earlier posts you wrote on this sub?
 
 I was trying to get a job at Master's level at the government agency I work for but I keep getting refused due to my lack of a Master degree. According to HR the law does not permit to pay government employees with only a bachelor degree to get paid the same as someone with a Master's degree and that I absolutely need a master's degree to do a master level job. Do you have experience applying for jobs for which you lacked the required qualifications? Do you think it's still possible for me to manifest this job? I guess it would be a far stretch to manifest a law change.
 
-  ↳ **u/Embarrassed_Wave_720** (3 pts)
+↳ **u/Embarrassed_Wave_720** (3 pts)
 
-  Not OP but there are success stories of people on this sub who manifested jobs without having the necessary qualifications. I would say go straight to the end scene where you already have the job and don’t worry about the how. Things will rearrange for you to have the job 
+Not OP but there are success stories of people on this sub who manifested jobs without having the necessary qualifications. I would say go straight to the end scene where you already have the job and don’t worry about the how. Things will rearrange for you to have the job 
 
-  ↳ **u/babbysaurus** (1 pts)
+↳ **u/babbysaurus** (1 pts)
 
-  Sorry, I haven't lived that experience but you should definitely look for others' success stories in this sub for encouragement. You've got this🙌🏻
+Sorry, I haven't lived that experience but you should definitely look for others' success stories in this sub for encouragement. You've got this🙌🏻
 
 **u/[deleted]** (1 pts)
 
 [removed]
 
-  ↳ **u/AutoModerator** (1 pts)
+↳ **u/AutoModerator** (1 pts)
 
-  Your post or comment was removed due to too much negative comment [karma](https://support.reddithelp.com/hc/en-us/articles/204511829-What-is-karma) on your account.
-  
-  *I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NevilleGoddard) if you have any questions or concerns.*
+Your post or comment was removed due to too much negative comment [karma](https://support.reddithelp.com/hc/en-us/articles/204511829-What-is-karma) on your account.
+
+_I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NevilleGoddard) if you have any questions or concerns._
 
 **u/blue-hydrangea-108** (1 pts)
 
 Hi, i have some success but right now i feel like i have a block. Can you explain to me how exactly you change your state of being (thinking from the end)? Like do you repeat affirmation about your new identity (someone qualified and will get any job you want) or what? What did you imagine on your SATS scene?
 
-  ↳ **u/babbysaurus** (1 pts)
+↳ **u/babbysaurus** (1 pts)
 
-  I’ve explained this in detail throughout this thread, especially around identity shifts and SATS. Rather than repeating it here, I’d suggest reading through those responses and seeing what resonates.
+I’ve explained this in detail throughout this thread, especially around identity shifts and SATS. Rather than repeating it here, I’d suggest reading through those responses and seeing what resonates.
 
 **u/SimplyAGameToMe** (1 pts)
 
@@ -4592,15 +4560,14 @@ Sorry another follow up on a completely different topic. I want to build up my f
 
 Wow you have a lot of questions. Thanks for sharing your evolution and processes. If you see this, i was wondering how would you go about manifesting a job when you don’t have a specific desired job in mind? Like, i don’t have any specific expertise, no clear career path, i don’t even know what job i want, but just want a good stable flexible remote job?
 
-  ↳ **u/babbysaurus** (2 pts)
+↳ **u/babbysaurus** (2 pts)
 
-  Assume the state that you’re worthy of great opportunities, you have a stable income doing what you love, you bring value wherever you work, and you’re seen as a valuable contributor in a work environment you genuinely enjoy.
+Assume the state that you’re worthy of great opportunities, you have a stable income doing what you love, you bring value wherever you work, and you’re seen as a valuable contributor in a work environment you genuinely enjoy.
 
-**u/_butterfly_______** (1 pts)
+**u/\_butterfly**\_\_\_\*\*\*\* (1 pts)
 
 Thank you for your post as it made me feel a little better. I've been in a quite difficult situation rn. It's in the office itself, ppl are against and now it seems really not possible to get things for myself. It's about a sp situation. Things were going smooth and well for me.
-Someone from my dept complained about it to the management and she has a tendency to manipulate everyone.   I did change my self concept and tried to not focus on others but myself and my thoughts, I could see things shifting as well. Now the sp itself is acting opposite and my strength is quite low. Tbh I'm just surviving and pushing myself to come to office. Earlier there would be hope but now it just feel entirely difficult for me.
-
+Someone from my dept complained about it to the management and she has a tendency to manipulate everyone. I did change my self concept and tried to not focus on others but myself and my thoughts, I could see things shifting as well. Now the sp itself is acting opposite and my strength is quite low. Tbh I'm just surviving and pushing myself to come to office. Earlier there would be hope but now it just feel entirely difficult for me.
 
 To anyone if at all you may help in my situation, I would really appreciate any insight or suggestion so that things turn in my favor.
 Your any comment or even any prayer would be appreciated.
@@ -4609,9 +4576,9 @@ Your any comment or even any prayer would be appreciated.
 
 so i work in HR ,, and i have been out of a job for nearly 3 years now and even before my work experience wasnt great ... i mean the companies that i worked for were the best but i desperately need a job and i dont have an MBA but i do have 10+ years work ex and a lot of HR related professional certificates... i have also had to relocate from UAE to India .. and now want a remote kind of job which pay X amount .. with so much stacked against me what is the advise or roadmap you would provide ?
 
-  ↳ **u/babbysaurus** (8 pts)
+↳ **u/babbysaurus** (8 pts)
 
-  Stop assuming everything is stacked against you and instead assume the identity of someone whose experience and skills are valuable and being paid for.
+Stop assuming everything is stacked against you and instead assume the identity of someone whose experience and skills are valuable and being paid for.
 
     ↳ **u/Ok_Conversation_9655** (2 pts)
 
@@ -4623,8 +4590,8 @@ so i work in HR ,, and i have been out of a job for nearly 3 years now and even 
 
         ↳ **u/Ok_Conversation_9655** (1 pts)
 
-        If possible .. could you go through this post and weigh in on if this is the right way to live in the end ? 
-        
+        If possible .. could you go through this post and weigh in on if this is the right way to live in the end ?
+
         https://www.reddit.com/r/NevilleGoddard/s/WUV7Fv0teI
 
 **u/withoutlove69** (1 pts)
@@ -4641,11 +4608,11 @@ Well in my case I am a bit sick, had surgery , I get anxious even in slight disc
 
 Do you only manifest jobs or also other stuff?
 
-  ↳ **u/babbysaurus** (2 pts)
+↳ **u/babbysaurus** (2 pts)
 
-  Oh no, I don’t discriminate 😂
-  
-  Every desire is fair game.
+Oh no, I don’t discriminate 😂
+
+Every desire is fair game.
 
     ↳ **u/InfiniteBeingness** (1 pts)
 
@@ -4664,30 +4631,29 @@ Do you only manifest jobs or also other stuff?
 
 Omg this came at the perfect timing!! I've been trying to make a career switch but EVERYTHING in 3D says "not possibe" coz I don't have the prior experience in that domain, and past two years of unemployment is making it seem a little more difficult. Also I cannot even see any job posting suitable for me. :(
 
-  ↳ **u/babbysaurus** (3 pts)
+↳ **u/babbysaurus** (3 pts)
 
-  Nothing is impossible. You've got this 🙌🏻
+Nothing is impossible. You've got this 🙌🏻
 
 **u/Robotick00** (1 pts)
 
-\- So you used SATS and catched the feeling you would have if your scene was real. And then you persisted in this feeling of relief or satisfaction of having what you wanted?   
+\- So you used SATS and catched the feeling you would have if your scene was real. And then you persisted in this feeling of relief or satisfaction of having what you wanted?
 
-\-Can you describe your processes with SATS? Was you scene vivid as reality? And how did you make sure to make it as vivid as possible? 
+\-Can you describe your processes with SATS? Was you scene vivid as reality? And how did you make sure to make it as vivid as possible?
 
 \- And how long time did it take for your manifestions to come in to reality? All of these 4 jobs.
 
-  
 Thank you and good job.
 
 **u/[deleted]** (1 pts)
 
 [removed]
 
-  ↳ **u/AutoModerator** (1 pts)
+↳ **u/AutoModerator** (1 pts)
 
-  Your Reddit account needs to be more than 72 hours old to comment on /r/NevilleGoddard. See the [rules](https://www.reddit.com/r/NevilleGoddard/about/rules) for further commenting guidelines.
-  
-  *I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NevilleGoddard) if you have any questions or concerns.*
+Your Reddit account needs to be more than 72 hours old to comment on /r/NevilleGoddard. See the [rules](https://www.reddit.com/r/NevilleGoddard/about/rules) for further commenting guidelines.
+
+_I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NevilleGoddard) if you have any questions or concerns._
 
 **u/ASTA_SATARIA** (1 pts)
 
@@ -4699,39 +4665,39 @@ Congratulations! Do you mind explaining what exactly you visualised in SATS for 
 
 Also, i have a few specific scenes I want to play out as a day in my ideal life-- could I run multiple scenes as well as a part of SATS?
 
-  ↳ **u/babbysaurus** (2 pts)
+↳ **u/babbysaurus** (2 pts)
 
-  >Congratulations! Do you mind explaining what exactly you visualised in SATS for your job?
-  
-  I’ve mentioned the exact scenes I used in replies above in this thread.
-  
-  >could I run multiple scenes as well as a part of SATS?
-  
-  I’ve personally had more success using one short, implicative scene looped repeatedly. That said, different things work for different people, so it’s worth experimenting to see what works best for you.
+> Congratulations! Do you mind explaining what exactly you visualised in SATS for your job?
+
+I’ve mentioned the exact scenes I used in replies above in this thread.
+
+> could I run multiple scenes as well as a part of SATS?
+
+I’ve personally had more success using one short, implicative scene looped repeatedly. That said, different things work for different people, so it’s worth experimenting to see what works best for you.
 
 **u/Glum_Definition_4684** (1 pts)
 
 I read your post and want to manifest a job as a fresher in tech but with 0 knowledge, how would you do it if you were me? I mean one also needs to interview ryt and i will be surely blank there as i have not studied at all
 
-  ↳ **u/babbysaurus** (3 pts)
+↳ **u/babbysaurus** (3 pts)
 
-  Neville said that when you assume the end, the right actions flow from that state. The bridge of incidents might look like being hired into an entry-level role and learning on the job, or it might look like being naturally led to study and prepare for interviews. You don’t skip the bridge, you have to move through it.
+Neville said that when you assume the end, the right actions flow from that state. The bridge of incidents might look like being hired into an entry-level role and learning on the job, or it might look like being naturally led to study and prepare for interviews. You don’t skip the bridge, you have to move through it.
 
 **u/Yakuza_14** (1 pts)
 
 How did you deal with random thoughts? Like intrusive/Negative/Contradicting thoughts? How were you able to imagine the end while having thoughts like - I am good enough but I need more practice? Or thinking about how would the interview go, Thinking if someone would be able to refer me somewhere. These ain’t negative but not productive as well. How did you manage these?
 
-  ↳ **u/babbysaurus** (3 pts)
+↳ **u/babbysaurus** (3 pts)
 
-  I didn’t try to fix or fight those thoughts, I just refused to feed them attention, treating them as background noise while consistently returning to the assumption that I'm worthy and everything works out for me.
+I didn’t try to fix or fight those thoughts, I just refused to feed them attention, treating them as background noise while consistently returning to the assumption that I'm worthy and everything works out for me.
 
 **u/Zealousideal_Swan98** (1 pts)
 
 Did you feel that you were not believing enough or not believing at all but you were only doing to inner conversation/SATS etc hut never felt good?
 
-  ↳ **u/babbysaurus** (1 pts)
+↳ **u/babbysaurus** (1 pts)
 
-  Yes, at the beginning it did feel that way. I spent almost 2 years in that phase.
+Yes, at the beginning it did feel that way. I spent almost 2 years in that phase.
 
 **u/Exotic_Beach_9722** (1 pts)
 
@@ -4753,39 +4719,39 @@ My biggest struggle right now is my loser identity (caused by endless past failu
 
 EDIT: + how do you deal with seeing NO WAY that your desire could happen? like absolutely no bridge whatsoever?
 
-  ↳ **u/sunnyspells822** (2 pts)
+↳ **u/sunnyspells822** (2 pts)
 
-  Your story is very negative. You called yourself ‘a complete loser’. This is an SC issue. 
-  
-  It’s ok to fail and start again. Everyone fails at least once in their life.
+Your story is very negative. You called yourself ‘a complete loser’. This is an SC issue.
 
-  ↳ **u/babbysaurus** (1 pts)
+It’s ok to fail and start again. Everyone fails at least once in their life.
 
-  >even know I can't mimic it 100% because I've never worked at my desired company 
-  
-  Not a requirement. You don’t need to roleplay being at the desired company. You need to occupy the identity of someone worthy and valuable. If your worth and value come from the company you work for, that's a self-concept issue.
-  
-  > Where do you draw the line between a manifestation that you know is working and complete delusion?
-  
-  The law is always “working” in the sense that your dominant state keeps expressing. The real question is whether you’re using imagination to escape reality or to change the state you live in. If your inner posture is still “I’m a loser and this is impossible,” that’s what will keep showing up.
-  
-  > I want to manifest but I don't want to end up schizophrenic 
-  
-  Woww! That’s not how schizophrenia works, and I’d be careful about throwing such terms around lightly.
-  
-  > My biggest struggle right now is my loser identity 
-  
-  Yes, it appears to be. Work on it.
-  
-  > that I see absolutely no way of me getting a decent job 
-  
-  You won’t see a bridge from the “impossible/loser” state. The bridge becomes visible only after the state shifts.
-  
-  > EDIT: + how do you deal with seeing NO WAY that your desire could happen? like absolutely no bridge whatsoever?
-  
-  Read all the experiences and stories I posted in this thread.
-  
-  In fact all your questions have already been answered in this thread. Please refer back to those 🙂
+↳ **u/babbysaurus** (1 pts)
+
+> even know I can't mimic it 100% because I've never worked at my desired company
+
+Not a requirement. You don’t need to roleplay being at the desired company. You need to occupy the identity of someone worthy and valuable. If your worth and value come from the company you work for, that's a self-concept issue.
+
+> Where do you draw the line between a manifestation that you know is working and complete delusion?
+
+The law is always “working” in the sense that your dominant state keeps expressing. The real question is whether you’re using imagination to escape reality or to change the state you live in. If your inner posture is still “I’m a loser and this is impossible,” that’s what will keep showing up.
+
+> I want to manifest but I don't want to end up schizophrenic
+
+Woww! That’s not how schizophrenia works, and I’d be careful about throwing such terms around lightly.
+
+> My biggest struggle right now is my loser identity
+
+Yes, it appears to be. Work on it.
+
+> that I see absolutely no way of me getting a decent job
+
+You won’t see a bridge from the “impossible/loser” state. The bridge becomes visible only after the state shifts.
+
+> EDIT: + how do you deal with seeing NO WAY that your desire could happen? like absolutely no bridge whatsoever?
+
+Read all the experiences and stories I posted in this thread.
+
+In fact all your questions have already been answered in this thread. Please refer back to those 🙂
 
 **u/KommunistAllosaurus** (1 pts)
 
@@ -4795,25 +4761,25 @@ How do you genuinely change your self concept?
 
 I just want to say thank you so much for making this post! I’m currently job searching with little experience and I completely refuse for my next job to be in fast food or retail, reading through the comments has been helpful
 
-  ↳ **u/babbysaurus** (2 pts)
+↳ **u/babbysaurus** (2 pts)
 
-  You've got this 🍻
+You've got this 🍻
 
 **u/rainbowslushiee** (1 pts)
 
-I’ve read your posts and they have helped me when I needed motivation. I was trying to manifest a job in the country I moved to and after an excruciatingly long time of not having interviews, I changed my mindset and did get one interview for my favourite finish but after the final round (they even skipped one round for me), I didn’t get hired. I got a few more interviews after that and none materialised in the end. I had to move back to my home country and am still trying and am meant to talk to an important person at a great company  soon. I guess my question is what advice do you have for me so I can finally make this work? Should I just relax, is that what I need to do? Or should I get out of my way by not overthinking. Thanks!
+I’ve read your posts and they have helped me when I needed motivation. I was trying to manifest a job in the country I moved to and after an excruciatingly long time of not having interviews, I changed my mindset and did get one interview for my favourite finish but after the final round (they even skipped one round for me), I didn’t get hired. I got a few more interviews after that and none materialised in the end. I had to move back to my home country and am still trying and am meant to talk to an important person at a great company soon. I guess my question is what advice do you have for me so I can finally make this work? Should I just relax, is that what I need to do? Or should I get out of my way by not overthinking. Thanks!
 
-  ↳ **u/babbysaurus** (1 pts)
+↳ **u/babbysaurus** (1 pts)
 
-  >Should I just relax,
-  
-  Absolutely 💯 
-  
-  >Or should I get out of my way by not overthinking.
-  
-  And this! 
-  
-  You've got it 🙌🏻
+> Should I just relax,
+
+Absolutely 💯
+
+> Or should I get out of my way by not overthinking.
+
+And this!
+
+You've got it 🙌🏻
 
     ↳ **u/rainbowslushiee** (1 pts)
 
@@ -4823,9 +4789,9 @@ I’ve read your posts and they have helped me when I needed motivation. I was t
 
 I'm starting a new Home office carrer from Nothing but some AI tools, you think i can make 373 dollars a day in one month?
 
-  ↳ **u/babbysaurus** (3 pts)
+↳ **u/babbysaurus** (3 pts)
 
-  Neville’s position was that anything is possible once you assume the state and let the bridge of incidents unfold.
+Neville’s position was that anything is possible once you assume the state and let the bridge of incidents unfold.
 
     ↳ **u/No_Efficiency_9812** (1 pts)
 
@@ -4833,7 +4799,7 @@ I'm starting a new Home office carrer from Nothing but some AI tools, you think 
 
 **u/Psychological-Sun819** (1 pts)
 
-I have three questions if you don't mind 
+I have three questions if you don't mind
 
 What technique did you use ?
 
@@ -4853,15 +4819,15 @@ How did you get to discover what you wanted?
 
 [removed]
 
-  ↳ **u/AutoModerator** (1 pts)
+↳ **u/AutoModerator** (1 pts)
 
-  Your Reddit account needs to be more than 72 hours old to comment on /r/NevilleGoddard. See the [rules](https://www.reddit.com/r/NevilleGoddard/about/rules) for further commenting guidelines.
-  
-  *I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NevilleGoddard) if you have any questions or concerns.*
+Your Reddit account needs to be more than 72 hours old to comment on /r/NevilleGoddard. See the [rules](https://www.reddit.com/r/NevilleGoddard/about/rules) for further commenting guidelines.
+
+_I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NevilleGoddard) if you have any questions or concerns._
 
 **u/CoastCheap8709** (1 pts)
 
->Three out of those four times, I never even applied for the job.
+> Three out of those four times, I never even applied for the job.
 
 How did you succeed then ? ? I am at place where I tried multiple times,but it did not work out.
 
@@ -4882,11 +4848,11 @@ What did embodying the employed person look like when job hunting and physically
 
 [removed]
 
-  ↳ **u/AutoModerator** (1 pts)
+↳ **u/AutoModerator** (1 pts)
 
-  Your Reddit account needs to be more than 72 hours old to comment on /r/NevilleGoddard. See the [rules](https://www.reddit.com/r/NevilleGoddard/about/rules) for further commenting guidelines.
-  
-  *I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NevilleGoddard) if you have any questions or concerns.*
+Your Reddit account needs to be more than 72 hours old to comment on /r/NevilleGoddard. See the [rules](https://www.reddit.com/r/NevilleGoddard/about/rules) for further commenting guidelines.
+
+_I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NevilleGoddard) if you have any questions or concerns._
 
 **u/okaythatcool** (1 pts)
 
@@ -4896,27 +4862,26 @@ For example if I think having a partner/ certain partner will give me the freedo
 
 Would you be open to sharing your actual success stories? I think seeing the real-world examples would help a lot.
 
-  ↳ **u/babbysaurus** (6 pts)
+↳ **u/babbysaurus** (6 pts)
 
-  I certainly will once I get through the questions. 
-  Thanks for your patience until then 🙂
+I certainly will once I get through the questions.
+Thanks for your patience until then 🙂
 
 **u/Ok-Environment6663** (1 pts)
 
 I'm applying as well... The best I get is application viewed and nothing after that... Any tips
 
-  ↳ **u/babbysaurus** (1 pts)
+↳ **u/babbysaurus** (1 pts)
 
-  Assume the state of wish fulfilled.
+Assume the state of wish fulfilled.
 
 **u/[deleted]** (1 pts)
 
 [deleted]
 
-  ↳ **u/babbysaurus** (1 pts)
+↳ **u/babbysaurus** (1 pts)
 
-  Answered [here](https://www.reddit.com/r/NevilleGoddard/s/Rz3DwqP78B)
-
+Answered [here](https://www.reddit.com/r/NevilleGoddard/s/Rz3DwqP78B)
 
 ================================================================================
 THREAD 16 OF 16
@@ -4931,7 +4896,6 @@ Recently I got coaching from Joe Dispenza . He said in order to change your pers
 
 It really makes sense, if you want to be a rich person, you must adopt the personality of a rich person, if you want to be a healthy person, adopt the personality of a healthy person and so on.
 
-  
 Think about it like this, do everything the manifested version of yourself would.
 
 Write down everything the version of you would do, act, say when they have everything they wanted and honestly start embodying that.
@@ -4940,9 +4904,7 @@ The 3D world might shoot some tests your way but the best way to overcome them i
 
 If you care too much what people think of you, care too much about certain situations then I am sorry the own you in a way and manifestation gets harder this way.
 
-
-
-Hope this little tip can help. 
+Hope this little tip can help.
 
 ---
 
@@ -4952,9 +4914,9 @@ Hope this little tip can help.
 
 How long does it take you to manifest something and do you manifest multiple things, like some small amd one big one or do you focus on one big thing?
 
-  ↳ **u/OkPainter6090** (17 pts)
+↳ **u/OkPainter6090** (17 pts)
 
-  no more than 2- 3months. there is no small or big to the universe but only in the mind. i manifest multiple at once.
+no more than 2- 3months. there is no small or big to the universe but only in the mind. i manifest multiple at once.
 
     ↳ **u/PapaStalin54** (3 pts)
 
@@ -4966,8 +4928,8 @@ How long does it take you to manifest something and do you manifest multiple thi
 
         ↳ **u/ThatsAHotSituation** (2 pts)
 
-        I know it's one of the most manifested things but do you have any tips for manifesting free money? Like i'm thinking of a bigger portion of money. (I have a feeling that i should try at a lottery at the end of january, or at the end of february/beginning of march lol). 
-        
+        I know it's one of the most manifested things but do you have any tips for manifesting free money? Like i'm thinking of a bigger portion of money. (I have a feeling that i should try at a lottery at the end of january, or at the end of february/beginning of march lol).
+
         Other than that, how do you manifest to yourself money just in general that's always flowing to you?
 
           ↳ **u/OkPainter6090** (1 pts)
@@ -4984,7 +4946,7 @@ How long does it take you to manifest something and do you manifest multiple thi
 
 **u/yelhsaelokkin** (12 pts)
 
-it’s true. for anyone that doesn’t get it, it’s literally just identity shifting 
+it’s true. for anyone that doesn’t get it, it’s literally just identity shifting
 
 if you want to be rich, act rich. what do the wealthy do? they budget, they invest, they know what’s actually worth their time/ money. they don’t overspend
 
@@ -4994,55 +4956,55 @@ you must shift into the identity you want to become before you see evidence in t
 
 it truly is that simple. most fail at “manifesting” because they keep looking for evidence and relying on it to show they are making “progress” towards their desires. but if you had your desires, you wouldn’t be looking for them all the time. and manifesting is simply just a choice and sticking to it. you must ignore everything that goes against your new story
 
-  ↳ **u/Fickle_Reporter_1514** (1 pts)
+↳ **u/Fickle_Reporter_1514** (1 pts)
 
-  I get what you're saying but how to act rich when you're unemployed
+I get what you're saying but how to act rich when you're unemployed
 
     ↳ **u/yelhsaelokkin** (3 pts)
 
     i was unemployed between february and october so i completely understand. it also wasn’t my first time being unemployed either
-    
+
     still practice abundance and gratitude for what you do have. are you able to pay your bills still? that’s abundance. that’s wealth
-    
-    do you have credit cards you can use to live off? that’s a form of abundance 
-    
+
+    do you have credit cards you can use to live off? that’s a form of abundance
+
     do you have a savings? that’s abundance
-    
-    when you are in really shitty 3d circumstances, it can be so difficult to ignore them but you have to. you don’t actually “ignore” the 3d literally, but you just don’t let it affect you because you know you’ll be ok. you don’t assign meaning to anything 
-    
-    so you’d still budget your money, you’d still practice gratitude. not all wealthy people actually live a life full of glitz and glamours. really only multi millionaires and billionaires do. 
-    
+
+    when you are in really shitty 3d circumstances, it can be so difficult to ignore them but you have to. you don’t actually “ignore” the 3d literally, but you just don’t let it affect you because you know you’ll be ok. you don’t assign meaning to anything
+
+    so you’d still budget your money, you’d still practice gratitude. not all wealthy people actually live a life full of glitz and glamours. really only multi millionaires and billionaires do.
+
     most wealthy people buy the same beat up car that’s on its last leg because it still works, so why would they spend $20k on a new car when they could invest that money?
-    
+
     so even if you’re “poor” you can still act and think rich. i’m rich in mind but i choose to take the subway instead of spending $100 on uber each day for work. i choose to meal prep at home instead of eating out everyday and spending $30-$60 each time.
-    
+
     i know it sounds difficult but it’s actually very easy. you just stop assigning meaning to the 3d. you are just a rich person being smart with your money.
-    
+
     and then just affirm and persist. i promise your circumstances will change. they must. my life has changed in the last 3 months alone from persisting in my assumptions and continuously only choosing the new story
 
-  ↳ **u/OkPainter6090** (1 pts)
+↳ **u/OkPainter6090** (1 pts)
 
-  yep yep
+yep yep
 
 **u/Laddumb** (8 pts)
 
 Its not even that the 3d shoots tests at you but rather that the old reality is clinging to life. Makes sense, just keep pushing
 
-  ↳ **u/pweachesss** (3 pts)
+↳ **u/pweachesss** (3 pts)
 
-  I agree, this is phrased better!
+I agree, this is phrased better!
 
-  ↳ **u/OkPainter6090** (1 pts)
+↳ **u/OkPainter6090** (1 pts)
 
-  you can say that yes!
+you can say that yes!
 
 **u/mount_sea** (3 pts)
 
 Do you do the JD meditations as well? Would love to hear specific examples of manifestations you've done if you have any time. I always find these helpful.
 
-  ↳ **u/OkPainter6090** (3 pts)
+↳ **u/OkPainter6090** (3 pts)
 
-  yes they are okay, however i do believe there are way better ones!
+yes they are okay, however i do believe there are way better ones!
 
     ↳ **u/AdrnFX** (5 pts)
 
@@ -5064,17 +5026,17 @@ Do you do the JD meditations as well? Would love to hear specific examples of ma
 
 How do you embody? I work daily so how would I embody being on vacation majority of days vs working? I never get this embody concept
 
-  ↳ **u/Serious-Historian867** (1 pts)
+↳ **u/Serious-Historian867** (1 pts)
 
-  Yeah , how do you embody?
+Yeah , how do you embody?
 
 **u/BigTruker456** (1 pts)
 
 Well said! 👏😃
 
-  ↳ **u/OkPainter6090** (1 pts)
+↳ **u/OkPainter6090** (1 pts)
 
-  thx, just tryna help
+thx, just tryna help
 
 **u/youngmoney5509** (1 pts)
 
@@ -5092,27 +5054,25 @@ But what is the personality of a healthy person?
 
 You must of have had a easy life to think this
 
-  ↳ **u/OkPainter6090** (1 pts)
+↳ **u/OkPainter6090** (1 pts)
 
-  yk this is a tricky question, its better i say yes i did ahaha, there is no pride or nothing cool about having a hard one honestly. makes the process harder/
+yk this is a tricky question, its better i say yes i did ahaha, there is no pride or nothing cool about having a hard one honestly. makes the process harder/
 
 **u/Southern-Year3352** (1 pts)
 
 What did you manifest?
 
-  ↳ **u/OkPainter6090** (5 pts)
+↳ **u/OkPainter6090** (5 pts)
 
-  many things, holidays was my most recent. I am honestly always manifesting.
+many things, holidays was my most recent. I am honestly always manifesting.
 
 **u/YeahImHot** (0 pts)
 
 Req:  
-Grave's End - [William Shaw](https://www.goodreads.com/author/show/7338604.William_Shaw) 
+Grave's End - [William Shaw](https://www.goodreads.com/author/show/7338604.William_Shaw)
 
-[The Trawlerman](https://www.goodreads.com/book/show/56923111-the-trawlerman) \- [William Shaw](https://www.goodreads.com/author/show/7338604.William_Shaw) 
+[The Trawlerman](https://www.goodreads.com/book/show/56923111-the-trawlerman) \- [William Shaw](https://www.goodreads.com/author/show/7338604.William_Shaw)
 
-  
-The Wild Swimmers - [William Shaw](https://www.goodreads.com/author/show/7338604.William_Shaw) 
+The Wild Swimmers - [William Shaw](https://www.goodreads.com/author/show/7338604.William_Shaw)
 
-  
 Thank you!
