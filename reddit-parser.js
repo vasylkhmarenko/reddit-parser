@@ -25,12 +25,16 @@ const {
 } = require("./src/utils");
 
 const MAX_ITEMS = 50;
+const path = require("path");
 const program = new Command();
 
 program
   .name("reddit-parser")
   .description("Parse Reddit threads/subreddits and analyze with AI")
-  .version("2.0.0")
+  .version("3.0.0");
+
+// Default command - fetch Reddit data
+program
   .argument("[urls...]", "Reddit thread URLs to parse (max 50)")
   .option("-s, --subreddit <name>", "Subreddit to scrape (e.g., webdev)")
   .option("--top <n>", "Number of posts to fetch (max 50)", parseInt)
@@ -50,6 +54,56 @@ program
   .option("--debug", "Enable debug logging")
   .option("--stats", "Show execution statistics at end")
   .action(main);
+
+// Gaps command - generate market gaps from pain points
+program
+  .command("gaps")
+  .description("Generate market gaps/solutions from pain points analysis")
+  .requiredOption(
+    "-i, --input <file>",
+    "Input file with pain points (markdown)",
+  )
+  .option("-o, --output <file>", "Output file for market gaps")
+  .option("--provider <name>", "LLM provider: claude, openai, ollama")
+  .option("--model <name>", "Model name override")
+  .option("--config <file>", "Path to config file")
+  .option("--debug", "Enable debug logging")
+  .action(runGapsCommand);
+
+// Landing command - generate landing page prompt
+program
+  .command("landing")
+  .description("Generate frontend-design plugin prompt for landing page")
+  .requiredOption(
+    "-i, --input <file>",
+    "Input file with market gaps (markdown)",
+  )
+  .option("-o, --output <file>", "Output file for landing page prompt")
+  .option("--provider <name>", "LLM provider: claude, openai, ollama")
+  .option("--model <name>", "Model name override")
+  .option("--config <file>", "Path to config file")
+  .option("--debug", "Enable debug logging")
+  .action(runLandingCommand);
+
+// Marketing command - generate Reddit marketing plan
+program
+  .command("marketing")
+  .description("Generate Reddit marketing strategy and content templates")
+  .requiredOption(
+    "-i, --input <file>",
+    "Input file with market gaps (markdown)",
+  )
+  .requiredOption("--product <name>", "Product name")
+  .requiredOption(
+    "--subreddits <list>",
+    "Comma-separated list of target subreddits",
+  )
+  .option("-o, --output <file>", "Output file for marketing plan")
+  .option("--provider <name>", "LLM provider: claude, openai, ollama")
+  .option("--model <name>", "Model name override")
+  .option("--config <file>", "Path to config file")
+  .option("--debug", "Enable debug logging")
+  .action(runMarketingCommand);
 
 async function main(urls, options) {
   // Debug mode (7-debug)
@@ -254,6 +308,93 @@ async function main(urls, options) {
     }
     console.error(`Total execution time: ${timer.elapsed()}ms`);
   }
+}
+
+// Helper: Run LLM analysis on input file with prompt template
+async function runWorkflowCommand(options, promptFile, extraContext = "") {
+  if (options.debug) {
+    setLogLevel("DEBUG");
+    log("DEBUG", "Debug mode enabled");
+  }
+
+  const config = loadConfig(options.config);
+  const timer = createTimer();
+
+  // Read input file
+  if (!fs.existsSync(options.input)) {
+    console.error(`Error: Input file not found: ${options.input}`);
+    process.exit(1);
+  }
+  const inputContent = fs.readFileSync(options.input, "utf-8");
+  console.error(`Read input: ${options.input}`);
+
+  // Read prompt template
+  const promptPath = path.join(__dirname, "prompts", promptFile);
+  if (!fs.existsSync(promptPath)) {
+    console.error(`Error: Prompt template not found: ${promptPath}`);
+    process.exit(1);
+  }
+  const promptTemplate = fs.readFileSync(promptPath, "utf-8");
+
+  // Combine prompt + extra context + input
+  const fullPrompt = promptTemplate + "\n" + extraContext + "\n" + inputContent;
+
+  // Get provider config
+  const providerConfig = getProviderConfig(config, options.provider);
+  if (options.model) {
+    providerConfig.model = options.model;
+  }
+
+  console.error(
+    `Provider: ${providerConfig.provider}, Model: ${providerConfig.model}\n`,
+  );
+  console.error("Running AI analysis...\n");
+
+  // Run analysis
+  const { LLMAnalyzer } = require("./src/analyzer");
+  const analyzer = new LLMAnalyzer(providerConfig);
+
+  try {
+    const result = await analyzer.analyze("", fullPrompt);
+
+    // Output
+    if (options.output) {
+      fs.writeFileSync(options.output, result);
+      console.error(`\n✓ Saved to: ${options.output}`);
+    } else {
+      console.log(result);
+    }
+
+    console.error(`\n✓ Complete (${timer.elapsed()}ms)`);
+  } catch (err) {
+    console.error(`\nError: ${err.message}`);
+    process.exit(1);
+  }
+}
+
+// Gaps command handler
+async function runGapsCommand(options) {
+  console.error("\n=== Market Gap Generator ===\n");
+  await runWorkflowCommand(options, "market-gaps.txt");
+}
+
+// Landing command handler
+async function runLandingCommand(options) {
+  console.error("\n=== Landing Page Prompt Generator ===\n");
+  await runWorkflowCommand(options, "landing-page.txt");
+}
+
+// Marketing command handler
+async function runMarketingCommand(options) {
+  console.error("\n=== Reddit Marketing Strategy Generator ===\n");
+  const extraContext = `
+Product Name: ${options.product}
+Target Subreddits: ${options.subreddits
+    .split(",")
+    .map((s) => "r/" + s.trim())
+    .join(", ")}
+`;
+  await runWorkflowCommand(options, "reddit-marketing.txt", extraContext);
 }
 
 program.parse();

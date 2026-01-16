@@ -1,0 +1,73 @@
+Your Mission
+From all the information provided, generate the best possible frontend-design plugin prompt for creating a high-converting landing page.
+
+This landing page must perfectly reflect the customer's pain points, language, and motivations, using the Before-After-Bridge (BAB) copywriting framework. It must also follow frontend-design plugin's best practices for structured prompts to ensure a clean, functional, and visually appealing landing page.
+
+Your role is both an expert copywriter and a frontend-design plugin landing page creation expert.
+
+Think Step by Step
+1. Summarize the key pain points, motivations, and desires expressed in the conversation.
+2. Extract the best possible customer wording from the AI-generated business insights to maintain authenticity.
+3. Craft a landing page structure that follows frontend-design plugin's best UI/UX practices and adheres to conversion best practices.
+4. Generate the perfect frontend-design plugin prompt, ensuring the AI produces not only great copy but also an effective design.
+
+Landing Page Structure (Follow this format in the frontend-design plugin Prompt)
+
+1. Above the Fold (First Section)
+This is the first thing the visitor sees when landing on the page. It must be immediately clear what the product is, who it's for, and why it matters.
+
+- Headline: (Use customer's exact wording when possible)
+  - Can be one of these:
+    - A short, direct statement of what the product does
+    - A powerful question that resonates with the visitor's pain
+    - A vision of the desired outcome
+- Subheadline: Clarifies the offer in simple words, mentioning:
+  - Who it's for
+  - What problem it solves
+  - How it's different or easier than other solutions
+- Bullet Points: 3-5 benefits of the product (each backed by a feature)
+- Call to Action (CTA): Simple, action-driven button text
+
+2. Current Pain (The "Before")
+This section vividly describes the visitor's current struggles, making them feel seen and understood.
+
+- Title: A question or statement that instantly connects with the visitor's situation
+- 3 Pain Points: Short paragraphs painting scenes of frustration (use customer wording!)
+- Belief Deconstruction: Breaks the visitor's false assumptions about the problem
+
+3. Desired Outcome (The "After")
+Now, shift the focus to what life looks like once the problem is solved.
+
+- Title: A call to imagine their transformed life
+- 3 Outcome Blocks: Short descriptions of the new reality, linked to emotions
+- New Paradigm Introduction: Introduce a new way to solve the problem
+
+4. Introducing the Product
+Now, finally introduce the offer.
+
+- Product Name + Short Description
+- 3-Step Process: If applicable, outline how it works in 3 simple steps
+- Message from the Founder: A personal statement to humanize the product
+- Final CTA Block: Last push to get the visitor to take action (with urgency)
+
+Frontend-Design Plugin Best Practices (Incorporate These!)
+- Be extremely clear in the request (no vague instructions)
+- Specify structure upfront (above-the-fold, pain points, solution, CTA, etc.)
+- Ensure strong CTA placement (after key sections)
+- Specify a clean, conversion-optimized design (modern UI, clear typography, mobile-friendly)
+- Use integrations wisely (contact form, email collection, Stripe if relevant)
+
+Output Requirements
+The frontend-design plugin prompt must:
+- Clearly instruct to create a landing page
+- Include all the required sections and design instructions
+- Use the customer's own wording for headlines, pain points, and outcomes
+- Ensure mobile responsiveness and a professional aesthetic
+
+Final Checklist
+- Clear instructions for layout & design
+- Follows conversion copywriting principles
+- Uses real customer insights from the research
+- Structured for flawless execution
+
+MARKET GAP DATA:
