@@ -10,7 +10,9 @@
     "start": "node reddit-parser.js",
     "test": "node test/test.js",
     "test:fetch": "node reddit-parser.js -s javascript --top 2 --md",
-    "test:validate": "node reddit-parser.js invalid-url || echo 'Validation working'"
+    "test:validate": "node reddit-parser.js invalid-url || echo 'Validation working'",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
   },
   "keywords": [
     "reddit",
@@ -30,5 +32,9 @@
   },
   "engines": {
     "node": ">=18.0.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.39.2",
+    "eslint": "^9.39.2"
   }
 }

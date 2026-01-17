@@ -12,11 +12,7 @@ const {
   createTimer,
   MetricsCollector,
 } = require("../src/utils");
-const {
-  parseComments,
-  flattenComments,
-  decodeHtmlEntities,
-} = require("../src/parser");
+const { flattenComments, decodeHtmlEntities } = require("../src/parser");
 const { loadPrompts } = require("../src/config");
 const fs = require("fs");
 const path = require("path");
