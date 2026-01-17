@@ -50,6 +50,27 @@ async function parseJsonSafe(response, providerName) {
   }
 }
 
+/**
+ * Check if Ollama is available at the given URL
+ * @param {string} baseUrl - Ollama base URL (default: http://localhost:11434)
+ * @returns {Promise<boolean>} - true if Ollama is available
+ */
+async function checkOllamaAvailable(baseUrl = "http://localhost:11434") {
+  try {
+    const controller = new AbortController();
+    const timeout = setTimeout(() => controller.abort(), 2000);
+
+    const res = await fetch(`${baseUrl}/api/tags`, {
+      signal: controller.signal,
+    });
+
+    clearTimeout(timeout);
+    return res.ok;
+  } catch {
+    return false;
+  }
+}
+
 class LLMAnalyzer {
   constructor(config) {
     this.provider = config.provider;
@@ -309,4 +330,5 @@ module.exports = {
   LLMAnalyzer,
   prepareContentForAnalysis,
   runAnalysis,
+  checkOllamaAvailable,
 };

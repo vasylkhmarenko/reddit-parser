@@ -14,7 +14,7 @@ const {
   formatJSON,
 } = require("./src/formatter");
 const { loadConfig, getProviderConfig, loadPrompts } = require("./src/config");
-const { runAnalysis } = require("./src/analyzer");
+const { runAnalysis, checkOllamaAvailable } = require("./src/analyzer");
 const {
   validateRedditUrl,
   validateSubreddit,
@@ -27,6 +27,66 @@ const {
 const MAX_ITEMS = 50;
 const path = require("path");
 const program = new Command();
+
+/**
+ * Auto-detect available LLM provider
+ * Priority: explicit flag > API keys > Ollama > error
+ */
+async function resolveProvider(config, options) {
+  // 1. Explicit --local flag
+  if (options.local) {
+    const ollamaUrl =
+      config.llm.providers.ollama.base_url || "http://localhost:11434";
+    const available = await checkOllamaAvailable(ollamaUrl);
+    if (!available) {
+      console.error("Error: --local flag used but Ollama is not running.");
+      console.error(`\nOllama not found at ${ollamaUrl}`);
+      console.error("\nTo use local AI:");
+      console.error("  1. Install Ollama: https://ollama.ai");
+      console.error("  2. Start Ollama and pull a model: ollama pull llama3");
+      console.error("  3. Run this command again");
+      process.exit(1);
+    }
+    return "ollama";
+  }
+
+  // 2. Explicit --provider flag
+  if (options.provider) {
+    return options.provider;
+  }
+
+  // 3. API keys set
+  if (process.env.ANTHROPIC_API_KEY) {
+    return "claude";
+  }
+  if (process.env.OPENAI_API_KEY) {
+    return "openai";
+  }
+
+  // 4. Auto-detect Ollama
+  const ollamaUrl =
+    config.llm.providers.ollama.base_url || "http://localhost:11434";
+  const ollamaAvailable = await checkOllamaAvailable(ollamaUrl);
+  if (ollamaAvailable) {
+    log("INFO", "No API key set. Using local Ollama (auto-detected)");
+    return "ollama";
+  }
+
+  // 5. No provider available
+  console.error("Error: No AI provider configured.\n");
+  console.error("Options:");
+  console.error("  1. Use local Ollama (free, no API key):");
+  console.error("     Install: https://ollama.ai");
+  console.error("     Then run: ollama pull llama3");
+  console.error("");
+  console.error("  2. Set an API key:");
+  console.error('     export ANTHROPIC_API_KEY="sk-ant-..."');
+  console.error('     export OPENAI_API_KEY="sk-..."');
+  console.error("");
+  console.error("  3. Use --provider flag:");
+  console.error("     reddit-parser --analyze --provider ollama ...");
+  process.exit(1);
+}
 
 program
   .name("reddit-parser")
@@ -49,6 +109,7 @@ program
   .option("--analyze", "Enable AI analysis")
   .option("--prompts <file>", "Path to prompts file", "./prompts.txt")
   .option("--provider <name>", "LLM provider: claude, openai, ollama")
+  .option("--local", "Use local Ollama (no API key needed)")
   .option("--model <name>", "Model name override")
   .option("--config <file>", "Path to config file")
   .option("--debug", "Enable debug logging")
@@ -65,6 +126,7 @@ program
   )
   .option("-o, --output <file>", "Output file for market gaps")
   .option("--provider <name>", "LLM provider: claude, openai, ollama")
+  .option("--local", "Use local Ollama (no API key needed)")
   .option("--model <name>", "Model name override")
   .option("--config <file>", "Path to config file")
   .option("--debug", "Enable debug logging")
@@ -80,6 +142,7 @@ program
   )
   .option("-o, --output <file>", "Output file for landing page prompt")
   .option("--provider <name>", "LLM provider: claude, openai, ollama")
+  .option("--local", "Use local Ollama (no API key needed)")
   .option("--model <name>", "Model name override")
   .option("--config <file>", "Path to config file")
   .option("--debug", "Enable debug logging")
@@ -100,6 +163,7 @@ program
   )
   .option("-o, --output <file>", "Output file for marketing plan")
   .option("--provider <name>", "LLM provider: claude, openai, ollama")
+  .option("--local", "Use local Ollama (no API key needed)")
   .option("--model <name>", "Model name override")
   .option("--config <file>", "Path to config file")
   .option("--debug", "Enable debug logging")
@@ -229,7 +293,8 @@ async function main(urls, options) {
         `Running AI analysis with ${prompts.length} prompt(s)...\n`,
       );
 
-      const providerConfig = getProviderConfig(config, options.provider);
+      const resolvedProvider = await resolveProvider(config, options);
+      const providerConfig = getProviderConfig(config, resolvedProvider);
       if (options.model) {
         providerConfig.model = options.model;
       }
@@ -351,8 +416,9 @@ async function runWorkflowCommand(options, promptFile, extraContext = "") {
   // Combine prompt + extra context + input
   const fullPrompt = promptTemplate + "\n" + extraContext + "\n" + inputContent;
 
-  // Get provider config
-  const providerConfig = getProviderConfig(config, options.provider);
+  // Get provider config with auto-detection
+  const resolvedProvider = await resolveProvider(config, options);
+  const providerConfig = getProviderConfig(config, resolvedProvider);
   if (options.model) {
     providerConfig.model = options.model;
   }
