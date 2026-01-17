@@ -82,6 +82,21 @@ async function fetchThread(redditUrl, options = {}) {
   const jsonUrl = redditUrl.replace(/\/?(\?.*)?$/, ".json");
   const data = await fetchWithRetry(jsonUrl, options);
 
+  // Validate Reddit API response structure
+  if (!Array.isArray(data) || data.length < 2) {
+    throw new Error(
+      "Unexpected Reddit API response: expected array with post and comments",
+    );
+  }
+  if (!data[0]?.data?.children?.[0]?.data) {
+    throw new Error(
+      "Unexpected Reddit API response: missing post data (post may be deleted or private)",
+    );
+  }
+  if (!data[1]?.data?.children) {
+    throw new Error("Unexpected Reddit API response: missing comments data");
+  }
+
   const postData = data[0].data.children[0].data;
   const commentsData = data[1].data.children;
 

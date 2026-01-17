@@ -250,6 +250,18 @@ async function main(urls, options) {
       console.error(`\n✓ Analysis complete\n`);
     } catch (err) {
       console.error(`Analysis error: ${err.message}`);
+
+      // Provide actionable guidance for common errors
+      if (err.message.includes("API key")) {
+        console.error(
+          "Tip: Set your API key in .env file or use --provider flag",
+        );
+      } else if (err.message.includes("timed out")) {
+        console.error(
+          "Tip: The LLM request timed out. Try again or use a different model",
+        );
+      }
+
       console.error("Continuing with raw data output...\n");
     }
   }
@@ -368,6 +380,19 @@ async function runWorkflowCommand(options, promptFile, extraContext = "") {
     console.error(`\n✓ Complete (${timer.elapsed()}ms)`);
   } catch (err) {
     console.error(`\nError: ${err.message}`);
+
+    // Provide actionable guidance for common errors
+    if (err.message.includes("API key")) {
+      console.error(
+        "\nTip: Set your API key in .env file or use --provider flag",
+      );
+    } else if (err.message.includes("timed out")) {
+      console.error(
+        "\nTip: The LLM request timed out. Try again or use a different model",
+      );
+    } else if (err.message.includes("429") || err.message.includes("rate")) {
+      console.error("\nTip: Rate limited. Wait a moment before retrying");
+    }
     process.exit(1);
   }
 }
