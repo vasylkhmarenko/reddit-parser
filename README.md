@@ -49,7 +49,13 @@ node reddit-parser.js -s javascript --top 10 --sort new --md
 ### AI Analysis
 
 ```bash
-# Analyze with Claude (default)
+# Use local Ollama (no API key needed)
+node reddit-parser.js -s webdev --top 10 --analyze --local -o report.md
+
+# Auto-detect provider (uses Ollama if available, otherwise shows setup help)
+node reddit-parser.js -s webdev --top 10 --analyze -o report.md
+
+# Analyze with Claude
 export ANTHROPIC_API_KEY=sk-ant-...
 node reddit-parser.js -s webdev --top 10 --analyze -o report.md
 
@@ -57,9 +63,18 @@ node reddit-parser.js -s webdev --top 10 --analyze -o report.md
 export OPENAI_API_KEY=sk-...
 node reddit-parser.js -s webdev --top 10 --analyze --provider openai -o report.md
 
-# Analyze with Ollama (local)
+# Analyze with Ollama (explicit)
 node reddit-parser.js -s webdev --top 5 --analyze --provider ollama --model llama3
 ```
+
+**Provider auto-detection order:**
+
+1. `--local` flag → Ollama
+2. `--provider` flag → specified provider
+3. `ANTHROPIC_API_KEY` set → Claude
+4. `OPENAI_API_KEY` set → OpenAI
+5. Ollama running → Ollama (auto-detected)
+6. Nothing available → helpful error with setup instructions
 
 ## Options
 
@@ -74,6 +89,7 @@ node reddit-parser.js -s webdev --top 5 --analyze --provider ollama --model llam
 | `--analyze`          |       | Enable AI analysis                             |
 | `--prompts <file>`   |       | Prompts file (default: ./prompts.txt)          |
 | `--provider <name>`  |       | LLM: claude, openai, ollama                    |
+| `--local`            |       | Use local Ollama (no API key needed)           |
 | `--model <name>`     |       | Model override                                 |
 | `--config <file>`    |       | Config file path                               |
 
